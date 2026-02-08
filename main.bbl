@@ -10,24 +10,36 @@ Sherhan~Upahm Abas, Fecir Duran, and Adem Tekerek.
 \newblock A raspberry pi based blockchain application on iot security.
 \newblock \emph{Expert Systems with Applications}, 229:\penalty0 120486, 2023.
 
-\bibitem[Abbadini et~al.(2023)Abbadini, Beretta, Facchinetti, Oldani, Rossi, and Paraboschi]{150}
-Marco Abbadini, Michele Beretta, Dario Facchinetti, Gianluca Oldani, Matthew Rossi, and Stefano Paraboschi.
+\bibitem[Abbadini et~al.(2023)Abbadini, Beretta, Facchinetti, Oldani, Rossi,
+  and Paraboschi]{150}
+Marco Abbadini, Michele Beretta, Dario Facchinetti, Gianluca Oldani, Matthew
+  Rossi, and Stefano Paraboschi.
 \newblock Lightweight cloud application sandboxing.
-\newblock In \emph{2023 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)}, pages 139--146. IEEE, 2023.
+\newblock In \emph{2023 IEEE International Conference on Cloud Computing
+  Technology and Science (CloudCom)}, pages 139--146. IEEE, 2023.
 
-\bibitem[Abdulah et~al.(2024)Abdulah, Ejarque, Marzouk, Ltaief, Sun, Genton, Badia, and Keyes]{178}
-Sameh Abdulah, Jorge Ejarque, Omar Marzouk, Hatem Ltaief, Ying Sun, Marc~G Genton, Rosa~M Badia, and David~E Keyes.
-\newblock Portability and scalability evaluation of large-scale statistical modeling and prediction software through hpc-ready containers.
-\newblock \emph{Future Generation Computer Systems}, 161:\penalty0 248--258, 2024.
+\bibitem[Abdulah et~al.(2024)Abdulah, Ejarque, Marzouk, Ltaief, Sun, Genton,
+  Badia, and Keyes]{178}
+Sameh Abdulah, Jorge Ejarque, Omar Marzouk, Hatem Ltaief, Ying Sun, Marc~G
+  Genton, Rosa~M Badia, and David~E Keyes.
+\newblock Portability and scalability evaluation of large-scale statistical
+  modeling and prediction software through hpc-ready containers.
+\newblock \emph{Future Generation Computer Systems}, 161:\penalty0 248--258,
+  2024.
 
 \bibitem[Agrawal and Singh(2024)]{197}
 Shreyas Agrawal and Dhawan Singh.
-\newblock Study containerization technologies like docker and kubernetes and their role in modern cloud deployments.
-\newblock In \emph{2024 IEEE 9th International Conference for Convergence in Technology (I2CT)}, pages 1--5. IEEE, 2024.
+\newblock Study containerization technologies like docker and kubernetes and
+  their role in modern cloud deployments.
+\newblock In \emph{2024 IEEE 9th International Conference for Convergence in
+  Technology (I2CT)}, pages 1--5. IEEE, 2024.
 
-\bibitem[Ajith et~al.(2024)Ajith, Cyriac, Chavda, Kiyani, Chennareddy, and Ali]{49}
-Vishnu Ajith, Tom Cyriac, Chetan Chavda, Anum~Tanveer Kiyani, Vijay Chennareddy, and Kamran Ali.
-\newblock Analyzing docker vulnerabilities through static and dynamic methods and enhancing iot security with aws iot core, cloudwatch, and guardduty.
+\bibitem[Ajith et~al.(2024)Ajith, Cyriac, Chavda, Kiyani, Chennareddy, and
+  Ali]{49}
+Vishnu Ajith, Tom Cyriac, Chetan Chavda, Anum~Tanveer Kiyani, Vijay
+  Chennareddy, and Kamran Ali.
+\newblock Analyzing docker vulnerabilities through static and dynamic methods
+  and enhancing iot security with aws iot core, cloudwatch, and guardduty.
 \newblock \emph{IoT}, 5\penalty0 (3):\penalty0 592--607, 2024.
 
 \bibitem[Aktolga et~al.(2023)Aktolga, Kuru, Sever, and Angin]{34}
@@ -37,209 +49,312 @@ Ilter~Taha Aktolga, Elif~Sena Kuru, Yigit Sever, and Pelin Angin.
 
 \bibitem[Al-Obaidi et~al.(2023)Al-Obaidi, Sorokos, and Schmidt]{189}
 Yousuf Al-Obaidi, Ioannis Sorokos, and Andreas Schmidt.
-\newblock Safetykube: Towards orchestration at the edge for critical production systems.
+\newblock Safetykube: Towards orchestration at the edge for critical production
+  systems.
 \newblock 2023.
 
 \bibitem[Al~Qausar et~al.(2023)Al~Qausar, Soeparno, Gaol, and Arifin]{195}
-Muhammad~Juan Al~Qausar, Haryono Soeparno, Ford~Lumban Gaol, and Yulyani Arifin.
-\newblock Software metrics for container-based applications: Systematic literature review.
-\newblock In \emph{2023 International Conference on Information Management and Technology (ICIMTech)}, pages 125--130. IEEE, 2023.
+Muhammad~Juan Al~Qausar, Haryono Soeparno, Ford~Lumban Gaol, and Yulyani
+  Arifin.
+\newblock Software metrics for container-based applications: Systematic
+  literature review.
+\newblock In \emph{2023 International Conference on Information Management and
+  Technology (ICIMTech)}, pages 125--130. IEEE, 2023.
 
 \bibitem[Alamoush and Eichelberger(2024)]{168}
 Ahmad Alamoush and Holger Eichelberger.
-\newblock Open source container orchestration for industry 4.0--requirements and systematic feature analysis.
-\newblock \emph{International Journal on Software Tools for Technology Transfer}, 26\penalty0 (5):\penalty0 527--550, 2024.
+\newblock Open source container orchestration for industry 4.0--requirements
+  and systematic feature analysis.
+\newblock \emph{International Journal on Software Tools for Technology
+  Transfer}, 26\penalty0 (5):\penalty0 527--550, 2024.
 
 \bibitem[Aldiabat et~al.(2024)Aldiabat, Yaseen, and Ein]{40}
 Maram Aldiabat, Qussai~M Yaseen, and Qusai~Abu Ein.
-\newblock An efficient random forest classifier for detecting malicious docker images in docker hub repository.
+\newblock An efficient random forest classifier for detecting malicious docker
+  images in docker hub repository.
 \newblock \emph{IEEE Access}, 2024.
 
 \bibitem[Alelyani et~al.(2023)Alelyani, Datta, and Hassan]{94}
 Abdullah Alelyani, Amitava Datta, and Ghulam~Mubashar Hassan.
-\newblock Dascheduler: Dependency-aware scheduling algorithm for containerized dependent jobs.
+\newblock Dascheduler: Dependency-aware scheduling algorithm for containerized
+  dependent jobs.
 \newblock \emph{Journal of Grid Computing}, 21\penalty0 (3):\penalty0 46, 2023.
 
 \bibitem[Ali et~al.(2019)Ali, Sultan, Ghani, and Zulzalil]{8747000}
-Abdulrazzaq~Qasem Ali, Abu Bakar~Md. Sultan, Abdul Azim~Abd Ghani, and Hazura Zulzalil.
-\newblock A systematic mapping study on the customization solutions of software as a service applications.
+Abdulrazzaq~Qasem Ali, Abu Bakar~Md. Sultan, Abdul Azim~Abd Ghani, and Hazura
+  Zulzalil.
+\newblock A systematic mapping study on the customization solutions of software
+  as a service applications.
 \newblock \emph{IEEE Access}, 7:\penalty0 88196--88217, 2019.
 \newblock \doi{10.1109/ACCESS.2019.2925499}.
 
 \bibitem[Alif and Munggaran(2024)]{130}
 Rayhan~Gusty Alif and Lulu~Chaerani Munggaran.
 \newblock Implementation of gitops in containerized infrastructure.
-\newblock \emph{Rabit: Jurnal Teknologi dan Sistem Informasi Univrab}, 9\penalty0 (1):\penalty0 154--161, 2024.
+\newblock \emph{Rabit: Jurnal Teknologi dan Sistem Informasi Univrab},
+  9\penalty0 (1):\penalty0 154--161, 2024.
 
-\bibitem[Almanasreh et~al.(2019)Almanasreh, Moles, and Chen]{almanasreh2019evaluation}
+\bibitem[Almanasreh et~al.(2019)Almanasreh, Moles, and
+  Chen]{almanasreh2019evaluation}
 Enas Almanasreh, Rebekah Moles, and Timothy~F Chen.
 \newblock Evaluation of methods used for estimating content validity.
-\newblock \emph{Research in social and administrative pharmacy}, 15\penalty0 (2):\penalty0 214--221, 2019.
+\newblock \emph{Research in social and administrative pharmacy}, 15\penalty0
+  (2):\penalty0 214--221, 2019.
 
 \bibitem[Almoudane(2025)]{mohamed-almoudane}
 Mohamed Almoudane.
-\newblock A comprehensive study on virtualization techniques and their role in cloud computing, 05 2025.
+\newblock A comprehensive study on virtualization techniques and their role in
+  cloud computing, 05 2025.
 
-\bibitem[{\'A}lvarez et~al.(2023){\'A}lvarez, Ram{\'\i}rez, Andi{\'o}n, Due{\~n}as, et~al.]{209}
-Guillermo~Chinarro {\'A}lvarez, C{\'e}sar Alejandro~Achig Ram{\'\i}rez, Javier Andi{\'o}n, Juan~C Due{\~n}as, et~al.
+\bibitem[{\'A}lvarez et~al.(2023){\'A}lvarez, Ram{\'\i}rez, Andi{\'o}n,
+  Due{\~n}as, et~al.]{209}
+Guillermo~Chinarro {\'A}lvarez, C{\'e}sar Alejandro~Achig Ram{\'\i}rez, Javier
+  Andi{\'o}n, Juan~C Due{\~n}as, et~al.
 \newblock Toward an integrated and supported machine learning process.
-\newblock In \emph{2023 7th International Young Engineers Forum (YEF-ECE)}, pages 37--42. IEEE, 2023.
+\newblock In \emph{2023 7th International Young Engineers Forum (YEF-ECE)},
+  pages 37--42. IEEE, 2023.
 
-\bibitem[Alyas et~al.(2023)Alyas, Tabassum, Iqbal, Alshahrani, Alghamdi, and Shahzad]{185}
-Tahir Alyas, Nadia Tabassum, Muhammad~Waseem Iqbal, Abdullah~S Alshahrani, Ahmed Alghamdi, and Syed~Khuram Shahzad.
-\newblock Resource based automatic calibration system (rbacs) using kubernetes framework.
-\newblock \emph{Intelligent Automation \& Soft Computing}, 35\penalty0 (1), 2023.
+\bibitem[Alyas et~al.(2023)Alyas, Tabassum, Iqbal, Alshahrani, Alghamdi, and
+  Shahzad]{185}
+Tahir Alyas, Nadia Tabassum, Muhammad~Waseem Iqbal, Abdullah~S Alshahrani,
+  Ahmed Alghamdi, and Syed~Khuram Shahzad.
+\newblock Resource based automatic calibration system (rbacs) using kubernetes
+  framework.
+\newblock \emph{Intelligent Automation \& Soft Computing}, 35\penalty0 (1),
+  2023.
 
-\bibitem[Amoiridis et~al.(2024)Amoiridis, Behrens, Bocci, Branson, Brummer, Cano, Cittolin, Da~Quintanilha, Darlea, Deldicque, et~al.]{211}
-Vassileios Amoiridis, Ulf Behrens, Andrea Bocci, James Branson, Philipp Brummer, Eric Cano, Sergio Cittolin, Joao Da Silva~Almeida Da~Quintanilha, Georgiana-Lavinia Darlea, Christian Deldicque, et~al.
+\bibitem[Amoiridis et~al.(2024)Amoiridis, Behrens, Bocci, Branson, Brummer,
+  Cano, Cittolin, Da~Quintanilha, Darlea, Deldicque, et~al.]{211}
+Vassileios Amoiridis, Ulf Behrens, Andrea Bocci, James Branson, Philipp
+  Brummer, Eric Cano, Sergio Cittolin, Joao Da Silva~Almeida Da~Quintanilha,
+  Georgiana-Lavinia Darlea, Christian Deldicque, et~al.
 \newblock Towards a container-based architecture for cms data acquisition.
-\newblock In \emph{EPJ Web of Conferences}, volume 295, page 02031. EDP Sciences, 2024.
+\newblock In \emph{EPJ Web of Conferences}, volume 295, page 02031. EDP
+  Sciences, 2024.
 
-\bibitem[Antonova et~al.(2024)Antonova, Egorov, Blinov, Malikova, and Malikov]{198}
+\bibitem[Antonova et~al.(2024)Antonova, Egorov, Blinov, Malikova, and
+  Malikov]{198}
 VM~Antonova, MA~Egorov, VP~Blinov, EE~Malikova, and AY~Malikov.
-\newblock Studying the principles of infocommunication network virtualisation using the docker platform.
-\newblock In \emph{2024 Systems of Signals Generating and Processing in the Field of on Board Communications}, pages 1--5. IEEE, 2024.
+\newblock Studying the principles of infocommunication network virtualisation
+  using the docker platform.
+\newblock In \emph{2024 Systems of Signals Generating and Processing in the
+  Field of on Board Communications}, pages 1--5. IEEE, 2024.
 
 \bibitem[Arifiansyah et~al.(2023)]{218}
 Fitra Arifiansyah et~al.
 \newblock Utilization of virtual reality for docker learning.
-\newblock In \emph{2023 IEEE International Conference on Data and Software Engineering (ICoDSE)}, pages 244--249. IEEE, 2023.
+\newblock In \emph{2023 IEEE International Conference on Data and Software
+  Engineering (ICoDSE)}, pages 244--249. IEEE, 2023.
 
 \bibitem[Ashari et~al.(2023)Ashari, Bhawiyuga, and Basuki]{206}
 Muhammad~Fikri Ashari, Adhitya Bhawiyuga, and Achmad Basuki.
-\newblock The development of hands-on lab platform using container-based virtualization technology.
-\newblock In \emph{Proceedings of the 8th International Conference on Sustainable Information Engineering and Technology}, pages 304--310, 2023.
+\newblock The development of hands-on lab platform using container-based
+  virtualization technology.
+\newblock In \emph{Proceedings of the 8th International Conference on
+  Sustainable Information Engineering and Technology}, pages 304--310, 2023.
 
 \bibitem[Augustyn et~al.(2024)Augustyn, Wyci{\'s}lik, and Sojka]{213}
 Dariusz~R Augustyn, {\L}ukasz Wyci{\'s}lik, and Mateusz Sojka.
-\newblock Tuning a kubernetes horizontal pod autoscaler for meeting performance and load demands in cloud deployments.
+\newblock Tuning a kubernetes horizontal pod autoscaler for meeting performance
+  and load demands in cloud deployments.
 \newblock \emph{Applied Sciences}, 14\penalty0 (2):\penalty0 646, 2024.
 
 \bibitem[Aung et~al.(2024)Aung, Aung, Funabiki, Kyaw, and Kao]{42}
-Lynn~Htet Aung, Soe~Thandar Aung, Nobuo Funabiki, Htoo Htoo~Sandi Kyaw, and Wen-Chung Kao.
-\newblock An implementation of web-based answer platform in the flutter programming learning assistant system using docker compose.
+Lynn~Htet Aung, Soe~Thandar Aung, Nobuo Funabiki, Htoo Htoo~Sandi Kyaw, and
+  Wen-Chung Kao.
+\newblock An implementation of web-based answer platform in the flutter
+  programming learning assistant system using docker compose.
 \newblock \emph{Electronics}, 13\penalty0 (24):\penalty0 4878, 2024.
 
 \bibitem[Azuma et~al.(2022)Azuma, Matsumoto, Kamei, and Kusumoto]{44}
 Hideaki Azuma, Shinsuke Matsumoto, Yasutaka Kamei, and Shinji Kusumoto.
 \newblock An empirical study on self-admitted technical debt in dockerfiles.
-\newblock \emph{Empirical Software Engineering}, 27\penalty0 (2):\penalty0 49, 2022.
+\newblock \emph{Empirical Software Engineering}, 27\penalty0 (2):\penalty0 49,
+  2022.
 
 \bibitem[Bannon(2022)]{149}
 Ryan Bannon.
-\newblock \emph{Leveraging machine learning to reduce cold start latency of containers in serverless computing}.
+\newblock \emph{Leveraging machine learning to reduce cold start latency of
+  containers in serverless computing}.
 \newblock PhD thesis, Dublin, National College of Ireland, 2022.
 
 \bibitem[Barbie et~al.(2023)Barbie, Hasselbring, and Hansen]{112}
 Alexander Barbie, Wilhelm Hasselbring, and Malte Hansen.
-\newblock Enabling automated integration testing of smart farming applications via digital twin prototypes.
-\newblock In \emph{2023 IEEE Smart World Congress (SWC)}, pages 1--8. IEEE, 2023.
+\newblock Enabling automated integration testing of smart farming applications
+  via digital twin prototypes.
+\newblock In \emph{2023 IEEE Smart World Congress (SWC)}, pages 1--8. IEEE,
+  2023.
 
 \bibitem[Baresi et~al.(2024{\natexlab{a}})Baresi, Quattrocchi, and Rasi]{32}
 Luciano Baresi, Giovanni Quattrocchi, and Nicholas Rasi.
 \newblock A qualitative and quantitative analysis of container engines.
-\newblock \emph{Journal of Systems and Software}, 210:\penalty0 111965, 2024{\natexlab{a}}.
+\newblock \emph{Journal of Systems and Software}, 210:\penalty0 111965,
+  2024{\natexlab{a}}.
 
-\bibitem[Baresi et~al.(2024{\natexlab{b}})Baresi, Quattrocchi, and Rasi]{BARESI2024111965}
+\bibitem[Baresi et~al.(2024{\natexlab{b}})Baresi, Quattrocchi, and
+  Rasi]{BARESI2024111965}
 Luciano Baresi, Giovanni Quattrocchi, and Nicholas Rasi.
 \newblock A qualitative and quantitative analysis of container engines.
-\newblock \emph{Journal of Systems and Software}, 210:\penalty0 111965, 2024{\natexlab{b}}.
+\newblock \emph{Journal of Systems and Software}, 210:\penalty0 111965,
+  2024{\natexlab{b}}.
 \newblock ISSN 0164-1212.
 \newblock \doi{https://doi.org/10.1016/j.jss.2024.111965}.
-\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S0164121224000086}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0164121224000086}.
 
-\bibitem[Barletta et~al.(2024{\natexlab{a}})Barletta, Cinque, Di~Martino, Kalbarczyk, and Iyer]{160}
-Marco Barletta, Marcello Cinque, Catello Di~Martino, Zbigniew~T Kalbarczyk, and Ravishankar~K Iyer.
+\bibitem[Barletta et~al.(2024{\natexlab{a}})Barletta, Cinque, Di~Martino,
+  Kalbarczyk, and Iyer]{160}
+Marco Barletta, Marcello Cinque, Catello Di~Martino, Zbigniew~T Kalbarczyk, and
+  Ravishankar~K Iyer.
 \newblock Mutiny! how does kubernetes fail, and what can we do about it?
-\newblock In \emph{2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, pages 1--14. IEEE, 2024{\natexlab{a}}.
+\newblock In \emph{2024 54th Annual IEEE/IFIP International Conference on
+  Dependable Systems and Networks (DSN)}, pages 1--14. IEEE,
+  2024{\natexlab{a}}.
 
-\bibitem[Barletta et~al.(2024{\natexlab{b}})Barletta, De~Simone, Della~Corte, and Di~Martino]{123}
+\bibitem[Barletta et~al.(2024{\natexlab{b}})Barletta, De~Simone, Della~Corte,
+  and Di~Martino]{123}
 Marco Barletta, Luigi De~Simone, Raffaele Della~Corte, and Catello Di~Martino.
-\newblock Failover timing analysis in orchestrating container-based critical applications.
-\newblock In \emph{2024 19th European Dependable Computing Conference (EDCC)}, pages 81--84. IEEE, 2024{\natexlab{b}}.
+\newblock Failover timing analysis in orchestrating container-based critical
+  applications.
+\newblock In \emph{2024 19th European Dependable Computing Conference (EDCC)},
+  pages 81--84. IEEE, 2024{\natexlab{b}}.
 
 \bibitem[Barnawi et~al.(2024)Barnawi, AITooq, and Almukaynizi]{158}
 Nada Barnawi, Razan AITooq, and Mohammed Almukaynizi.
-\newblock Mitigating container escape threats through effective countermeasures: A survey.
-\newblock In \emph{Proceedings of the 10th World Congress on Electrical Engineering and Computer Systems and Sciences (EECSS’24)}, 2024.
+\newblock Mitigating container escape threats through effective
+  countermeasures: A survey.
+\newblock In \emph{Proceedings of the 10th World Congress on Electrical
+  Engineering and Computer Systems and Sciences (EECSS’24)}, 2024.
 
-\bibitem[Barros et~al.(2024)Barros, Oliveira, Orang, da~Silva, Erazo-Costa, Bastos, Silva, dos Santos, Loureiro, Ravetti, et~al.]{125}
-Pedro~HSS Barros, Marcelo~QA Oliveira, Omid Orang, Felipe~AR da~Silva, Fabricio~J Erazo-Costa, Allana~Tavares Bastos, Petr{\^o}nio~CL Silva, Glauber~Soares dos Santos, Antonio~AF Loureiro, Mart{\'\i}n~G{\'o}mez Ravetti, et~al.
+\bibitem[Barros et~al.(2024)Barros, Oliveira, Orang, da~Silva, Erazo-Costa,
+  Bastos, Silva, dos Santos, Loureiro, Ravetti, et~al.]{125}
+Pedro~HSS Barros, Marcelo~QA Oliveira, Omid Orang, Felipe~AR da~Silva,
+  Fabricio~J Erazo-Costa, Allana~Tavares Bastos, Petr{\^o}nio~CL Silva,
+  Glauber~Soares dos Santos, Antonio~AF Loureiro, Mart{\'\i}n~G{\'o}mez
+  Ravetti, et~al.
 \newblock Flautim: A federated learning platform using k8s and flower.
-\newblock In \emph{Simp{\'o}sio Brasileiro de Sistemas Multim{\'\i}dia e Web (WebMedia)}, pages 87--90. SBC, 2024.
+\newblock In \emph{Simp{\'o}sio Brasileiro de Sistemas Multim{\'\i}dia e Web
+  (WebMedia)}, pages 87--90. SBC, 2024.
 
-\bibitem[Bellavista et~al.(2024)Bellavista, Dahdal, Foschini, Tazzioli, Tortonesi, and Venanzi]{142}
-Paolo Bellavista, Simon Dahdal, Luca Foschini, Davide Tazzioli, Mauro Tortonesi, and Riccardo Venanzi.
-\newblock Kubernetes enhanced stateful service migration for ml-driven applications in industry 4.0 scenarios.
-\newblock In \emph{2024 IEEE Annual Congress on Artificial Intelligence of Things (AIoT)}, pages 25--31. IEEE, 2024.
+\bibitem[Bellavista et~al.(2024)Bellavista, Dahdal, Foschini, Tazzioli,
+  Tortonesi, and Venanzi]{142}
+Paolo Bellavista, Simon Dahdal, Luca Foschini, Davide Tazzioli, Mauro
+  Tortonesi, and Riccardo Venanzi.
+\newblock Kubernetes enhanced stateful service migration for ml-driven
+  applications in industry 4.0 scenarios.
+\newblock In \emph{2024 IEEE Annual Congress on Artificial Intelligence of
+  Things (AIoT)}, pages 25--31. IEEE, 2024.
 
-\bibitem[Bentaleb et~al.(2022{\natexlab{a}})Bentaleb, Belloum, Sebaa, and El-Maouhab]{88}
+\bibitem[Bentaleb et~al.(2022{\natexlab{a}})Bentaleb, Belloum, Sebaa, and
+  El-Maouhab]{88}
 Ouafa Bentaleb, Adam~SZ Belloum, Abderrazak Sebaa, and Aouaouche El-Maouhab.
-\newblock Containerization technologies: Taxonomies, applications and challenges.
-\newblock \emph{The Journal of Supercomputing}, 78\penalty0 (1):\penalty0 1144--1181, 2022{\natexlab{a}}.
+\newblock Containerization technologies: Taxonomies, applications and
+  challenges.
+\newblock \emph{The Journal of Supercomputing}, 78\penalty0 (1):\penalty0
+  1144--1181, 2022{\natexlab{a}}.
 
-\bibitem[Bentaleb et~al.(2022{\natexlab{b}})Bentaleb, Belloum, Sebaa, and El-Maouhab]{Bentaleb2022}
+\bibitem[Bentaleb et~al.(2022{\natexlab{b}})Bentaleb, Belloum, Sebaa, and
+  El-Maouhab]{Bentaleb2022}
 Ouafa Bentaleb, Adam~S.Z. Belloum, Abderrazak Sebaa, and Aouaouche El-Maouhab.
-\newblock {Containerization technologies: taxonomies, applications and challenges}.
-\newblock \emph{Journal of Supercomputing}, 78\penalty0 (1):\penalty0 1144--1181, 2022{\natexlab{b}}.
+\newblock {Containerization technologies: taxonomies, applications and
+  challenges}.
+\newblock \emph{Journal of Supercomputing}, 78\penalty0 (1):\penalty0
+  1144--1181, 2022{\natexlab{b}}.
 \newblock ISSN 15730484.
 \newblock \doi{10.1007/s11227-021-03914-1}.
 \newblock URL \url{https://doi.org/10.1007/s11227-021-03914-1}.
 
-\bibitem[Bentaleb et~al.(2022{\natexlab{c}})Bentaleb, Sebaa, Kalli, and Belloum]{98}
+\bibitem[Bentaleb et~al.(2022{\natexlab{c}})Bentaleb, Sebaa, Kalli, and
+  Belloum]{98}
 Ouafa Bentaleb, Abderrazak Sebaa, S~Kalli, and Adam~SZ Belloum.
-\newblock Deployment of a programming framework based on microservices and containers with application to the astrophysical domain.
-\newblock \emph{Astronomy and Computing}, 41:\penalty0 100655, 2022{\natexlab{c}}.
+\newblock Deployment of a programming framework based on microservices and
+  containers with application to the astrophysical domain.
+\newblock \emph{Astronomy and Computing}, 41:\penalty0 100655,
+  2022{\natexlab{c}}.
 
 \bibitem[Benzi et~al.(2022)Benzi, Lagorio, and Ribaudo]{58}
 Matteo Benzi, Giovanni Lagorio, and Marina Ribaudo.
 \newblock Automatic challenge generation for hands-on cybersecurity training.
-\newblock In \emph{2022 IEEE European Symposium on Security and Privacy Workshops (EuroS\&PW)}, pages 496--503. IEEE, 2022.
+\newblock In \emph{2022 IEEE European Symposium on Security and Privacy
+  Workshops (EuroS\&PW)}, pages 496--503. IEEE, 2022.
 
-\bibitem[Betz et~al.(2024)Betz, Wen, Pan, Kaljavesi, Zuepke, Bastoni, Caccamo, Knoll, and Betz]{10}
-Tobias Betz, Long Wen, Fengjunjie Pan, Gemb Kaljavesi, Alexander Zuepke, Andrea Bastoni, Marco Caccamo, Alois Knoll, and Johannes Betz.
-\newblock A containerized microservice architecture for a ros 2 autonomous driving software: An end-to-end latency evaluation.
-\newblock In \emph{2024 IEEE 30th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)}, pages 57--66. IEEE, 2024.
+\bibitem[Betz et~al.(2024)Betz, Wen, Pan, Kaljavesi, Zuepke, Bastoni, Caccamo,
+  Knoll, and Betz]{10}
+Tobias Betz, Long Wen, Fengjunjie Pan, Gemb Kaljavesi, Alexander Zuepke, Andrea
+  Bastoni, Marco Caccamo, Alois Knoll, and Johannes Betz.
+\newblock A containerized microservice architecture for a ros 2 autonomous
+  driving software: An end-to-end latency evaluation.
+\newblock In \emph{2024 IEEE 30th International Conference on Embedded and
+  Real-Time Computing Systems and Applications (RTCSA)}, pages 57--66. IEEE,
+  2024.
 
-\bibitem[Bhuiyan et~al.(2024)Bhuiyan, Das, Majumder, Majumdar, and Hossain]{162}
-Md~Olid~Hasan Bhuiyan, Souvik Das, Shafayat~H Majumder, Suryadipta Majumdar, and Md~Shohrab Hossain.
-\newblock On detecting malicious code injection by monitoring multi-level container activities.
+\bibitem[Bhuiyan et~al.(2024)Bhuiyan, Das, Majumder, Majumdar, and
+  Hossain]{162}
+Md~Olid~Hasan Bhuiyan, Souvik Das, Shafayat~H Majumder, Suryadipta Majumdar,
+  and Md~Shohrab Hossain.
+\newblock On detecting malicious code injection by monitoring multi-level
+  container activities.
 \newblock In \emph{CLOSER}, pages 15--26, 2024.
 
 \bibitem[Blanco et~al.(2023)Blanco, Le~Mou{\"e}l, Lin, and Rekik]{66}
-David~Fern{\'a}ndez Blanco, Fr{\'e}d{\'e}ric Le~Mou{\"e}l, Trista Lin, and Amir Rekik.
+David~Fern{\'a}ndez Blanco, Fr{\'e}d{\'e}ric Le~Mou{\"e}l, Trista Lin, and Amir
+  Rekik.
 \newblock Can software containerisation fit the car on-board systems?
-\newblock In \emph{2023 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)}, pages 123--130. IEEE, 2023.
+\newblock In \emph{2023 IEEE International Conference on Cloud Computing
+  Technology and Science (CloudCom)}, pages 123--130. IEEE, 2023.
 
 \bibitem[Botez et~al.(2022)Botez, Petruti, Ivanciu, and Dobrota]{146}
-Robert Botez, C{\u{a}}r{\u{a}}lin-Marian Petruti, Iustin-Alexandru Ivanciu, and Virgil Dobrota.
-\newblock Kubernetes-based load balancer as a service for private cloud infrastructures.
-\newblock In \emph{2022 14th International Conference on Communications (COMM)}, pages 1--6. IEEE, 2022.
+Robert Botez, C{\u{a}}r{\u{a}}lin-Marian Petruti, Iustin-Alexandru Ivanciu, and
+  Virgil Dobrota.
+\newblock Kubernetes-based load balancer as a service for private cloud
+  infrastructures.
+\newblock In \emph{2022 14th International Conference on Communications
+  (COMM)}, pages 1--6. IEEE, 2022.
 
-\bibitem[Bracke et~al.(2023)Bracke, Werrebrouck, Santos, Wauters, De~Turck, and Volckaert]{167}
-Vincent Bracke, Gillis Werrebrouck, Jos{\'e} Santos, Tim Wauters, Filip De~Turck, and Bruno Volckaert.
-\newblock Online dynamic container rescheduling for improved application service time.
-\newblock \emph{Journal of Network and Systems Management}, 31\penalty0 (4):\penalty0 80, 2023.
+\bibitem[Bracke et~al.(2023)Bracke, Werrebrouck, Santos, Wauters, De~Turck, and
+  Volckaert]{167}
+Vincent Bracke, Gillis Werrebrouck, Jos{\'e} Santos, Tim Wauters, Filip
+  De~Turck, and Bruno Volckaert.
+\newblock Online dynamic container rescheduling for improved application
+  service time.
+\newblock \emph{Journal of Network and Systems Management}, 31\penalty0
+  (4):\penalty0 80, 2023.
 
-\bibitem[Bracke et~al.(2024)Bracke, Santos, Wauters, De~Turck, and Volckaert]{19}
-Vincent Bracke, Jos{\'e} Santos, Tim Wauters, Filip De~Turck, and Bruno Volckaert.
-\newblock A multiobjective metaheuristic-based container consolidation model for cloud application performance improvement.
-\newblock \emph{Journal of Network and Systems Management}, 32\penalty0 (3):\penalty0 61, 2024.
+\bibitem[Bracke et~al.(2024)Bracke, Santos, Wauters, De~Turck, and
+  Volckaert]{19}
+Vincent Bracke, Jos{\'e} Santos, Tim Wauters, Filip De~Turck, and Bruno
+  Volckaert.
+\newblock A multiobjective metaheuristic-based container consolidation model
+  for cloud application performance improvement.
+\newblock \emph{Journal of Network and Systems Management}, 32\penalty0
+  (3):\penalty0 61, 2024.
 
 \bibitem[Burchart and Haake(2024)]{199}
 Marc Burchart and Joerg~M Haake.
-\newblock Supporting collaborative writing tasks in large-scale distance education.
-\newblock \emph{IEEE Transactions on Learning Technologies}, 17:\penalty0 1051--1068, 2024.
+\newblock Supporting collaborative writing tasks in large-scale distance
+  education.
+\newblock \emph{IEEE Transactions on Learning Technologies}, 17:\penalty0
+  1051--1068, 2024.
 
-\bibitem[Candela-Uribe et~al.(2020)Candela-Uribe, Sepúlveda-Rodríguez, Chavarro-Porras, Sanabria-Ordoñez, Garrido, Rodríguez-Domínguez, and Guerrero-Contreras]{candela2020smsbuilder}
-C.A. Candela-Uribe, L.E. Sepúlveda-Rodríguez, J.C. Chavarro-Porras, J.A. Sanabria-Ordoñez, J.L. Garrido, C.~Rodríguez-Domínguez, and G.~Guerrero-Contreras.
+\bibitem[Candela-Uribe et~al.(2020)Candela-Uribe, Sepúlveda-Rodríguez,
+  Chavarro-Porras, Sanabria-Ordoñez, Garrido, Rodríguez-Domínguez, and
+  Guerrero-Contreras]{candela2020smsbuilder}
+C.A. Candela-Uribe, L.E. Sepúlveda-Rodríguez, J.C. Chavarro-Porras, J.A.
+  Sanabria-Ordoñez, J.L. Garrido, C.~Rodríguez-Domínguez, and
+  G.~Guerrero-Contreras.
 \newblock {SMS-Builder Project}.
 \newblock \url{https://github.com/grid-uq/sms-builder}, 2020.
 \newblock Accessed: 2025-08-11.
 
-\bibitem[Candela-Uribe et~al.(2022)Candela-Uribe, Sep{\'{u}}lveda-Rodr{\'{i}}guez, Chavarro-Porras, Sanabria-Ordo{\~{n}}ez, Garrido, Rodr{\'{i}}guez-Dom{\'{i}}nguez, and Guerrero-Contreras]{Candela-Uribe2022}
-Christian~A. Candela-Uribe, Luis~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, Julio~C. Chavarro-Porras, John~A. Sanabria-Ordo{\~{n}}ez, Jos{\'{e}}~Luis Garrido, Carlos Rodr{\'{i}}guez-Dom{\'{i}}nguez, and Gabriel Guerrero-Contreras.
-\newblock {SMS-Builder: An adaptive software tool for building systematic mapping studies}.
+\bibitem[Candela-Uribe et~al.(2022)Candela-Uribe,
+  Sep{\'{u}}lveda-Rodr{\'{i}}guez, Chavarro-Porras, Sanabria-Ordo{\~{n}}ez,
+  Garrido, Rodr{\'{i}}guez-Dom{\'{i}}nguez, and
+  Guerrero-Contreras]{Candela-Uribe2022}
+Christian~A. Candela-Uribe, Luis~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, Julio~C.
+  Chavarro-Porras, John~A. Sanabria-Ordo{\~{n}}ez, Jos{\'{e}}~Luis Garrido,
+  Carlos Rodr{\'{i}}guez-Dom{\'{i}}nguez, and Gabriel Guerrero-Contreras.
+\newblock {SMS-Builder: An adaptive software tool for building systematic
+  mapping studies}.
 \newblock \emph{SoftwareX}, 17:\penalty0 100935, 2022.
 \newblock ISSN 23527110.
 \newblock \doi{10.1016/j.softx.2021.100935}.
@@ -247,33 +362,42 @@ Christian~A. Candela-Uribe, Luis~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, Julio~C. Ch
 
 \bibitem[Candemir and {\.I}ncereis(2024)]{74}
 Ali~{\.I}hsan Candemir and Nilg{\"u}n {\.I}ncereis.
-\newblock Comparative analysis of transaction performance in different virtualization environments.
+\newblock Comparative analysis of transaction performance in different
+  virtualization environments.
 \newblock \emph{Acta Infologica}, 8\penalty0 (2):\penalty0 176--187, 2024.
 
 \bibitem[Carri{\'o}n(2022{\natexlab{a}})]{144}
 Carmen Carri{\'o}n.
 \newblock Kubernetes scheduling: Taxonomy, ongoing issues and challenges.
-\newblock \emph{ACM Computing Surveys}, 55\penalty0 (7):\penalty0 1--37, 2022{\natexlab{a}}.
+\newblock \emph{ACM Computing Surveys}, 55\penalty0 (7):\penalty0 1--37,
+  2022{\natexlab{a}}.
 
 \bibitem[Carri{\'o}n(2022{\natexlab{b}})]{145}
 Carmen Carri{\'o}n.
-\newblock Kubernetes as a standard container orchestrator-a bibliometric analysis.
-\newblock \emph{Journal of Grid Computing}, 20\penalty0 (4):\penalty0 42, 2022{\natexlab{b}}.
+\newblock Kubernetes as a standard container orchestrator-a bibliometric
+  analysis.
+\newblock \emph{Journal of Grid Computing}, 20\penalty0 (4):\penalty0 42,
+  2022{\natexlab{b}}.
 
 \bibitem[Chamoli and Mittal(2023)]{103}
 Sushant Chamoli and Varsha Mittal.
 \newblock Docker networking: A security review.
-\newblock In \emph{2023 7th International Conference on Trends in Electronics and Informatics (ICOEI)}, pages 624--629. IEEE, 2023.
+\newblock In \emph{2023 7th International Conference on Trends in Electronics
+  and Informatics (ICOEI)}, pages 624--629. IEEE, 2023.
 
 \bibitem[Chaurasia et~al.(2022)Chaurasia, Nath, Addya, and Ghosh]{59}
 Pravar Chaurasia, Shubha~Brata Nath, Sourav~Kanti Addya, and Soumya~K Ghosh.
-\newblock Automating the selection of container orchestrators for service deployment.
-\newblock In \emph{2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS)}, pages 739--743. IEEE, 2022.
+\newblock Automating the selection of container orchestrators for service
+  deployment.
+\newblock In \emph{2022 14th International Conference on COMmunication Systems
+  \& NETworkS (COMSNETS)}, pages 739--743. IEEE, 2022.
 
 \bibitem[Chen et~al.(2022)Chen, Shen, and Liu]{79}
 Chen Chen, Wei Shen, and Honghai Liu.
-\newblock Construction of cloud computing password application system based on docker technology.
-\newblock In \emph{2022 International Conference on Artificial Intelligence of Things and Crowdsensing (AIoTCs)}, pages 175--179. IEEE, 2022.
+\newblock Construction of cloud computing password application system based on
+  docker technology.
+\newblock In \emph{2022 International Conference on Artificial Intelligence of
+  Things and Crowdsensing (AIoTCs)}, pages 175--179. IEEE, 2022.
 
 \bibitem[Chen et~al.(2024)Chen, Zhao, Guo, Gu, Han, and Tang]{9}
 Kai Chen, Yufei Zhao, Jing Guo, Zhimin Gu, Longxi Han, and Keyi Tang.
@@ -281,19 +405,26 @@ Kai Chen, Yufei Zhao, Jing Guo, Zhimin Gu, Longxi Han, and Keyi Tang.
 \newblock \emph{Electronics}, 13\penalty0 (23):\penalty0 4773, 2024.
 
 \bibitem[Choi et~al.(2024)Choi, Seo, Kim, You, Shin, and Kim]{214}
-Dongmin Choi, Hyunmin Seo, Kwanwoo Kim, Myoungsung You, Seungwon Shin, and Jinwoo Kim.
-\newblock Uncovering threats in container systems: A study on misconfigured container components in the wild.
+Dongmin Choi, Hyunmin Seo, Kwanwoo Kim, Myoungsung You, Seungwon Shin, and
+  Jinwoo Kim.
+\newblock Uncovering threats in container systems: A study on misconfigured
+  container components in the wild.
 \newblock \emph{IEEE Access}, 2024.
 
 \bibitem[Choi et~al.(2023{\natexlab{a}})Choi, Seo, Han, Ryu, and Kang]{93}
 Kihan Choi, Hyungseok Seo, Hyuck Han, Minsoo Ryu, and Sooyong Kang.
 \newblock Credscache: Making overlayfs scalable for containerized services.
-\newblock \emph{Future Generation Computer Systems}, 147:\penalty0 44--58, 2023{\natexlab{a}}.
+\newblock \emph{Future Generation Computer Systems}, 147:\penalty0 44--58,
+  2023{\natexlab{a}}.
 
-\bibitem[Choi et~al.(2023{\natexlab{b}})Choi, Roy, Nguyen, Ahmad, Maghami, Nassar, Li, Castronova, Malik, Wang, et~al.]{75}
-Young-Don Choi, Binata Roy, Jared Nguyen, Raza Ahmad, Iman Maghami, Ayman Nassar, Zhiyu Li, Anthony~M Castronova, Tanu Malik, Shaowen Wang, et~al.
-\newblock Comparing containerization-based approaches for reproducible computational modeling of environmental systems.
-\newblock \emph{Environmental Modelling \& Software}, 167:\penalty0 105760, 2023{\natexlab{b}}.
+\bibitem[Choi et~al.(2023{\natexlab{b}})Choi, Roy, Nguyen, Ahmad, Maghami,
+  Nassar, Li, Castronova, Malik, Wang, et~al.]{75}
+Young-Don Choi, Binata Roy, Jared Nguyen, Raza Ahmad, Iman Maghami, Ayman
+  Nassar, Zhiyu Li, Anthony~M Castronova, Tanu Malik, Shaowen Wang, et~al.
+\newblock Comparing containerization-based approaches for reproducible
+  computational modeling of environmental systems.
+\newblock \emph{Environmental Modelling \& Software}, 167:\penalty0 105760,
+  2023{\natexlab{b}}.
 
 \bibitem[Clement(2025)]{clemente-mateo}
 Mateo Clement.
@@ -302,161 +433,238 @@ Mateo Clement.
 
 \bibitem[Daki{\'c} et~al.(2024)Daki{\'c}, Kova{\v{c}}, and Slovinac]{121}
 Vedran Daki{\'c}, Mario Kova{\v{c}}, and Jurica Slovinac.
-\newblock Evolving high-performance computing data centers with kubernetes, performance analysis, and dynamic workload placement based on machine learning scheduling.
+\newblock Evolving high-performance computing data centers with kubernetes,
+  performance analysis, and dynamic workload placement based on machine
+  learning scheduling.
 \newblock \emph{Electronics}, 13\penalty0 (13):\penalty0 2651, 2024.
 
-\bibitem[de~Oliveira~Filho et~al.(2024)de~Oliveira~Filho, Freitas, do~Carmo, Souto, Kelner, and Sadok]{48}
-Assis~T de~Oliveira~Filho, Eduardo Freitas, Pedro~RX do~Carmo, Eduardo Souto, Judith Kelner, and Djamel~FH Sadok.
+\bibitem[de~Oliveira~Filho et~al.(2024)de~Oliveira~Filho, Freitas, do~Carmo,
+  Souto, Kelner, and Sadok]{48}
+Assis~T de~Oliveira~Filho, Eduardo Freitas, Pedro~RX do~Carmo, Eduardo Souto,
+  Judith Kelner, and Djamel~FH Sadok.
 \newblock Analysis of sr-iov in docker containers using rtt measurements.
 \newblock \emph{Computer Communications}, 228:\penalty0 107961, 2024.
 
 \bibitem[Deng et~al.(2022)Deng, Tan, Yang, Zheng, Wang, and Xu]{23}
 Qiqing Deng, Xinrui Tan, Jing Yang, Chao Zheng, Liming Wang, and Zhen Xu.
-\newblock A secure container placement strategy using deep reinforcement learning in cloud.
-\newblock In \emph{2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)}, pages 1299--1304. IEEE, 2022.
+\newblock A secure container placement strategy using deep reinforcement
+  learning in cloud.
+\newblock In \emph{2022 IEEE 25th International Conference on Computer
+  Supported Cooperative Work in Design (CSCWD)}, pages 1299--1304. IEEE, 2022.
 
-\bibitem[Dimova et~al.(2024)Dimova, Kalendar, Denkovski, Efnusheva, and Kalendar]{43}
-Tanja Dimova, Igor Kalendar, Daniel Denkovski, Danijela Efnusheva, and Marija Kalendar.
-\newblock An innovative approach of api automation testing implemented on cloud environments using container management services.
+\bibitem[Dimova et~al.(2024)Dimova, Kalendar, Denkovski, Efnusheva, and
+  Kalendar]{43}
+Tanja Dimova, Igor Kalendar, Daniel Denkovski, Danijela Efnusheva, and Marija
+  Kalendar.
+\newblock An innovative approach of api automation testing implemented on cloud
+  environments using container management services.
 \newblock 2024.
 
-\bibitem[Dipta et~al.(2024)Dipta, Tiemann, Gulmezoglu, Marin, and Eisenbarth]{107}
-Debopriya~Roy Dipta, Thore Tiemann, Berk Gulmezoglu, Eduard Marin, and Thomas Eisenbarth.
-\newblock Dynamic frequency-based fingerprinting attacks against modern sandbox environments.
-\newblock In \emph{2024 IEEE 9th European Symposium on Security and Privacy (EuroS\&P)}, pages 327--344. IEEE, 2024.
+\bibitem[Dipta et~al.(2024)Dipta, Tiemann, Gulmezoglu, Marin, and
+  Eisenbarth]{107}
+Debopriya~Roy Dipta, Thore Tiemann, Berk Gulmezoglu, Eduard Marin, and Thomas
+  Eisenbarth.
+\newblock Dynamic frequency-based fingerprinting attacks against modern sandbox
+  environments.
+\newblock In \emph{2024 IEEE 9th European Symposium on Security and Privacy
+  (EuroS\&P)}, pages 327--344. IEEE, 2024.
 
 \bibitem[Dobslaw et~al.(2023)Dobslaw, Angelin, {\"O}berg, and Ahmad]{207}
 Felix Dobslaw, Kristian Angelin, Lena-Maria {\"O}berg, and Awais Ahmad.
-\newblock The gap between higher education and the software industry—a case study on technology differences.
-\newblock In \emph{Proceedings of the 5th European Conference on Software Engineering Education}, pages 11--21, 2023.
+\newblock The gap between higher education and the software industry—a case
+  study on technology differences.
+\newblock In \emph{Proceedings of the 5th European Conference on Software
+  Engineering Education}, pages 11--21, 2023.
 
 \bibitem[Dogani et~al.(2022)Dogani, Khunjush, and Seydali]{137}
 Javad Dogani, Farshad Khunjush, and Mehdi Seydali.
-\newblock K-agrued: A container autoscaling technique for cloud-based web applications in kubernetes using attention-based gru encoder-decoder.
+\newblock K-agrued: A container autoscaling technique for cloud-based web
+  applications in kubernetes using attention-based gru encoder-decoder.
 \newblock \emph{Journal of Grid Computing}, 20\penalty0 (4):\penalty0 40, 2022.
 
 \bibitem[Dogani et~al.(2023)Dogani, Namvar, and Khunjush]{56}
 Javad Dogani, Reza Namvar, and Farshad Khunjush.
-\newblock Auto-scaling techniques in container-based cloud and edge/fog computing: Taxonomy and survey.
+\newblock Auto-scaling techniques in container-based cloud and edge/fog
+  computing: Taxonomy and survey.
 \newblock \emph{Computer Communications}, 209:\penalty0 120--150, 2023.
 
 \bibitem[Du et~al.(2022)Du, Zeng, and Won]{187}
 Wenliang Du, Honghao Zeng, and Kyungrok Won.
 \newblock Seed emulator: An internet emulator for research and education.
-\newblock In \emph{Proceedings of the 21st ACM workshop on hot topics in networks}, pages 101--107, 2022.
+\newblock In \emph{Proceedings of the 21st ACM workshop on hot topics in
+  networks}, pages 101--107, 2022.
 
 \bibitem[Dubey et~al.(2024)Dubey, Singh, and Nadig]{148}
 Anuj Dubey, Charu~Priya Singh, and Deepak Nadig.
-\newblock Leveraging large language models for intent-based generation of cloud-native configurations.
-\newblock In \emph{2024 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)}, pages 1--6. IEEE, 2024.
+\newblock Leveraging large language models for intent-based generation of
+  cloud-native configurations.
+\newblock In \emph{2024 IEEE International Conference on Advanced Networks and
+  Telecommunications Systems (ANTS)}, pages 1--6. IEEE, 2024.
 
-\bibitem[Ebrahimpour et~al.(2023)Ebrahimpour, Ashtiani, Bakhshi, and Bakhtiariazad]{29}
-Hossein Ebrahimpour, Mehrdad Ashtiani, Fatemeh Bakhshi, and Ghazaleh Bakhtiariazad.
-\newblock A heuristic-based package-aware function scheduling approach for creating a trade-off between cold start time and cost in faas computing environments.
-\newblock \emph{The Journal of Supercomputing}, 79\penalty0 (11):\penalty0 12142--12190, 2023.
+\bibitem[Ebrahimpour et~al.(2023)Ebrahimpour, Ashtiani, Bakhshi, and
+  Bakhtiariazad]{29}
+Hossein Ebrahimpour, Mehrdad Ashtiani, Fatemeh Bakhshi, and Ghazaleh
+  Bakhtiariazad.
+\newblock A heuristic-based package-aware function scheduling approach for
+  creating a trade-off between cold start time and cost in faas computing
+  environments.
+\newblock \emph{The Journal of Supercomputing}, 79\penalty0 (11):\penalty0
+  12142--12190, 2023.
 
-\bibitem[El~Khairi et~al.(2022)El~Khairi, Caselli, Knierim, Peter, and Continella]{92}
-Asbat El~Khairi, Marco Caselli, Christian Knierim, Andreas Peter, and Andrea Continella.
-\newblock Contextualizing system calls in containers for anomaly-based intrusion detection.
-\newblock In \emph{Proceedings of the 2022 on Cloud Computing Security Workshop}, pages 9--21, 2022.
+\bibitem[El~Khairi et~al.(2022)El~Khairi, Caselli, Knierim, Peter, and
+  Continella]{92}
+Asbat El~Khairi, Marco Caselli, Christian Knierim, Andreas Peter, and Andrea
+  Continella.
+\newblock Contextualizing system calls in containers for anomaly-based
+  intrusion detection.
+\newblock In \emph{Proceedings of the 2022 on Cloud Computing Security
+  Workshop}, pages 9--21, 2022.
 
 \bibitem[Eng et~al.(2024)Eng, Hindle, and Stroulia]{172}
 Kalvin Eng, Abram Hindle, and Eleni Stroulia.
-\newblock Patterns of multi-container composition for service orchestration with docker compose.
-\newblock \emph{Empirical Software Engineering}, 29\penalty0 (3):\penalty0 65, 2024.
+\newblock Patterns of multi-container composition for service orchestration
+  with docker compose.
+\newblock \emph{Empirical Software Engineering}, 29\penalty0 (3):\penalty0 65,
+  2024.
 
-\bibitem[Entrialgo et~al.(2024)Entrialgo, Garc{\'\i}a, Garc{\'\i}a, L{\'o}pez, and D{\'\i}az]{136}
-Joaqu{\'\i}n Entrialgo, Manuel Garc{\'\i}a, Javier Garc{\'\i}a, Jos{\'e}~Mar{\'\i}a L{\'o}pez, and Jos{\'e}~Luis D{\'\i}az.
-\newblock Joint autoscaling of containers and virtual machines for cost optimization in container clusters.
+\bibitem[Entrialgo et~al.(2024)Entrialgo, Garc{\'\i}a, Garc{\'\i}a, L{\'o}pez,
+  and D{\'\i}az]{136}
+Joaqu{\'\i}n Entrialgo, Manuel Garc{\'\i}a, Javier Garc{\'\i}a,
+  Jos{\'e}~Mar{\'\i}a L{\'o}pez, and Jos{\'e}~Luis D{\'\i}az.
+\newblock Joint autoscaling of containers and virtual machines for cost
+  optimization in container clusters.
 \newblock \emph{Journal of Grid Computing}, 22\penalty0 (1):\penalty0 17, 2024.
 
 \bibitem[Eroshkin et~al.(2024)Eroshkin, Vojtech, and Neruda]{132}
 Ivan Eroshkin, Lukas Vojtech, and Marek Neruda.
-\newblock Improving quality of 5g/6g/xg network through reliability estimation in kubernetes.
-\newblock In \emph{European Wireless 2024; 29th European Wireless Conference}, pages 77--84. VDE, 2024.
+\newblock Improving quality of 5g/6g/xg network through reliability estimation
+  in kubernetes.
+\newblock In \emph{European Wireless 2024; 29th European Wireless Conference},
+  pages 77--84. VDE, 2024.
 
-\bibitem[Ersted~Rasmussen et~al.(2024)Ersted~Rasmussen, Dueholm~Vestergaard, Folsted~Kallehauge, Ren, Haislund~Guldberg, N{\o}rrevang, et~al.]{181}
-M~Ersted~Rasmussen, C~Dueholm~Vestergaard, J~Folsted~Kallehauge, J~Ren, M~Haislund~Guldberg, O~N{\o}rrevang, et~al.
-\newblock Raddeploy: A framework for integrating in-house developed software and artificial intelligence models seamlessly into radiotherapy workflows. phys imaging radiat oncol 2024; 31, 2024.
+\bibitem[Ersted~Rasmussen et~al.(2024)Ersted~Rasmussen, Dueholm~Vestergaard,
+  Folsted~Kallehauge, Ren, Haislund~Guldberg, N{\o}rrevang, et~al.]{181}
+M~Ersted~Rasmussen, C~Dueholm~Vestergaard, J~Folsted~Kallehauge, J~Ren,
+  M~Haislund~Guldberg, O~N{\o}rrevang, et~al.
+\newblock Raddeploy: A framework for integrating in-house developed software
+  and artificial intelligence models seamlessly into radiotherapy workflows.
+  phys imaging radiat oncol 2024; 31, 2024.
 
-\bibitem[Fava et~al.(2024)Fava, Leite, Da~Silva, Costa, Nogueira, Lopes, Schepke, Kreutz, and Mansilha]{54}
-Felipe~Bedinotto Fava, Luiz Felipe~Laviola Leite, Lu{\'\i}s Fernando~Alves Da~Silva, Pedro Ramires Da Silva~Amalfi Costa, Angelo Gaspar~Diniz Nogueira, Amanda Fagundes~Gobus Lopes, Claudio Schepke, Diego~Luis Kreutz, and Rodrigo~Br{\~a}ndao Mansilha.
-\newblock Assessing the performance of docker in docker containers for microservice-based architectures.
-\newblock In \emph{2024 32nd Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)}, pages 137--142. IEEE, 2024.
+\bibitem[Fava et~al.(2024)Fava, Leite, Da~Silva, Costa, Nogueira, Lopes,
+  Schepke, Kreutz, and Mansilha]{54}
+Felipe~Bedinotto Fava, Luiz Felipe~Laviola Leite, Lu{\'\i}s Fernando~Alves
+  Da~Silva, Pedro Ramires Da Silva~Amalfi Costa, Angelo Gaspar~Diniz Nogueira,
+  Amanda Fagundes~Gobus Lopes, Claudio Schepke, Diego~Luis Kreutz, and
+  Rodrigo~Br{\~a}ndao Mansilha.
+\newblock Assessing the performance of docker in docker containers for
+  microservice-based architectures.
+\newblock In \emph{2024 32nd Euromicro International Conference on Parallel,
+  Distributed and Network-Based Processing (PDP)}, pages 137--142. IEEE, 2024.
 
 \bibitem[Fernalld et~al.(2023)Fernalld, OConnor, Sudhakaran, and Nur]{152}
 Kourtnee Fernalld, TJ~OConnor, Sneha Sudhakaran, and Nasheen Nur.
-\newblock Lightweight symphony: Towards reducing computer science student anxiety with standardized docker environments.
-\newblock In \emph{Proceedings of the 24th Annual Conference on Information Technology Education}, pages 15--21, 2023.
+\newblock Lightweight symphony: Towards reducing computer science student
+  anxiety with standardized docker environments.
+\newblock In \emph{Proceedings of the 24th Annual Conference on Information
+  Technology Education}, pages 15--21, 2023.
 
 \bibitem[Fischer et~al.(2024)Fischer, Hirn, and Kul]{21}
 Tim Fischer, Denis Hirn, and G{\"o}khan Kul.
-\newblock A reproducible tutorial on reproducibility in database systems research.
-\newblock \emph{Proceedings of the VLDB Endowment}, 17\penalty0 (12):\penalty0 4221--4224, 2024.
+\newblock A reproducible tutorial on reproducibility in database systems
+  research.
+\newblock \emph{Proceedings of the VLDB Endowment}, 17\penalty0 (12):\penalty0
+  4221--4224, 2024.
 
 \bibitem[Flora and Antunes(2024)]{118}
 Jose Flora and Nuno Antunes.
-\newblock Evaluating intrusion detection for microservice applications: Benchmark, dataset, and case studies.
+\newblock Evaluating intrusion detection for microservice applications:
+  Benchmark, dataset, and case studies.
 \newblock \emph{Journal of Systems and Software}, 216:\penalty0 112142, 2024.
 
-\bibitem[Fras{\~a}o et~al.(2024)Fras{\~a}o, Heinrich, Fulber-Garcia, Will, Obelheiro, and Maziero]{128}
-Anderson Fras{\~a}o, Tiago Heinrich, Vinicius Fulber-Garcia, Newton~C Will, Rafael~R Obelheiro, and Carlos~A Maziero.
-\newblock I see syscalls by the seashore: An anomaly-based ids for containers leveraging sysdig data.
-\newblock In \emph{2024 IEEE Symposium on Computers and Communications (ISCC)}, pages 1--6. IEEE, 2024.
+\bibitem[Fras{\~a}o et~al.(2024)Fras{\~a}o, Heinrich, Fulber-Garcia, Will,
+  Obelheiro, and Maziero]{128}
+Anderson Fras{\~a}o, Tiago Heinrich, Vinicius Fulber-Garcia, Newton~C Will,
+  Rafael~R Obelheiro, and Carlos~A Maziero.
+\newblock I see syscalls by the seashore: An anomaly-based ids for containers
+  leveraging sysdig data.
+\newblock In \emph{2024 IEEE Symposium on Computers and Communications (ISCC)},
+  pages 1--6. IEEE, 2024.
 
 \bibitem[Fu et~al.(2022)Fu, Machlovi, Mao, Wang, Cheng, and Liu]{177}
 Yuqi Fu, Naseem Machlovi, Ying Mao, Jiayin Wang, Long Cheng, and Qingzhi Liu.
-\newblock Performance evaluation of resource management schemes for cloud native platforms with computing containers.
-\newblock In \emph{2022 IEEE International Performance, Computing, and Communications Conference (IPCCC)}, pages 414--415. IEEE, 2022.
+\newblock Performance evaluation of resource management schemes for cloud
+  native platforms with computing containers.
+\newblock In \emph{2022 IEEE International Performance, Computing, and
+  Communications Conference (IPCCC)}, pages 414--415. IEEE, 2022.
 
 \bibitem[Gackstatter et~al.(2022)Gackstatter, Frangoudis, and Dustdar]{180}
 Philipp Gackstatter, Pantelis~A Frangoudis, and Schahram Dustdar.
 \newblock Pushing serverless to the edge with webassembly runtimes.
-\newblock In \emph{2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)}, pages 140--149. IEEE, 2022.
+\newblock In \emph{2022 22nd IEEE International Symposium on Cluster, Cloud and
+  Internet Computing (CCGrid)}, pages 140--149. IEEE, 2022.
 
-\bibitem[Galantino et~al.(2022)Galantino, Risso, Cazzaniga, Garrone, Terruggia, and Lazzari]{39}
-Stefano Galantino, Fulvio Risso, Andrea Cazzaniga, Fabrizio Garrone, Roberta Terruggia, and Riccardo Lazzari.
+\bibitem[Galantino et~al.(2022)Galantino, Risso, Cazzaniga, Garrone, Terruggia,
+  and Lazzari]{39}
+Stefano Galantino, Fulvio Risso, Andrea Cazzaniga, Fabrizio Garrone, Roberta
+  Terruggia, and Riccardo Lazzari.
 \newblock An edge-based architecture for phasor measurements in smart grids.
-\newblock In \emph{2022 AEIT International Annual Conference (AEIT)}, pages 1--6. IEEE, 2022.
+\newblock In \emph{2022 AEIT International Annual Conference (AEIT)}, pages
+  1--6. IEEE, 2022.
 
 \bibitem[Gamess and Parajuli(2024)]{129}
 Eric Gamess and Mausam Parajuli.
-\newblock Image-processing workloads and ddos attack resilience: Evaluating docker and podman containers on raspberry pi and odroid.
-\newblock In \emph{Proceedings of the 2024 ACM Southeast Conference}, pages 138--147, 2024.
+\newblock Image-processing workloads and ddos attack resilience: Evaluating
+  docker and podman containers on raspberry pi and odroid.
+\newblock In \emph{Proceedings of the 2024 ACM Southeast Conference}, pages
+  138--147, 2024.
 
 \bibitem[Ganne(2022)]{69}
 Avinash Ganne.
 \newblock Cloud data security methods: Kubernetes vs docker swarm.
-\newblock \emph{International Research Journal of Modernization in Engineering Technology}, 4\penalty0 (11):\penalty0 1--6, 2022.
+\newblock \emph{International Research Journal of Modernization in Engineering
+  Technology}, 4\penalty0 (11):\penalty0 1--6, 2022.
 
 \bibitem[Gao et~al.(2022)Gao, Wan, Wang, and Cheng]{80}
 Pengxiang Gao, Rui Wan, Chen Wang, and Yunchang Cheng.
-\newblock Container load prediction algorithm based on arima model and bp neural network.
-\newblock In \emph{2022 IEEE 6th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)}, pages 334--337. IEEE, 2022.
+\newblock Container load prediction algorithm based on arima model and bp
+  neural network.
+\newblock In \emph{2022 IEEE 6th Advanced Information Technology, Electronic
+  and Automation Control Conference (IAEAC)}, pages 334--337. IEEE, 2022.
 
 \bibitem[Geetha et~al.(2024)Geetha, Jayalakshmi, Naresh, and Sreenivasa]{151}
 J~Geetha, DS~Jayalakshmi, E~Naresh, and N~Sreenivasa.
-\newblock Lightweight cloud-based solution for digital education and assessment.
-\newblock \emph{Science \& Technology Libraries}, 43\penalty0 (3):\penalty0 274--286, 2024.
+\newblock Lightweight cloud-based solution for digital education and
+  assessment.
+\newblock \emph{Science \& Technology Libraries}, 43\penalty0 (3):\penalty0
+  274--286, 2024.
 
 \bibitem[Geng et~al.(2023)Geng, Zheng, Lai, Zhao, and Xu]{78}
 Jipu Geng, Xiaoyan Zheng, Xiaohan Lai, Lei Zhao, and Yibai Xu.
-\newblock Construction and implementation of electric power deep learning computing service platform.
-\newblock In \emph{2023 4th International Conference on Computer Engineering and Intelligent Control (ICCEIC)}, pages 492--495. IEEE, 2023.
+\newblock Construction and implementation of electric power deep learning
+  computing service platform.
+\newblock In \emph{2023 4th International Conference on Computer Engineering
+  and Intelligent Control (ICCEIC)}, pages 492--495. IEEE, 2023.
 
-\bibitem[Gharaibeh et~al.(2024)Gharaibeh, Seiden, Abouelsaoud, Bou-Harb, and Baggili]{106}
-Taha Gharaibeh, Steven Seiden, Mohamed Abouelsaoud, Elias Bou-Harb, and Ibrahim Baggili.
-\newblock Don't, stop, drop, pause: Forensics of container checkpoints (conpoint).
-\newblock In \emph{Proceedings of the 19th International Conference on Availability, Reliability and Security}, pages 1--11, 2024.
+\bibitem[Gharaibeh et~al.(2024)Gharaibeh, Seiden, Abouelsaoud, Bou-Harb, and
+  Baggili]{106}
+Taha Gharaibeh, Steven Seiden, Mohamed Abouelsaoud, Elias Bou-Harb, and Ibrahim
+  Baggili.
+\newblock Don't, stop, drop, pause: Forensics of container checkpoints
+  (conpoint).
+\newblock In \emph{Proceedings of the 19th International Conference on
+  Availability, Reliability and Security}, pages 1--11, 2024.
 
 \bibitem[Ghorbian and Ghobaei-Arani(2024)]{33}
 Mohsen Ghorbian and Mostafa Ghobaei-Arani.
-\newblock A survey on the cold start latency approaches in serverless computing: an optimization-based perspective.
+\newblock A survey on the cold start latency approaches in serverless
+  computing: an optimization-based perspective.
 \newblock \emph{Computing}, 106\penalty0 (11):\penalty0 3755--3809, 2024.
 
-\bibitem[Gonz{\'a}lez-Abad et~al.(2023)Gonz{\'a}lez-Abad, Lopez~Garcia, and Kozlov]{27}
+\bibitem[Gonz{\'a}lez-Abad et~al.(2023)Gonz{\'a}lez-Abad, Lopez~Garcia, and
+  Kozlov]{27}
 Jose Gonz{\'a}lez-Abad, Alvaro Lopez~Garcia, and Valentin~Y Kozlov.
-\newblock A container-based workflow for distributed training of deep learning algorithms in hpc clusters.
+\newblock A container-based workflow for distributed training of deep learning
+  algorithms in hpc clusters.
 \newblock \emph{Cluster Computing}, 26\penalty0 (5):\penalty0 2815--2834, 2023.
 
 \bibitem[Goodman(1961)]{goodman1961snowball}
@@ -466,137 +674,193 @@ Leo~A Goodman.
 
 \bibitem[Gu et~al.(2025)Gu, Tan, Zhang, Gao, and Yang]{108}
 Yue Gu, Xin Tan, Yuan Zhang, Siyan Gao, and Min Yang.
-\newblock Epscan: Automated detection of excessive rbac permissions in kubernetes applications.
-\newblock In \emph{2025 IEEE Symposium on Security and Privacy (SP)}, pages 3199--3217. IEEE, 2025.
+\newblock Epscan: Automated detection of excessive rbac permissions in
+  kubernetes applications.
+\newblock In \emph{2025 IEEE Symposium on Security and Privacy (SP)}, pages
+  3199--3217. IEEE, 2025.
 
 \bibitem[Gupta et~al.(2023)Gupta, Van~Ede, and Continella]{127}
 Chakshu Gupta, Thijs Van~Ede, and Andrea Continella.
-\newblock Honeykube: Designing and deploying a microservices-based web honeypot.
-\newblock In \emph{2023 IEEE Security and Privacy Workshops (SPW)}, pages 1--11. IEEE, 2023.
+\newblock Honeykube: Designing and deploying a microservices-based web
+  honeypot.
+\newblock In \emph{2023 IEEE Security and Privacy Workshops (SPW)}, pages
+  1--11. IEEE, 2023.
 
 \bibitem[Han et~al.(2022)Han, Li, Zhang, Shi, Wang, and Lu]{154}
 Siqi Han, Wanting Li, En~Zhang, Jilin Shi, Wei Wang, and Xuesong Lu.
-\newblock Mladder: An online training system for machine learning and data science education.
-\newblock In \emph{Proceedings of the 31st ACM International Conference on Information \& Knowledge Management}, pages 4862--4866, 2022.
+\newblock Mladder: An online training system for machine learning and data
+  science education.
+\newblock In \emph{Proceedings of the 31st ACM International Conference on
+  Information \& Knowledge Management}, pages 4862--4866, 2022.
 
 \bibitem[Hao et~al.(2024)Hao, Zhang, and Wang]{65}
 Yu~Hao, Xu~Zhang, and Dongbin Wang.
 \newblock Cpced: a container escape detection system based on cni plugin.
-\newblock In \emph{2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)}, pages 242--253. IEEE, 2024.
+\newblock In \emph{2024 IEEE 23rd International Conference on Trust, Security
+  and Privacy in Computing and Communications (TrustCom)}, pages 242--253.
+  IEEE, 2024.
 
 \bibitem[Haq et~al.(2022)Haq, Tosun, and Korkmaz]{191}
 Md~Sadun Haq, Ali~{\c{S}}aman Tosun, and Turgay Korkmaz.
 \newblock Security analysis of docker containers for arm architecture.
-\newblock In \emph{2022 IEEE/ACM 7th Symposium on Edge Computing (SEC)}, pages 224--236. IEEE, 2022.
+\newblock In \emph{2022 IEEE/ACM 7th Symposium on Edge Computing (SEC)}, pages
+  224--236. IEEE, 2022.
 
 \bibitem[Haq et~al.(2025)Haq, Tosun, and Korkmaz]{147}
 Md~Sadun Haq, Ali~{\c{S}}aman Tosun, and Turgay Korkmaz.
-\newblock Lucid: A framework for reducing false positives and inconsistencies among container scanning tools.
+\newblock Lucid: A framework for reducing false positives and inconsistencies
+  among container scanning tools.
 \newblock \emph{IEEE Access}, 2025.
 
 \bibitem[Haresh et~al.(2023)]{220}
 S~Haresh et~al.
-\newblock Virtualization using docker container for reproducible desktop environment.
-\newblock In \emph{2023 Intelligent Computing and Control for Engineering and Business Systems (ICCEBS)}, pages 1--4. IEEE, 2023.
+\newblock Virtualization using docker container for reproducible desktop
+  environment.
+\newblock In \emph{2023 Intelligent Computing and Control for Engineering and
+  Business Systems (ICCEBS)}, pages 1--4. IEEE, 2023.
 
-\bibitem[Hassan et~al.(2022)Hassan, Bhatti, Shujaat, and Hwang]{HASSAN2022100138}
+\bibitem[Hassan et~al.(2022)Hassan, Bhatti, Shujaat, and
+  Hwang]{HASSAN2022100138}
 Arooj Hassan, Sabeen~Hussain Bhatti, Sobia Shujaat, and Yujong Hwang.
-\newblock To adopt or not to adopt? the determinants of cloud computing adoption in information technology sector.
+\newblock To adopt or not to adopt? the determinants of cloud computing
+  adoption in information technology sector.
 \newblock \emph{Decision Analytics Journal}, 5:\penalty0 100138, 2022.
 \newblock ISSN 2772-6622.
 \newblock \doi{https://doi.org/10.1016/j.dajour.2022.100138}.
-\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S2772662222000698}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S2772662222000698}.
 
-\bibitem[Hettiarachchi et~al.(2022)Hettiarachchi, Jayadeva, Bandara, Palliyaguruge, Arachchillage, and Kasthurirathna]{53}
-Lasal~Sandeepa Hettiarachchi, Senura~Vihan Jayadeva, Rusiru Abhisheak~Vikum Bandara, Dilmi Palliyaguruge, Udara Srimath S~Samaratunge Arachchillage, and Dharshana Kasthurirathna.
-\newblock Artificial intelligence-based centralized resource management application for distributed systems.
-\newblock In \emph{2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT)}, pages 1--6. IEEE, 2022.
+\bibitem[Hettiarachchi et~al.(2022)Hettiarachchi, Jayadeva, Bandara,
+  Palliyaguruge, Arachchillage, and Kasthurirathna]{53}
+Lasal~Sandeepa Hettiarachchi, Senura~Vihan Jayadeva, Rusiru Abhisheak~Vikum
+  Bandara, Dilmi Palliyaguruge, Udara Srimath S~Samaratunge Arachchillage, and
+  Dharshana Kasthurirathna.
+\newblock Artificial intelligence-based centralized resource management
+  application for distributed systems.
+\newblock In \emph{2022 13th International Conference on Computing
+  Communication and Networking Technologies (ICCCNT)}, pages 1--6. IEEE, 2022.
 
-\bibitem[Horchulhack et~al.(2024)Horchulhack, Viegas, Santin, Ramos, and Tedeschi]{102}
-Pedro Horchulhack, Eduardo~K Viegas, Altair~O Santin, Felipe~V Ramos, and Pietro Tedeschi.
-\newblock Detection of quality of service degradation on multi-tenant containerized services.
-\newblock \emph{Journal of Network and Computer Applications}, 224:\penalty0 103839, 2024.
+\bibitem[Horchulhack et~al.(2024)Horchulhack, Viegas, Santin, Ramos, and
+  Tedeschi]{102}
+Pedro Horchulhack, Eduardo~K Viegas, Altair~O Santin, Felipe~V Ramos, and
+  Pietro Tedeschi.
+\newblock Detection of quality of service degradation on multi-tenant
+  containerized services.
+\newblock \emph{Journal of Network and Computer Applications}, 224:\penalty0
+  103839, 2024.
 
 \bibitem[Hristev et~al.()Hristev, Veselinova, and Kolev]{201}
 Rosen Hristev, Magdalena Veselinova, and Kristiyan Kolev.
-\newblock System architecture for automated backup and recovery of disk volumes in containers.
+\newblock System architecture for automated backup and recovery of disk volumes
+  in containers.
 
 \bibitem[Husain et~al.(2023)Husain, Marzuki, Mardedi, et~al.]{46}
 Husain Husain, Khairan Marzuki, Lalu Zazuli~Azhar Mardedi, et~al.
-\newblock Analysis and implementation of comparison between podman and docker in container management.
-\newblock \emph{International Journal of Electronics and Communications Systems}, 3\penalty0 (2):\penalty0 57--67, 2023.
+\newblock Analysis and implementation of comparison between podman and docker
+  in container management.
+\newblock \emph{International Journal of Electronics and Communications
+  Systems}, 3\penalty0 (2):\penalty0 57--67, 2023.
 
 \bibitem[Jackson and Wurst(2022)]{204}
 Stoney Jackson and Karl~R Wurst.
 \newblock Teaching with vs code devcontainers: Conference workshop.
-\newblock \emph{Journal of Computing Sciences in Colleges}, 37\penalty0 (8):\penalty0 81--82, 2022.
+\newblock \emph{Journal of Computing Sciences in Colleges}, 37\penalty0
+  (8):\penalty0 81--82, 2022.
 
 \bibitem[Jalali and Wohlin(2012)]{jalali2012systematic}
 Samireh Jalali and Claes Wohlin.
-\newblock Systematic literature studies: database searches vs. backward snowballing.
-\newblock In \emph{Proceedings of the ACM-IEEE international symposium on Empirical software engineering and measurement}, pages 29--38, 2012.
+\newblock Systematic literature studies: database searches vs. backward
+  snowballing.
+\newblock In \emph{Proceedings of the ACM-IEEE international symposium on
+  Empirical software engineering and measurement}, pages 29--38, 2012.
 
 \bibitem[Jang and Luo(2023)]{117}
 Hung-Chin Jang and Shih-Yu Luo.
-\newblock Enhancing node fault tolerance through high-availability clusters in kubernetes.
-\newblock In \emph{2023 IEEE 3rd International Conference on Electronic Communications, Internet of Things and Big Data (ICEIB)}, pages 30--35. IEEE, 2023.
+\newblock Enhancing node fault tolerance through high-availability clusters in
+  kubernetes.
+\newblock In \emph{2023 IEEE 3rd International Conference on Electronic
+  Communications, Internet of Things and Big Data (ICEIB)}, pages 30--35. IEEE,
+  2023.
 
 \bibitem[Jeon et~al.(2024)Jeon, Park, Jeong, and Jeong]{109}
 Jueun Jeon, Sihyun Park, Byeonghui Jeong, and Young-Sik Jeong.
-\newblock Efficient container scheduling with hybrid deep learning model for improved service reliability in cloud computing.
+\newblock Efficient container scheduling with hybrid deep learning model for
+  improved service reliability in cloud computing.
 \newblock \emph{IEEE Access}, 12:\penalty0 65166--65177, 2024.
 
 \bibitem[Jeong et~al.(2023)Jeong, Jeon, and Jeong]{179}
 Byeonghui Jeong, Jueun Jeon, and Young-Sik Jeong.
-\newblock Proactive resource autoscaling scheme based on scinet for high-performance cloud computing.
-\newblock \emph{IEEE Transactions on Cloud Computing}, 11\penalty0 (4):\penalty0 3497--3509, 2023.
+\newblock Proactive resource autoscaling scheme based on scinet for
+  high-performance cloud computing.
+\newblock \emph{IEEE Transactions on Cloud Computing}, 11\penalty0
+  (4):\penalty0 3497--3509, 2023.
 
-\bibitem[Johansson et~al.(2022)Johansson, R{\aa}gberger, Nolte, and Papadopoulos]{143}
-Bjarne Johansson, Mats R{\aa}gberger, Thomas Nolte, and Alessandro~V Papadopoulos.
-\newblock Kubernetes orchestration of high availability distributed control systems.
-\newblock In \emph{2022 IEEE International Conference on Industrial Technology (ICIT)}, pages 1--8. IEEE, 2022.
+\bibitem[Johansson et~al.(2022)Johansson, R{\aa}gberger, Nolte, and
+  Papadopoulos]{143}
+Bjarne Johansson, Mats R{\aa}gberger, Thomas Nolte, and Alessandro~V
+  Papadopoulos.
+\newblock Kubernetes orchestration of high availability distributed control
+  systems.
+\newblock In \emph{2022 IEEE International Conference on Industrial Technology
+  (ICIT)}, pages 1--8. IEEE, 2022.
 
-\bibitem[Jolak et~al.(2022)Jolak, Rosenstatter, Mohamad, Strandberg, Sangchoolie, Nowdehi, and Scandariato]{64}
-Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, and Riccardo Scandariato.
-\newblock Conserve: A framework for the selection of techniques for monitoring containers security.
+\bibitem[Jolak et~al.(2022)Jolak, Rosenstatter, Mohamad, Strandberg,
+  Sangchoolie, Nowdehi, and Scandariato]{64}
+Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz
+  Sangchoolie, Nasser Nowdehi, and Riccardo Scandariato.
+\newblock Conserve: A framework for the selection of techniques for monitoring
+  containers security.
 \newblock \emph{Journal of Systems and Software}, 186:\penalty0 111158, 2022.
 
 \bibitem[Joraviya et~al.(2024{\natexlab{a}})Joraviya, Gohil, and Rao]{35}
 Nidhi Joraviya, Bhavesh~N Gohil, and Udai~Pratap Rao.
-\newblock Ab-hids: An anomaly-based host intrusion detection system using frequency of n-gram system call features and ensemble learning for containerized environment.
-\newblock \emph{Concurrency and Computation: Practice and Experience}, 36\penalty0 (23):\penalty0 e8249, 2024{\natexlab{a}}.
+\newblock Ab-hids: An anomaly-based host intrusion detection system using
+  frequency of n-gram system call features and ensemble learning for
+  containerized environment.
+\newblock \emph{Concurrency and Computation: Practice and Experience},
+  36\penalty0 (23):\penalty0 e8249, 2024{\natexlab{a}}.
 
 \bibitem[Joraviya et~al.(2024{\natexlab{b}})Joraviya, Gohil, and Rao]{95}
 Nidhi Joraviya, Bhavesh~N Gohil, and Udai~Pratap Rao.
-\newblock Dl-hids: deep learning-based host intrusion detection system using system calls-to-image for containerized cloud environment: N. joraviya et al.
-\newblock \emph{The Journal of Supercomputing}, 80\penalty0 (9):\penalty0 12218--12246, 2024{\natexlab{b}}.
+\newblock Dl-hids: deep learning-based host intrusion detection system using
+  system calls-to-image for containerized cloud environment: N. joraviya et al.
+\newblock \emph{The Journal of Supercomputing}, 80\penalty0 (9):\penalty0
+  12218--12246, 2024{\natexlab{b}}.
 
 \bibitem[Joshi et~al.(2024)Joshi, Hasan, and Brindha]{169}
 Suyash Joshi, Basit Hasan, and R~Brindha.
-\newblock Optimal declarative orchestration of full lifecycle of machine learning models for cloud native.
-\newblock In \emph{2024 3rd International Conference on Applied Artificial Intelligence and Computing (ICAAIC)}, pages 578--582. IEEE, 2024.
+\newblock Optimal declarative orchestration of full lifecycle of machine
+  learning models for cloud native.
+\newblock In \emph{2024 3rd International Conference on Applied Artificial
+  Intelligence and Computing (ICAAIC)}, pages 578--582. IEEE, 2024.
 
 \bibitem[Kaiser et~al.(2022{\natexlab{a}})Kaiser, Haq, Tosun, and Korkmaz]{83}
 Shahidullah Kaiser, Md~Sadun Haq, Ali~{\c{S}}aman Tosun, and Turgay Korkmaz.
-\newblock Container technologies for arm architecture: A comprehensive survey of the state-of-the-art.
+\newblock Container technologies for arm architecture: A comprehensive survey
+  of the state-of-the-art.
 \newblock \emph{IEEE Access}, 10:\penalty0 84853--84881, 2022{\natexlab{a}}.
 
-\bibitem[Kaiser et~al.(2022{\natexlab{b}})Kaiser, Haq, Tosun, and Korkmaz]{Kaiser2022}
+\bibitem[Kaiser et~al.(2022{\natexlab{b}})Kaiser, Haq, Tosun, and
+  Korkmaz]{Kaiser2022}
 Shahidullah Kaiser, Md~Sadun Haq, Ali~Saman Tosun, and Turgay Korkmaz.
-\newblock {Container Technologies for ARM Architecture: A Comprehensive Survey of the State-of-the-Art}.
+\newblock {Container Technologies for ARM Architecture: A Comprehensive Survey
+  of the State-of-the-Art}.
 \newblock \emph{IEEE Access}, 10:\penalty0 84853--84881, 2022{\natexlab{b}}.
 \newblock ISSN 21693536.
 \newblock \doi{10.1109/ACCESS.2022.3197151}.
 
-\bibitem[Kaiser et~al.(2023{\natexlab{a}})Kaiser, {\c{s}}aman Tosun, and Korkmaz]{60}
+\bibitem[Kaiser et~al.(2023{\natexlab{a}})Kaiser, {\c{s}}aman Tosun, and
+  Korkmaz]{60}
 Shahidullah Kaiser, Ali {\c{s}}aman Tosun, and Turgay Korkmaz.
 \newblock Benchmarking container technologies on arm-based edge devices.
 \newblock \emph{IEEE access}, 11:\penalty0 107331--107347, 2023{\natexlab{a}}.
 
-\bibitem[Kaiser et~al.(2023{\natexlab{b}})Kaiser, Tosun, and Korkmaz]{Kaiser2023}
+\bibitem[Kaiser et~al.(2023{\natexlab{b}})Kaiser, Tosun, and
+  Korkmaz]{Kaiser2023}
 Shahidullah Kaiser, Ali~Saman Tosun, and Turgay Korkmaz.
 \newblock {Benchmarking Container Technologies on ARM-Based Edge Devices}.
-\newblock \emph{IEEE Access}, 11:\penalty0 107331--107347, jan 2023{\natexlab{b}}.
+\newblock \emph{IEEE Access}, 11:\penalty0 107331--107347, jan
+  2023{\natexlab{b}}.
 \newblock ISSN 2169-3536.
 \newblock \doi{10.1109/ACCESS.2023.3321274}.
 \newblock URL \url{https://doaj.org/article/2033f2041344497d9369c7846d31d01e}.
@@ -609,211 +873,295 @@ Shahidullah Kaiser, Ali~Saman Tosun, and Turgay Korkmaz.
 \bibitem[Kamieniarz and Mazurczyk(2024)]{6}
 Kacper Kamieniarz and Wojciech Mazurczyk.
 \newblock A comparative study on the security of kubernetes deployments.
-\newblock In \emph{2024 International Wireless Communications and Mobile Computing (IWCMC)}, pages 0718--0723. IEEE, 2024.
+\newblock In \emph{2024 International Wireless Communications and Mobile
+  Computing (IWCMC)}, pages 0718--0723. IEEE, 2024.
 
 \bibitem[Kanagachalam et~al.(2022)Kanagachalam, Tulkinbekov, and Kim]{62}
 Srinidhi Kanagachalam, Khikmatullo Tulkinbekov, and Deok-Hwan Kim.
-\newblock Blosm: Blockchain-based service migration for connected cars in embedded edge environment.
+\newblock Blosm: Blockchain-based service migration for connected cars in
+  embedded edge environment.
 \newblock \emph{Electronics}, 11\penalty0 (3):\penalty0 341, 2022.
 
 \bibitem[Karamzadeh and Shameli-Sendi(2024)]{184}
 Amirmohammad Karamzadeh and Alireza Shameli-Sendi.
-\newblock Reducing cold start delay in serverless computing using lightweight virtual machines.
-\newblock \emph{Journal of Network and Computer Applications}, 232:\penalty0 104030, 2024.
+\newblock Reducing cold start delay in serverless computing using lightweight
+  virtual machines.
+\newblock \emph{Journal of Network and Computer Applications}, 232:\penalty0
+  104030, 2024.
 
 \bibitem[Karmakar and Arri()]{156}
 Gobinda Karmakar and Harwant~Singh Arri.
-\newblock Mathematical approaches to securing kubernetes: Analyzing log data volume in a complex landscape.
+\newblock Mathematical approaches to securing kubernetes: Analyzing log data
+  volume in a complex landscape.
 
 \bibitem[Karumudi et~al.(2024)]{111}
 Madhavi Karumudi et~al.
-\newblock Efficient workload portability and optimized resource utilization using containerization in a multi-cloud environment.
-\newblock In \emph{2024 5th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)}, pages 823--828. IEEE, 2024.
+\newblock Efficient workload portability and optimized resource utilization
+  using containerization in a multi-cloud environment.
+\newblock In \emph{2024 5th International Conference on Data Intelligence and
+  Cognitive Informatics (ICDICI)}, pages 823--828. IEEE, 2024.
 
 \bibitem[Kaur(2024)]{91}
 Tanvir Kaur.
-\newblock Containers in multi-cloud environments: Benefits, challenges, and best practices.
+\newblock Containers in multi-cloud environments: Benefits, challenges, and
+  best practices.
 \newblock 2024.
 
 \bibitem[Keller~Tesser and Borin(2023)]{90}
 Rafael Keller~Tesser and Edson Borin.
 \newblock Containers in hpc: a survey.
-\newblock \emph{The Journal of Supercomputing}, 79\penalty0 (5):\penalty0 5759--5827, 2023.
+\newblock \emph{The Journal of Supercomputing}, 79\penalty0 (5):\penalty0
+  5759--5827, 2023.
 
 \bibitem[Kim et~al.(2022)Kim, Lee, Lee, Park, and Jeong]{99}
 Byoung~Soo Kim, Sang~Hyeop Lee, Ye~Rim Lee, Yong~Hyun Park, and Jongpil Jeong.
-\newblock Design and implementation of cloud docker application architecture based on machine learning in container management for smart manufacturing.
+\newblock Design and implementation of cloud docker application architecture
+  based on machine learning in container management for smart manufacturing.
 \newblock \emph{Applied Sciences}, 12\penalty0 (13):\penalty0 6737, 2022.
 
 \bibitem[Kim et~al.(2023)Kim, Park, and Kim]{226}
 Taeyoung Kim, Seonhye Park, and Hyoungshick Kim.
-\newblock Why johnny can’t use secure docker images: Investigating the usability challenges in using docker image vulnerability scanners through heuristic evaluation.
-\newblock In \emph{Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses}, pages 669--685, 2023.
+\newblock Why johnny can’t use secure docker images: Investigating the
+  usability challenges in using docker image vulnerability scanners through
+  heuristic evaluation.
+\newblock In \emph{Proceedings of the 26th International Symposium on Research
+  in Attacks, Intrusions and Defenses}, pages 669--685, 2023.
 
-\bibitem[Kitchenham et~al.(2010)Kitchenham, Pretorius, Budgen, Brereton, Turner, Niazi, and Linkman]{Kitchenham2010}
-Barbara Kitchenham, Rialette Pretorius, David Budgen, O.~Pearl Brereton, Mark Turner, Mahmood Niazi, and Stephen Linkman.
-\newblock {Systematic literature reviews in software engineering-A tertiary study}.
-\newblock \emph{Information and Software Technology}, 52\penalty0 (8):\penalty0 792--805, 2010.
+\bibitem[Kitchenham et~al.(2010)Kitchenham, Pretorius, Budgen, Brereton,
+  Turner, Niazi, and Linkman]{Kitchenham2010}
+Barbara Kitchenham, Rialette Pretorius, David Budgen, O.~Pearl Brereton, Mark
+  Turner, Mahmood Niazi, and Stephen Linkman.
+\newblock {Systematic literature reviews in software engineering-A tertiary
+  study}.
+\newblock \emph{Information and Software Technology}, 52\penalty0 (8):\penalty0
+  792--805, 2010.
 \newblock ISSN 09505849.
 \newblock \doi{10.1016/j.infsof.2010.03.006}.
 
-\bibitem[Kithulwatta et~al.(2022{\natexlab{a}})Kithulwatta, Jayasena, Kumara, and Rathnayaka]{kithulwatta2022integration}
-W.~M.~C. J.~T. Kithulwatta, K.~P.~N. Jayasena, Banage T.~G.~S. Kumara, and R.~M.~K.~Tharanga Rathnayaka.
-\newblock Integration with docker container technologies for distributed and microservices applications: A state-of-the-art review.
-\newblock \emph{International Journal of Systems and Service-Oriented Engineering}, 12\penalty0 (1), 2022{\natexlab{a}}.
+\bibitem[Kithulwatta et~al.(2022{\natexlab{a}})Kithulwatta, Jayasena, Kumara,
+  and Rathnayaka]{kithulwatta2022integration}
+W.~M.~C. J.~T. Kithulwatta, K.~P.~N. Jayasena, Banage T.~G.~S. Kumara, and
+  R.~M.~K.~Tharanga Rathnayaka.
+\newblock Integration with docker container technologies for distributed and
+  microservices applications: A state-of-the-art review.
+\newblock \emph{International Journal of Systems and Service-Oriented
+  Engineering}, 12\penalty0 (1), 2022{\natexlab{a}}.
 \newblock \doi{10.4018/IJSSOE.297136}.
 \newblock URL \url{https://doi.org/10.4018/IJSSOE.297136}.
 
-\bibitem[Kithulwatta et~al.(2022{\natexlab{b}})Kithulwatta, Jayasena, Kumara, and Rathnayaka]{176}
+\bibitem[Kithulwatta et~al.(2022{\natexlab{b}})Kithulwatta, Jayasena, Kumara,
+  and Rathnayaka]{176}
 WMCJT Kithulwatta, KPN Jayasena, BTGS Kumara, and RMKT Rathnayaka.
 \newblock Performance evaluation of docker-based apache and nginx web server.
-\newblock In \emph{2022 3rd International Conference for Emerging Technology (INCET)}, pages 1--6. IEEE, 2022{\natexlab{b}}.
+\newblock In \emph{2022 3rd International Conference for Emerging Technology
+  (INCET)}, pages 1--6. IEEE, 2022{\natexlab{b}}.
 
 \bibitem[Kjorveziroski and Filiposka(2023{\natexlab{a}})]{222}
 Vojdan Kjorveziroski and Sonja Filiposka.
 \newblock Webassembly orchestration in the context of serverless computing.
-\newblock \emph{Journal of Network and Systems Management}, 31\penalty0 (3):\penalty0 62, 2023{\natexlab{a}}.
+\newblock \emph{Journal of Network and Systems Management}, 31\penalty0
+  (3):\penalty0 62, 2023{\natexlab{a}}.
 
 \bibitem[Kjorveziroski and Filiposka(2023{\natexlab{b}})]{223}
 Vojdan Kjorveziroski and Sonja Filiposka.
 \newblock Webassembly as an enabler for next generation serverless computing.
-\newblock \emph{Journal of Grid Computing}, 21\penalty0 (3):\penalty0 34, 2023{\natexlab{b}}.
+\newblock \emph{Journal of Grid Computing}, 21\penalty0 (3):\penalty0 34,
+  2023{\natexlab{b}}.
 
 \bibitem[Kosi{\'n}ska et~al.(2024)Kosi{\'n}ska, Broto{\'n}, and Tobiasz]{140}
 Joanna Kosi{\'n}ska, Grzegorz Broto{\'n}, and Maciej Tobiasz.
 \newblock Knowledge representation of the state of a cloud-native application.
-\newblock \emph{International Journal on Software Tools for Technology Transfer}, 26\penalty0 (1):\penalty0 21--32, 2024.
+\newblock \emph{International Journal on Software Tools for Technology
+  Transfer}, 26\penalty0 (1):\penalty0 21--32, 2024.
 
-\bibitem[Kostolny et~al.(2023)Kostolny, Karcolova, Vaclavkova, and Blahova]{116}
+\bibitem[Kostolny et~al.(2023)Kostolny, Karcolova, Vaclavkova, and
+  Blahova]{116}
 Jozef Kostolny, Veronika Karcolova, Monika Vaclavkova, and Linda Blahova.
 \newblock Enhancing learning outcomes with interactive courses.
-\newblock In \emph{2023 21st International Conference on Emerging eLearning Technologies and Applications (ICETA)}, pages 324--329. IEEE, 2023.
+\newblock In \emph{2023 21st International Conference on Emerging eLearning
+  Technologies and Applications (ICETA)}, pages 324--329. IEEE, 2023.
 
 \bibitem[Kotenko et~al.(2024)Kotenko, Melnik, and Abramenko]{51}
 Igor~V Kotenko, Maxim~V Melnik, and Georgii~T Abramenko.
-\newblock Anomaly detection in container systems: Using histograms of normal processes and an autoencoder.
-\newblock In \emph{2024 IEEE 25th International Conference of Young Professionals in Electron Devices and Materials (EDM)}, pages 1930--1934. IEEE, 2024.
+\newblock Anomaly detection in container systems: Using histograms of normal
+  processes and an autoencoder.
+\newblock In \emph{2024 IEEE 25th International Conference of Young
+  Professionals in Electron Devices and Materials (EDM)}, pages 1930--1934.
+  IEEE, 2024.
 
 \bibitem[Kozhirbayev and Sinnott(2017)]{KOZHIRBAYEV2017175}
 Zhanibek Kozhirbayev and Richard~O. Sinnott.
-\newblock A performance comparison of container-based technologies for the cloud.
-\newblock \emph{Future Generation Computer Systems}, 68:\penalty0 175--182, 2017.
+\newblock A performance comparison of container-based technologies for the
+  cloud.
+\newblock \emph{Future Generation Computer Systems}, 68:\penalty0 175--182,
+  2017.
 \newblock ISSN 0167-739X.
 \newblock \doi{https://doi.org/10.1016/j.future.2016.08.025}.
-\newblock URL \url{https://www.sciencedirect.com/science/article/pii/S0167739X16303041}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0167739X16303041}.
 
 \bibitem[Kuity and Peddoju(2023)]{134}
 Animesh Kuity and Sateesh~K Peddoju.
-\newblock Investigating performance metrics for container-based hpc environments using x86 and openpower systems.
-\newblock \emph{Journal of Cloud Computing}, 12\penalty0 (1):\penalty0 178, 2023.
+\newblock Investigating performance metrics for container-based hpc
+  environments using x86 and openpower systems.
+\newblock \emph{Journal of Cloud Computing}, 12\penalty0 (1):\penalty0 178,
+  2023.
 
 \bibitem[Kumar et~al.(2024)Kumar, Verma, and Verma]{170}
 Bablu Kumar, Anshul Verma, and Pradeepika Verma.
-\newblock Optimizing resource allocation using proactive scaling with predictive models and custom resources.
-\newblock \emph{Computers and Electrical Engineering}, 118:\penalty0 109419, 2024.
+\newblock Optimizing resource allocation using proactive scaling with
+  predictive models and custom resources.
+\newblock \emph{Computers and Electrical Engineering}, 118:\penalty0 109419,
+  2024.
 
 \bibitem[Kumar and Kaur(2022)]{41}
 Mandeep Kumar and Gagandeep Kaur.
-\newblock An empirical study of containerized mpi and gui application on hpc in the cloud.
-\newblock In \emph{2022 2nd International Conference on Innovative Sustainable Computational Technologies (CISCT)}, pages 1--6. IEEE, 2022.
+\newblock An empirical study of containerized mpi and gui application on hpc in
+  the cloud.
+\newblock In \emph{2022 2nd International Conference on Innovative Sustainable
+  Computational Technologies (CISCT)}, pages 1--6. IEEE, 2022.
 
 \bibitem[Kunekar et~al.(2024)Kunekar, Bhavsar, Das, and Bhavsar]{216}
 Pankaj Kunekar, Nidhi Bhavsar, Kriti Das, and Sachi Bhavsar.
-\newblock Use of docker containerization and load balancer to scale a flask application.
-\newblock In \emph{2024 4th International Conference on Soft Computing for Security Applications (ICSCSA)}, pages 534--541, 2024.
+\newblock Use of docker containerization and load balancer to scale a flask
+  application.
+\newblock In \emph{2024 4th International Conference on Soft Computing for
+  Security Applications (ICSCSA)}, pages 534--541, 2024.
 \newblock \doi{10.1109/ICSCSA64454.2024.00092}.
 
-\bibitem[Kurniawan et~al.(2023)Kurniawan, Ashar, Hidayat, Salsabila, Gautama, Shiddiqi, and Studiawan]{173}
-Arya~Putra Kurniawan, Muhammad~Nasry Ashar, Fajrul Hidayat, Salsabila Salsabila, Pramudya Tiandana~Wisnu Gautama, Ary~Mazharuddin Shiddiqi, and Hudan Studiawan.
-\newblock Performance evaluation for deploying dockerized web application on aws, gcp, and azure.
-\newblock In \emph{2023 IEEE International Conference on Control, Electronics and Computer Technology (ICCECT)}, pages 346--350. IEEE, 2023.
+\bibitem[Kurniawan et~al.(2023)Kurniawan, Ashar, Hidayat, Salsabila, Gautama,
+  Shiddiqi, and Studiawan]{173}
+Arya~Putra Kurniawan, Muhammad~Nasry Ashar, Fajrul Hidayat, Salsabila
+  Salsabila, Pramudya Tiandana~Wisnu Gautama, Ary~Mazharuddin Shiddiqi, and
+  Hudan Studiawan.
+\newblock Performance evaluation for deploying dockerized web application on
+  aws, gcp, and azure.
+\newblock In \emph{2023 IEEE International Conference on Control, Electronics
+  and Computer Technology (ICCECT)}, pages 346--350. IEEE, 2023.
 
 \bibitem[Kwon et~al.(2023)Kwon, Son, and Lee]{219}
 Soonhong Kwon, Wooyoung Son, and Jong-Hyouk Lee.
 \newblock Vdirs: Vulnerable docker image response system.
-\newblock In \emph{Proceedings of the 2023 International Conference on Intelligent Computing and Its Emerging Applications}, pages 78--83, 2023.
+\newblock In \emph{Proceedings of the 2023 International Conference on
+  Intelligent Computing and Its Emerging Applications}, pages 78--83, 2023.
 
 \bibitem[Lee et~al.(2022)Lee, Han, and Lee]{138}
 Hoo-Ki Lee, Sung-Hwa Han, and Daesung Lee.
-\newblock Kernel-based container file access control architecture to protect important application information.
+\newblock Kernel-based container file access control architecture to protect
+  important application information.
 \newblock \emph{Electronics}, 12\penalty0 (1):\penalty0 52, 2022.
 
 \bibitem[Lee et~al.(2024)Lee, Choi, and Jeon]{114}
 Si~Woo Lee, Yeong~Gwang Choi, and Jae~Wook Jeon.
-\newblock Enhancing autonomous driving systems through ros2 and aws cloud: V2i interaction and hpc data processing.
-\newblock In \emph{2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)}, pages 1--6. IEEE, 2024.
+\newblock Enhancing autonomous driving systems through ros2 and aws cloud: V2i
+  interaction and hpc data processing.
+\newblock In \emph{2024 IEEE 33rd International Symposium on Industrial
+  Electronics (ISIE)}, pages 1--6. IEEE, 2024.
 
 \bibitem[Lee et~al.(2023)Lee, Choe, and Ghosh]{183}
 Wonjun Lee, Yung~Ryn Choe, and Raiat~Subhra Ghosh.
-\newblock Recurrent neural network and convolutional neural network for detection of denial of service attack in microservices.
-\newblock In \emph{2023 International Conference on Machine Learning and Applications (ICMLA)}, pages 1451--1456. IEEE, 2023.
+\newblock Recurrent neural network and convolutional neural network for
+  detection of denial of service attack in microservices.
+\newblock In \emph{2023 International Conference on Machine Learning and
+  Applications (ICMLA)}, pages 1451--1456. IEEE, 2023.
 
 \bibitem[Li et~al.(2023{\natexlab{a}})Li, Zhan, and Ren]{12}
 Bin Li, Yuzhuo Zhan, and Shenghan Ren.
-\newblock A fast cold-start solution: container space reuse based on resource isolation.
-\newblock \emph{Electronics}, 12\penalty0 (11):\penalty0 2515, 2023{\natexlab{a}}.
+\newblock A fast cold-start solution: container space reuse based on resource
+  isolation.
+\newblock \emph{Electronics}, 12\penalty0 (11):\penalty0 2515,
+  2023{\natexlab{a}}.
 
-\bibitem[Li et~al.(2023{\natexlab{b}})Li, Takahashi, Ichikawa, Iida, Nakasan, Leelaprute, Thiengburanathum, and Phannachitta]{205}
-Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Chawanat Nakasan, Pattara Leelaprute, Pree Thiengburanathum, and Passakorn Phannachitta.
-\newblock The convergence of container and traditional virtualization: Strengths and limitations.
-\newblock \emph{SN Computer Science}, 4\penalty0 (4):\penalty0 387, 2023{\natexlab{b}}.
+\bibitem[Li et~al.(2023{\natexlab{b}})Li, Takahashi, Ichikawa, Iida, Nakasan,
+  Leelaprute, Thiengburanathum, and Phannachitta]{205}
+Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Chawanat Nakasan,
+  Pattara Leelaprute, Pree Thiengburanathum, and Passakorn Phannachitta.
+\newblock The convergence of container and traditional virtualization:
+  Strengths and limitations.
+\newblock \emph{SN Computer Science}, 4\penalty0 (4):\penalty0 387,
+  2023{\natexlab{b}}.
 
 \bibitem[Li et~al.(2024{\natexlab{a}})Li, Hu, and Liu]{22}
 Mingyang Li, Hongchao Hu, and Wenyan Liu.
-\newblock A secure container placement algorithm based on microservice invocation criticality.
-\newblock In \emph{2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT)}, pages 234--240. IEEE, 2024{\natexlab{a}}.
+\newblock A secure container placement algorithm based on microservice
+  invocation criticality.
+\newblock In \emph{2024 IEEE 2nd International Conference on Control,
+  Electronics and Computer Technology (ICCECT)}, pages 234--240. IEEE,
+  2024{\natexlab{a}}.
 
 \bibitem[Li et~al.(2024{\natexlab{b}})Li, Zeng, and Chen]{224}
 Zhexiong Li, Deze Zeng, and Ranzhao Chen.
-\newblock Webassembly or container? joint optimization of microservice consolidation and deployment towards cost efficient edge-end consortium.
-\newblock In \emph{2024 IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)}, pages 1--10. IEEE, 2024{\natexlab{b}}.
+\newblock Webassembly or container? joint optimization of microservice
+  consolidation and deployment towards cost efficient edge-end consortium.
+\newblock In \emph{2024 IEEE/ACM 32nd International Symposium on Quality of
+  Service (IWQoS)}, pages 1--10. IEEE, 2024{\natexlab{b}}.
 
-\bibitem[Liagkou et~al.(2022)Liagkou, Fragiadakis, Filiopoulou, Michalakelis, Kamalakis, and Nikolaidou]{31}
-Vasiliki Liagkou, George Fragiadakis, Evangelia Filiopoulou, Christos Michalakelis, Thomas Kamalakis, and Mara Nikolaidou.
+\bibitem[Liagkou et~al.(2022)Liagkou, Fragiadakis, Filiopoulou, Michalakelis,
+  Kamalakis, and Nikolaidou]{31}
+Vasiliki Liagkou, George Fragiadakis, Evangelia Filiopoulou, Christos
+  Michalakelis, Thomas Kamalakis, and Mara Nikolaidou.
 \newblock A pricing model for container-as-a-service, based on hedonic indices.
-\newblock \emph{Simulation Modelling Practice and Theory}, 115:\penalty0 102441, 2022.
+\newblock \emph{Simulation Modelling Practice and Theory}, 115:\penalty0
+  102441, 2022.
 
-\bibitem[Ma et~al.(2024)Ma, Luo, Yu, Chen, Xie, Ma, Xie, Sun, Wei, Chen, et~al.]{139}
-Tie Ma, Long Luo, Hongfang Yu, Xi~Chen, Jingzhao Xie, Chongxi Ma, Yunhan Xie, Gang Sun, Tianxi Wei, Li~Chen, et~al.
-\newblock Klonet: an $\{$Easy-to-Use$\}$ and scalable platform for computer networks education.
-\newblock In \emph{21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)}, pages 2025--2046, 2024.
+\bibitem[Ma et~al.(2024)Ma, Luo, Yu, Chen, Xie, Ma, Xie, Sun, Wei, Chen,
+  et~al.]{139}
+Tie Ma, Long Luo, Hongfang Yu, Xi~Chen, Jingzhao Xie, Chongxi Ma, Yunhan Xie,
+  Gang Sun, Tianxi Wei, Li~Chen, et~al.
+\newblock Klonet: an $\{$Easy-to-Use$\}$ and scalable platform for computer
+  networks education.
+\newblock In \emph{21st USENIX Symposium on Networked Systems Design and
+  Implementation (NSDI 24)}, pages 2025--2046, 2024.
 
 \bibitem[Madi and Esteves-Verissimo(2022)]{13}
 Taous Madi and Paulo Esteves-Verissimo.
-\newblock A fault and intrusion tolerance framework for containerized environments: A specification-based error detection approach.
-\newblock In \emph{2022 International Workshop on Secure and Reliable Microservices and Containers (SRMC)}, pages 1--8. IEEE, 2022.
+\newblock A fault and intrusion tolerance framework for containerized
+  environments: A specification-based error detection approach.
+\newblock In \emph{2022 International Workshop on Secure and Reliable
+  Microservices and Containers (SRMC)}, pages 1--8. IEEE, 2022.
 
 \bibitem[Mailewa et~al.(2022)Mailewa, Mengel, Gittner, and Khan]{157}
 Akalanka Mailewa, Susan Mengel, Lisa Gittner, and Hafiz Khan.
-\newblock Mechanisms and techniques to enhance the security of big data analytic framework with mongodb and linux containers.
+\newblock Mechanisms and techniques to enhance the security of big data
+  analytic framework with mongodb and linux containers.
 \newblock \emph{Array}, 15:\penalty0 100236, 2022.
 
 \bibitem[Malan(2024)]{89}
 David~J Malan.
-\newblock Containerizing cs50: Standardizing students' programming environments.
-\newblock In \emph{Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1}, pages 534--540. 2024.
+\newblock Containerizing cs50: Standardizing students' programming
+  environments.
+\newblock In \emph{Proceedings of the 2024 on Innovation and Technology in
+  Computer Science Education V. 1}, pages 534--540. 2024.
 
 \bibitem[Malhotra et~al.(2023)Malhotra, Bansal, and Kessentini]{221}
 Ruchika Malhotra, Anjali Bansal, and Marouane Kessentini.
-\newblock Vulnerability analysis of docker hub official images and verified images.
-\newblock In \emph{2023 IEEE International Conference on Service-Oriented System Engineering (SOSE)}, pages 150--155. IEEE, 2023.
+\newblock Vulnerability analysis of docker hub official images and verified
+  images.
+\newblock In \emph{2023 IEEE International Conference on Service-Oriented
+  System Engineering (SOSE)}, pages 150--155. IEEE, 2023.
 
-\bibitem[Malhotra et~al.(2024{\natexlab{a}})Malhotra, Bansal, and Kessentini]{25}
+\bibitem[Malhotra et~al.(2024{\natexlab{a}})Malhotra, Bansal, and
+  Kessentini]{25}
 Ruchika Malhotra, Anjali Bansal, and Marouane Kessentini.
 \newblock A systematic literature review on maintenance of software containers.
-\newblock \emph{ACM Computing Surveys}, 56\penalty0 (8):\penalty0 1--38, 2024{\natexlab{a}}.
+\newblock \emph{ACM Computing Surveys}, 56\penalty0 (8):\penalty0 1--38,
+  2024{\natexlab{a}}.
 
-\bibitem[Malhotra et~al.(2024{\natexlab{b}})Malhotra, Bansal, and Kessentini]{Malhotra2024}
+\bibitem[Malhotra et~al.(2024{\natexlab{b}})Malhotra, Bansal, and
+  Kessentini]{Malhotra2024}
 Ruchika Malhotra, Anjali Bansal, and Marouane Kessentini.
-\newblock {A Systematic Literature Review on Maintenance of Software Containers}.
+\newblock {A Systematic Literature Review on Maintenance of Software
+  Containers}.
 \newblock \emph{ACM Computing Surveys}, 56\penalty0 (8), 2024{\natexlab{b}}.
 \newblock ISSN 15577341.
 \newblock \doi{10.1145/3645092}.
 
 \bibitem[Malviya and Dwivedi(2022)]{3}
 Anshita Malviya and Rajendra~Kumar Dwivedi.
-\newblock A comparative analysis of container orchestration tools in cloud computing.
-\newblock In \emph{2022 9th International conference on computing for sustainable global development (INDIACom)}, pages 698--703. IEEE, 2022.
+\newblock A comparative analysis of container orchestration tools in cloud
+  computing.
+\newblock In \emph{2022 9th International conference on computing for
+  sustainable global development (INDIACom)}, pages 698--703. IEEE, 2022.
 
 \bibitem[Mehran and Ulus(2024)]{186}
 Ali Mehran and Dogan Ulus.
@@ -822,145 +1170,210 @@ Ali Mehran and Dogan Ulus.
 
 \bibitem[Melo et~al.(2023)Melo, Gama, Dantas, Beserra, and Araujo]{174}
 Pedro Melo, Lucas Gama, Jamilson Dantas, David Beserra, and Jean Araujo.
-\newblock Performance evaluation of container management tasks in os-level virtualization platforms.
-\newblock In \emph{2023 IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)}, pages 1--6. IEEE, 2023.
+\newblock Performance evaluation of container management tasks in os-level
+  virtualization platforms.
+\newblock In \emph{2023 IEEE International Conference on Enabling Technologies:
+  Infrastructure for Collaborative Enterprises (WETICE)}, pages 1--6. IEEE,
+  2023.
 
 \bibitem[Mills et~al.(2023)Mills, White, and Legg]{153}
 Alan Mills, Jonathan White, and Phil Legg.
-\newblock Longitudinal risk-based security assessment of docker software container images.
+\newblock Longitudinal risk-based security assessment of docker software
+  container images.
 \newblock \emph{Computers \& Security}, 135:\penalty0 103478, 2023.
 
 \bibitem[Modey et~al.(2024)Modey, Freeman, Opoku-Yeboah, and Avulekpor]{16}
 Prince Modey, Emmanuel Freeman, Stanley Opoku-Yeboah, and Ebenezer Avulekpor.
-\newblock A hybrid security algorithm in container-based virtualization environments using residue number systems.
-\newblock In \emph{2024 Conference on Information Communications Technology and Society (ICTAS)}, pages 107--112. IEEE, 2024.
+\newblock A hybrid security algorithm in container-based virtualization
+  environments using residue number systems.
+\newblock In \emph{2024 Conference on Information Communications Technology and
+  Society (ICTAS)}, pages 107--112. IEEE, 2024.
 
 \bibitem[Moln{\'a}r et~al.(2023)Moln{\'a}r, J{\'o}zsef, and {\'E}va]{120}
 Gy{\"o}rgy Moln{\'a}r, Cserk{\'o} J{\'o}zsef, and Karl {\'E}va.
-\newblock Evaluation and technological solutions for a dynamic, unified cloud programming development environment: Ease of use and applicable system for uniformized practices and assessments.
-\newblock In \emph{2023 IEEE 21st World Symposium on Applied Machine Intelligence and Informatics (SAMI)}, pages 000237--000240. IEEE, 2023.
+\newblock Evaluation and technological solutions for a dynamic, unified cloud
+  programming development environment: Ease of use and applicable system for
+  uniformized practices and assessments.
+\newblock In \emph{2023 IEEE 21st World Symposium on Applied Machine
+  Intelligence and Informatics (SAMI)}, pages 000237--000240. IEEE, 2023.
 
 \bibitem[Mondal et~al.(2024{\natexlab{a}})Mondal, Wu, and Pan]{163}
 Subrota~Kumar Mondal, Xiaohai Wu, and Rui Pan.
 \newblock On rapid application deployment with kubernetes.
-\newblock In \emph{Proceedings of the 2024 4th International Conference on Artificial Intelligence, Automation and Algorithms}, pages 76--80, 2024{\natexlab{a}}.
+\newblock In \emph{Proceedings of the 2024 4th International Conference on
+  Artificial Intelligence, Automation and Algorithms}, pages 76--80,
+  2024{\natexlab{a}}.
 
 \bibitem[Mondal et~al.(2024{\natexlab{b}})Mondal, Zheng, and Cheng]{164}
 Subrota~Kumar Mondal, Zhen Zheng, and Yuning Cheng.
-\newblock On the optimization of kubernetes toward the enhancement of cloud computing.
-\newblock \emph{Mathematics}, 12\penalty0 (16):\penalty0 2476, 2024{\natexlab{b}}.
+\newblock On the optimization of kubernetes toward the enhancement of cloud
+  computing.
+\newblock \emph{Mathematics}, 12\penalty0 (16):\penalty0 2476,
+  2024{\natexlab{b}}.
 
 \bibitem[Moric et~al.(2024)Moric, Dakic, and Kulic]{131}
 Zlatan Moric, Vedran Dakic, and Matej Kulic.
 \newblock Implementing a security framework for container orchestration.
-\newblock In \emph{2024 IEEE 11th International Conference on Cyber Security and Cloud Computing (CSCloud)}, pages 200--206. IEEE, 2024.
+\newblock In \emph{2024 IEEE 11th International Conference on Cyber Security
+  and Cloud Computing (CSCloud)}, pages 200--206. IEEE, 2024.
 
-\bibitem[Mourao et~al.(2017)Mourao, Kalinowski, Murta, Mendes, and Wohlin]{Mourao2017}
-Erica Mourao, Marcos Kalinowski, Leonardo Murta, Emilia Mendes, and Claes Wohlin.
-\newblock {Investigating the Use of a Hybrid Search Strategy for Systematic Reviews}.
-\newblock \emph{International Symposium on Empirical Software Engineering and Measurement}, 2017-November:\penalty0 193--198, 2017.
+\bibitem[Mourao et~al.(2017)Mourao, Kalinowski, Murta, Mendes, and
+  Wohlin]{Mourao2017}
+Erica Mourao, Marcos Kalinowski, Leonardo Murta, Emilia Mendes, and Claes
+  Wohlin.
+\newblock {Investigating the Use of a Hybrid Search Strategy for Systematic
+  Reviews}.
+\newblock \emph{International Symposium on Empirical Software Engineering and
+  Measurement}, 2017-November:\penalty0 193--198, 2017.
 \newblock ISSN 19493789.
 \newblock \doi{10.1109/ESEM.2017.30}.
 
 \bibitem[Moussa et~al.(2022)Moussa, Nashaat, Saber, and Rizk]{77}
 Walid Moussa, Mona Nashaat, Walaa Saber, and Rawya Rizk.
-\newblock Comprehensive study on machine learning-based container scheduling in cloud.
-\newblock In \emph{International Conference on Advanced Machine Learning Technologies and Applications}, pages 581--592. Springer, 2022.
+\newblock Comprehensive study on machine learning-based container scheduling in
+  cloud.
+\newblock In \emph{International Conference on Advanced Machine Learning
+  Technologies and Applications}, pages 581--592. Springer, 2022.
 
-\bibitem[Moysiadis et~al.(2022)Moysiadis, Tsakos, Sarigiannidis, Petrakis, Boursianis, and Goudos]{2}
-Vasileios Moysiadis, Konstantinos Tsakos, Panagiotis Sarigiannidis, Euripides~GM Petrakis, Achilles~D Boursianis, and Sotirios~K Goudos.
-\newblock A cloud computing web-based application for smart farming based on microservices architecture.
-\newblock In \emph{2022 11th International Conference on Modern Circuits and Systems Technologies (MOCAST)}, pages 1--5. IEEE, 2022.
+\bibitem[Moysiadis et~al.(2022)Moysiadis, Tsakos, Sarigiannidis, Petrakis,
+  Boursianis, and Goudos]{2}
+Vasileios Moysiadis, Konstantinos Tsakos, Panagiotis Sarigiannidis,
+  Euripides~GM Petrakis, Achilles~D Boursianis, and Sotirios~K Goudos.
+\newblock A cloud computing web-based application for smart farming based on
+  microservices architecture.
+\newblock In \emph{2022 11th International Conference on Modern Circuits and
+  Systems Technologies (MOCAST)}, pages 1--5. IEEE, 2022.
 
 \bibitem[Mthembu et~al.(2023)Mthembu, Ezeji, and Adigun]{171}
 Sabelo~Justice Mthembu, Ijeoma~Noella Ezeji, and Matthew Adigun.
-\newblock Orchestration tools for efficient deployment of iot applications in fog computing: A systematic review.
-\newblock In \emph{International Conference on Artificial Intelligence and its Applications}, pages 146--151, 2023.
+\newblock Orchestration tools for efficient deployment of iot applications in
+  fog computing: A systematic review.
+\newblock In \emph{International Conference on Artificial Intelligence and its
+  Applications}, pages 146--151, 2023.
 
-\bibitem[Mujkanovic et~al.(2023)Mujkanovic, Durillo, Hammer, and M{\"u}ller]{200}
+\bibitem[Mujkanovic et~al.(2023)Mujkanovic, Durillo, Hammer, and
+  M{\"u}ller]{200}
 Nina Mujkanovic, Juan~J Durillo, Nicolay Hammer, and Tiziano M{\"u}ller.
 \newblock Survey of adaptive containerization architectures for hpc.
-\newblock In \emph{Proceedings of the SC'23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis}, pages 165--176, 2023.
+\newblock In \emph{Proceedings of the SC'23 Workshops of the International
+  Conference on High Performance Computing, Network, Storage, and Analysis},
+  pages 165--176, 2023.
 
 \bibitem[Nakakaze et~al.(2024)Nakakaze, Koren, Brillowski, and Klamma]{36}
 Otoya Nakakaze, Istv{\'a}n Koren, Florian Brillowski, and Ralf Klamma.
-\newblock Adaptive retrofitting for industrial machines: utilizing webassembly and peer-to-peer connectivity on the edge.
+\newblock Adaptive retrofitting for industrial machines: utilizing webassembly
+  and peer-to-peer connectivity on the edge.
 \newblock \emph{World Wide Web}, 27\penalty0 (1):\penalty0 7, 2024.
 
-\bibitem[Nakarmi et~al.(2024)Nakarmi, Kesharwani, Mallick, Jhingran, and Raj]{8}
-Aakash Nakarmi, Harshit Kesharwani, Tamoshree Mallick, Sushant Jhingran, and Gaurav Raj.
-\newblock A comprehensive study on optimization techniques for microservices deployment.
-\newblock In \emph{2024 Sixth International Conference on Computational Intelligence and Communication Technologies (CCICT)}, pages 133--140. IEEE, 2024.
+\bibitem[Nakarmi et~al.(2024)Nakarmi, Kesharwani, Mallick, Jhingran, and
+  Raj]{8}
+Aakash Nakarmi, Harshit Kesharwani, Tamoshree Mallick, Sushant Jhingran, and
+  Gaurav Raj.
+\newblock A comprehensive study on optimization techniques for microservices
+  deployment.
+\newblock In \emph{2024 Sixth International Conference on Computational
+  Intelligence and Communication Technologies (CCICT)}, pages 133--140. IEEE,
+  2024.
 
-\bibitem[Narasimhulu et~al.(2023)Narasimhulu, Mounika, Varshini, Rao, et~al.]{135}
-Modugula Narasimhulu, Darapureddy~Veera Mounika, Puttagunta Varshini, TK~Rama~Krishna Rao, et~al.
-\newblock Investigating the impact of containerization on the deployment process in devops.
-\newblock In \emph{2023 2nd International Conference on Edge Computing and Applications (ICECAA)}, pages 679--685. IEEE, 2023.
+\bibitem[Narasimhulu et~al.(2023)Narasimhulu, Mounika, Varshini, Rao,
+  et~al.]{135}
+Modugula Narasimhulu, Darapureddy~Veera Mounika, Puttagunta Varshini,
+  TK~Rama~Krishna Rao, et~al.
+\newblock Investigating the impact of containerization on the deployment
+  process in devops.
+\newblock In \emph{2023 2nd International Conference on Edge Computing and
+  Applications (ICECAA)}, pages 679--685. IEEE, 2023.
 
 \bibitem[Naydenov and Ruseva(2023{\natexlab{a}})]{10094059}
 Nikolas Naydenov and Stela Ruseva.
-\newblock {Cloud Container Orchestration Architectures, Models and Methods: a Systematic Mapping Study}.
-\newblock In \emph{2023 22nd International Symposium INFOTEH-JAHORINA, INFOTEH 2023}, pages 1--8, mar 2023{\natexlab{a}}.
+\newblock {Cloud Container Orchestration Architectures, Models and Methods: a
+  Systematic Mapping Study}.
+\newblock In \emph{2023 22nd International Symposium INFOTEH-JAHORINA, INFOTEH
+  2023}, pages 1--8, mar 2023{\natexlab{a}}.
 \newblock ISBN 9781665475464.
 \newblock \doi{10.1109/INFOTEH57020.2023.10094059}.
 
 \bibitem[Naydenov and Ruseva(2023{\natexlab{b}})]{68}
 Nikolas Naydenov and Stela Ruseva.
-\newblock Cloud container orchestration architectures, models and methods: a systematic mapping study.
-\newblock In \emph{2023 22nd International Symposium INFOTEH-JAHORINA (INFOTEH)}, pages 1--8. IEEE, 2023{\natexlab{b}}.
+\newblock Cloud container orchestration architectures, models and methods: a
+  systematic mapping study.
+\newblock In \emph{2023 22nd International Symposium INFOTEH-JAHORINA
+  (INFOTEH)}, pages 1--8. IEEE, 2023{\natexlab{b}}.
 
 \bibitem[Ndigande et~al.(2024)Ndigande, Ari, and Ozer]{45}
 Alain~P Ndigande, Ismail Ari, and Sedat Ozer.
-\newblock Analysis and comparison of dockerized and standalone apache spark configurations for efficient distributed data processing.
-\newblock In \emph{2024 Innovations in Intelligent Systems and Applications Conference (ASYU)}, pages 1--5. IEEE, 2024.
+\newblock Analysis and comparison of dockerized and standalone apache spark
+  configurations for efficient distributed data processing.
+\newblock In \emph{2024 Innovations in Intelligent Systems and Applications
+  Conference (ASYU)}, pages 1--5. IEEE, 2024.
 
 \bibitem[Needleman(2002)]{Needleman2002}
 Ian~G. Needleman.
 \newblock {A guide to systematic reviews}.
-\newblock \emph{Journal of Clinical Periodontology}, 29\penalty0 (SUPPL. 3):\penalty0 6--9, 2002.
+\newblock \emph{Journal of Clinical Periodontology}, 29\penalty0 (SUPPL.
+  3):\penalty0 6--9, 2002.
 \newblock ISSN 03036979.
 \newblock \doi{10.1034/j.1600-051x.29.s3.15.x}.
 
 \bibitem[Nelson and Shoshitaishvili(2024)]{96}
 Connor Nelson and Yan Shoshitaishvili.
 \newblock Dojo: applied cybersecurity education in the browser.
-\newblock In \emph{Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1}, pages 930--936, 2024.
+\newblock In \emph{Proceedings of the 55th ACM Technical Symposium on Computer
+  Science Education V. 1}, pages 930--936, 2024.
 
 \bibitem[Nguyen et~al.(2015)Nguyen, Kramer, Klein, and Traon]{Nguyen2015}
 Phu~H. Nguyen, Max Kramer, Jacques Klein, and Yves~Le Traon.
-\newblock {An extensive systematic review on the Model-Driven Development of secure systems}.
-\newblock \emph{Information and Software Technology}, 68:\penalty0 62--81, 2015.
+\newblock {An extensive systematic review on the Model-Driven Development of
+  secure systems}.
+\newblock \emph{Information and Software Technology}, 68:\penalty0 62--81,
+  2015.
 \newblock ISSN 09505849.
 \newblock \doi{10.1016/j.infsof.2015.08.006}.
 
 \bibitem[Pankowski and Powro{\'z}nik(2023)]{76}
 Adam Pankowski and Pawe{\l} Powro{\'z}nik.
 \newblock Comparison of application container orchestration platforms.
-\newblock \emph{Journal of Computer Sciences Institute}, 29:\penalty0 383--390, 2023.
+\newblock \emph{Journal of Computer Sciences Institute}, 29:\penalty0 383--390,
+  2023.
 
-\bibitem[Pastor-Galindo et~al.(2024)Pastor-Galindo, Sandlin, M{\'a}rmol, Bovet, and P{\'e}rez]{1}
-Javier Pastor-Galindo, H{\^o}ng-{\^A}n Sandlin, F{\'e}lix~G{\'o}mez M{\'a}rmol, G{\'e}r{\^o}me Bovet, and Gregorio~Mart{\'\i}nez P{\'e}rez.
-\newblock A big data architecture for early identification and categorization of dark web sites.
-\newblock \emph{Future Generation Computer Systems}, 157:\penalty0 67--81, 2024.
+\bibitem[Pastor-Galindo et~al.(2024)Pastor-Galindo, Sandlin, M{\'a}rmol, Bovet,
+  and P{\'e}rez]{1}
+Javier Pastor-Galindo, H{\^o}ng-{\^A}n Sandlin, F{\'e}lix~G{\'o}mez M{\'a}rmol,
+  G{\'e}r{\^o}me Bovet, and Gregorio~Mart{\'\i}nez P{\'e}rez.
+\newblock A big data architecture for early identification and categorization
+  of dark web sites.
+\newblock \emph{Future Generation Computer Systems}, 157:\penalty0 67--81,
+  2024.
 
 \bibitem[Patra et~al.(2022)Patra, Kumari, Sahoo, and Turuk]{105}
 Manoj~Kumar Patra, Anisha Kumari, Bibhudatta Sahoo, and Ashok~Kumar Turuk.
-\newblock Docker security: Threat model and best practices to secure a docker container.
-\newblock In \emph{2022 IEEE 2nd International Symposium on Sustainable Energy, Signal Processing and Cyber Security (iSSSC)}, pages 1--6. IEEE, 2022.
+\newblock Docker security: Threat model and best practices to secure a docker
+  container.
+\newblock In \emph{2022 IEEE 2nd International Symposium on Sustainable Energy,
+  Signal Processing and Cyber Security (iSSSC)}, pages 1--6. IEEE, 2022.
 
 \bibitem[Patra et~al.(2023)Patra, Sahoo, and Turuk]{84}
 Manoj~Kumar Patra, Bibhudatta Sahoo, and Ashok~Kumar Turuk.
-\newblock Container as a service in the cloud: An approach to secure hybrid virtualization.
-\newblock In \emph{Recent Trends and Best Practices in Industry 4.0}, pages 59--76. River Publishers, 2023.
+\newblock Container as a service in the cloud: An approach to secure hybrid
+  virtualization.
+\newblock In \emph{Recent Trends and Best Practices in Industry 4.0}, pages
+  59--76. River Publishers, 2023.
 
-\bibitem[Pavao et~al.(2023)Pavao, Guyon, Letournel, Tran, Baro, Escalante, Escalera, Thomas, and Xu]{72}
-Adrien Pavao, Isabelle Guyon, Anne-Catherine Letournel, Dinh-Tuan Tran, Xavier Baro, Hugo~Jair Escalante, Sergio Escalera, Tyler Thomas, and Zhen Xu.
-\newblock Codalab competitions: An open source platform to organize scientific challenges.
-\newblock \emph{Journal of Machine Learning Research}, 24\penalty0 (198):\penalty0 1--6, 2023.
+\bibitem[Pavao et~al.(2023)Pavao, Guyon, Letournel, Tran, Baro, Escalante,
+  Escalera, Thomas, and Xu]{72}
+Adrien Pavao, Isabelle Guyon, Anne-Catherine Letournel, Dinh-Tuan Tran, Xavier
+  Baro, Hugo~Jair Escalante, Sergio Escalera, Tyler Thomas, and Zhen Xu.
+\newblock Codalab competitions: An open source platform to organize scientific
+  challenges.
+\newblock \emph{Journal of Machine Learning Research}, 24\penalty0
+  (198):\penalty0 1--6, 2023.
 
-\bibitem[P{\'e}rez et~al.(2023)P{\'e}rez, Rivera, Salgueiro, Baier, and Wheeler]{159}
-Ricardo P{\'e}rez, Marco Rivera, Yamisleydi Salgueiro, Carlos~R Baier, and Patrick Wheeler.
-\newblock Moving microgrid hierarchical control to an sdn-based kubernetes cluster: A framework for reliable and flexible energy distribution.
+\bibitem[P{\'e}rez et~al.(2023)P{\'e}rez, Rivera, Salgueiro, Baier, and
+  Wheeler]{159}
+Ricardo P{\'e}rez, Marco Rivera, Yamisleydi Salgueiro, Carlos~R Baier, and
+  Patrick Wheeler.
+\newblock Moving microgrid hierarchical control to an sdn-based kubernetes
+  cluster: A framework for reliable and flexible energy distribution.
 \newblock \emph{Sensors}, 23\penalty0 (7):\penalty0 3395, 2023.
 
 \bibitem[Petticrew and Roberts(2008)]{petticrew2008systematic}
@@ -968,140 +1381,201 @@ Mark Petticrew and Helen Roberts.
 \newblock \emph{Systematic reviews in the social sciences: A practical guide}.
 \newblock John Wiley \& Sons, 2008.
 
-\bibitem[Purahong et~al.(2023)Purahong, Sithiyopasakul, Sithiyopasakul, Lasakul, and Benjangkaprasert]{57}
-B~Purahong, J~Sithiyopasakul, P~Sithiyopasakul, A~Lasakul, and C~Benjangkaprasert.
-\newblock Automated resource management system based upon container orchestration tools comparison.
-\newblock \emph{Journal of Advances in Information Technology}, 14\penalty0 (3), 2023.
+\bibitem[Purahong et~al.(2023)Purahong, Sithiyopasakul, Sithiyopasakul,
+  Lasakul, and Benjangkaprasert]{57}
+B~Purahong, J~Sithiyopasakul, P~Sithiyopasakul, A~Lasakul, and
+  C~Benjangkaprasert.
+\newblock Automated resource management system based upon container
+  orchestration tools comparison.
+\newblock \emph{Journal of Advances in Information Technology}, 14\penalty0
+  (3), 2023.
 
 \bibitem[Qian(2022)]{38}
 Cheng Qian.
-\newblock An accurate financial aid system for university students built on a cloud platform.
-\newblock In \emph{2022 International Conference on Knowledge Engineering and Communication Systems (ICKES)}, pages 1--6. IEEE, 2022.
+\newblock An accurate financial aid system for university students built on a
+  cloud platform.
+\newblock In \emph{2022 International Conference on Knowledge Engineering and
+  Communication Systems (ICKES)}, pages 1--6. IEEE, 2022.
 
 \bibitem[Raj et~al.(2022)Raj, Kumar, and Kumar]{70}
 Pallav Raj, Ravi~Shankar Kumar, and Avneesh Kumar.
 \newblock Cloud security.
-\newblock In \emph{2022 4th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)}, pages 1890--1894. IEEE, 2022.
+\newblock In \emph{2022 4th International Conference on Advances in Computing,
+  Communication Control and Networking (ICAC3N)}, pages 1890--1894. IEEE, 2022.
 
 \bibitem[Raj(2023)]{15}
 Vinay Raj.
-\newblock A framework for migration of microservices based applications to serverless platform with efficient cold start latency.
+\newblock A framework for migration of microservices based applications to
+  serverless platform with efficient cold start latency.
 \newblock \emph{Authorea Preprints}, 2023.
 
-\bibitem[Rajasekar et~al.(2024)Rajasekar, Sara{\v{c}}evi{\'e}, Karaba{\v{c}}evi{\'c}, Stanujki{\'c}, Hasi{\'c}, Azizovi{\'c}, and Thirumalai]{193}
-V~Rajasekar, M~Sara{\v{c}}evi{\'e}, D~Karaba{\v{c}}evi{\'c}, D~Stanujki{\'c}, A~Hasi{\'c}, M~Azizovi{\'c}, and S~Thirumalai.
-\newblock Security-enhanced qos-aware autoscaling of kubernetes pods using horizontal pod autoscaler (hpa).
-\newblock \emph{Journal of intelligent management decision}, 3\penalty0 (3):\penalty0 175--186, 2024.
+\bibitem[Rajasekar et~al.(2024)Rajasekar, Sara{\v{c}}evi{\'e},
+  Karaba{\v{c}}evi{\'c}, Stanujki{\'c}, Hasi{\'c}, Azizovi{\'c}, and
+  Thirumalai]{193}
+V~Rajasekar, M~Sara{\v{c}}evi{\'e}, D~Karaba{\v{c}}evi{\'c}, D~Stanujki{\'c},
+  A~Hasi{\'c}, M~Azizovi{\'c}, and S~Thirumalai.
+\newblock Security-enhanced qos-aware autoscaling of kubernetes pods using
+  horizontal pod autoscaler (hpa).
+\newblock \emph{Journal of intelligent management decision}, 3\penalty0
+  (3):\penalty0 175--186, 2024.
 
-\bibitem[Ramanathan et~al.(2024)Ramanathan, Bhattacharyya, Kondepu, and Fumagalli]{113}
-Shunmugapriya Ramanathan, Abhishek Bhattacharyya, Koteswararao Kondepu, and Andrea Fumagalli.
-\newblock Enabling containerized central unit live migration in 5g radio access network: An experimental study.
-\newblock \emph{Journal of Network and Computer Applications}, 221:\penalty0 103767, 2024.
+\bibitem[Ramanathan et~al.(2024)Ramanathan, Bhattacharyya, Kondepu, and
+  Fumagalli]{113}
+Shunmugapriya Ramanathan, Abhishek Bhattacharyya, Koteswararao Kondepu, and
+  Andrea Fumagalli.
+\newblock Enabling containerized central unit live migration in 5g radio access
+  network: An experimental study.
+\newblock \emph{Journal of Network and Computer Applications}, 221:\penalty0
+  103767, 2024.
 
 \bibitem[Rashid and Qasha(2022)]{71}
 Shaimaa~Fahad Rashid and Rawaa~Putros Qasha.
-\newblock Cloud-based big data approach for managing multi-types data of cultural heritage.
-\newblock In \emph{2022 International Conference on Communications, Information, Electronic and Energy Systems (CIEES)}, pages 1--6. IEEE, 2022.
+\newblock Cloud-based big data approach for managing multi-types data of
+  cultural heritage.
+\newblock In \emph{2022 International Conference on Communications,
+  Information, Electronic and Energy Systems (CIEES)}, pages 1--6. IEEE, 2022.
 
-\bibitem[Rodriguez et~al.(2024)Rodriguez, Yannibelli, Rocha, Barbara, Azevedo, and Menezes]{215}
-Guillermo Rodriguez, Virginia Yannibelli, Fabio~G Rocha, Dawitt Barbara, Igor~M Azevedo, and Pablo~M Menezes.
-\newblock Understanding and addressing the allocation of microservices into containers: A review.
-\newblock \emph{IETE Journal of Research}, 70\penalty0 (4):\penalty0 3887--3900, 2024.
+\bibitem[Rodriguez et~al.(2024)Rodriguez, Yannibelli, Rocha, Barbara, Azevedo,
+  and Menezes]{215}
+Guillermo Rodriguez, Virginia Yannibelli, Fabio~G Rocha, Dawitt Barbara, Igor~M
+  Azevedo, and Pablo~M Menezes.
+\newblock Understanding and addressing the allocation of microservices into
+  containers: A review.
+\newblock \emph{IETE Journal of Research}, 70\penalty0 (4):\penalty0
+  3887--3900, 2024.
 
 \bibitem[Rosa et~al.(2023)Rosa, Scalabrino, Bavota, and Oliveto]{225}
 Giovanni Rosa, Simone Scalabrino, Gabriele Bavota, and Rocco Oliveto.
 \newblock What quality aspects influence the adoption of docker images?
-\newblock \emph{ACM Transactions on Software Engineering and Methodology}, 32\penalty0 (6):\penalty0 1--30, 2023.
+\newblock \emph{ACM Transactions on Software Engineering and Methodology},
+  32\penalty0 (6):\penalty0 1--30, 2023.
 
 \bibitem[Rosa et~al.(2024)Rosa, Zappone, Scalabrino, and Oliveto]{124}
 Giovanni Rosa, Federico Zappone, Simone Scalabrino, and Rocco Oliveto.
 \newblock Fixing dockerfile smells: an empirical study.
-\newblock \emph{Empirical Software Engineering}, 29\penalty0 (5):\penalty0 108, 2024.
+\newblock \emph{Empirical Software Engineering}, 29\penalty0 (5):\penalty0 108,
+  2024.
 
 \bibitem[Rosmaninho et~al.(2023)Rosmaninho, Raposo, Rito, and Sargento]{208}
 Rodrigo Rosmaninho, Duarte Raposo, Pedro Rito, and Susana Sargento.
 \newblock Time constraints on vehicular edge computing: A performance analysis.
-\newblock In \emph{NOMS 2023-2023 IEEE/IFIP Network Operations and Management Symposium}, pages 1--7. IEEE, 2023.
+\newblock In \emph{NOMS 2023-2023 IEEE/IFIP Network Operations and Management
+  Symposium}, pages 1--7. IEEE, 2023.
 
 \bibitem[Roy et~al.(2024)Roy, Dobson, Campbell, and Kalafatis]{110}
 Swarnabha Roy, Reece Dobson, Jack Campbell, and Stavros Kalafatis.
-\newblock Efficient resource allocation for multi-robot collaboration via traffic-aware pod autoscaling.
-\newblock In \emph{2024 7th Conference on Cloud and Internet of Things (CIoT)}, pages 1--8. IEEE, 2024.
+\newblock Efficient resource allocation for multi-robot collaboration via
+  traffic-aware pod autoscaling.
+\newblock In \emph{2024 7th Conference on Cloud and Internet of Things (CIoT)},
+  pages 1--8. IEEE, 2024.
 
-\bibitem[Ruiz~R{\'o}denas et~al.(2024)Ruiz~R{\'o}denas, Pastor-Galindo, and G{\'o}mez~M{\'a}rmol]{28}
-Jos{\'e}~Manuel Ruiz~R{\'o}denas, Javier Pastor-Galindo, and F{\'e}lix G{\'o}mez~M{\'a}rmol.
+\bibitem[Ruiz~R{\'o}denas et~al.(2024)Ruiz~R{\'o}denas, Pastor-Galindo, and
+  G{\'o}mez~M{\'a}rmol]{28}
+Jos{\'e}~Manuel Ruiz~R{\'o}denas, Javier Pastor-Galindo, and F{\'e}lix
+  G{\'o}mez~M{\'a}rmol.
 \newblock A general and modular framework for dark web analysis.
 \newblock \emph{Cluster Computing}, 27\penalty0 (4):\penalty0 4687--4703, 2024.
 
 \bibitem[Runeson and H{\"{o}}st(2009)]{Runeson2009}
 Per Runeson and Martin H{\"{o}}st.
 \newblock {Tutorial: Case studies in software engineering}.
-\newblock \emph{Lecture Notes in Business Information Processing}, 32 LNBIP:\penalty0 441--442, 2009.
+\newblock \emph{Lecture Notes in Business Information Processing}, 32
+  LNBIP:\penalty0 441--442, 2009.
 \newblock ISSN 18651348.
 \newblock \doi{10.1007/978-3-642-02152-7_36}.
 
-\bibitem[Savitha et~al.(2023)Savitha, Sangana, Devendran, Pravin, Rajkumar, and Nirmal]{55}
+\bibitem[Savitha et~al.(2023)Savitha, Sangana, Devendran, Pravin, Rajkumar, and
+  Nirmal]{55}
 S~Savitha, C~Sangana, K~Devendran, L~Pravin, M~Rajkumar, and C~Nirmal.
-\newblock Auto scaling infrastructure with monitoring tools using linux server on cloud.
-\newblock In \emph{2023 7th International Conference on Computing Methodologies and Communication (ICCMC)}, pages 45--52. IEEE, 2023.
+\newblock Auto scaling infrastructure with monitoring tools using linux server
+  on cloud.
+\newblock In \emph{2023 7th International Conference on Computing Methodologies
+  and Communication (ICCMC)}, pages 45--52. IEEE, 2023.
 
-\bibitem[Saxena et~al.(2024)Saxena, Singh, Prakash, Yadav, Yang, Rathore, and Singh]{100}
-Adarsh Saxena, Sudhakar Singh, Shiv Prakash, Nand~Lal Yadav, Tiansheng Yang, Raikumar~Singh Rathore, and Shreya Singh.
-\newblock Design and implementation of flutter based multi-platform docker controller app.
-\newblock In \emph{2024 International Conference on Decision Aid Sciences and Applications (DASA)}, pages 1--6. IEEE, 2024.
+\bibitem[Saxena et~al.(2024)Saxena, Singh, Prakash, Yadav, Yang, Rathore, and
+  Singh]{100}
+Adarsh Saxena, Sudhakar Singh, Shiv Prakash, Nand~Lal Yadav, Tiansheng Yang,
+  Raikumar~Singh Rathore, and Shreya Singh.
+\newblock Design and implementation of flutter based multi-platform docker
+  controller app.
+\newblock In \emph{2024 International Conference on Decision Aid Sciences and
+  Applications (DASA)}, pages 1--6. IEEE, 2024.
 
 \bibitem[Saxena et~al.(2022)Saxena, Saxena, and Singh]{192}
 Vivek Saxena, Deepika Saxena, and Uday~Pratap Singh.
-\newblock Security enhancement using image verification method to secure docker containers.
-\newblock In \emph{Proceedings of the 4th International Conference on Information Management \& Machine Intelligence}, pages 1--5, 2022.
+\newblock Security enhancement using image verification method to secure docker
+  containers.
+\newblock In \emph{Proceedings of the 4th International Conference on
+  Information Management \& Machine Intelligence}, pages 1--5, 2022.
 
 \bibitem[Schmidt et~al.(2023)Schmidt, Rejiba, Eidenbenz, and F{\"o}rster]{212}
 Henri Schmidt, Zeineb Rejiba, Raphael Eidenbenz, and Klaus-Tycho F{\"o}rster.
-\newblock Transparent fault tolerance for stateful applications in kubernetes with checkpoint/restore.
-\newblock In \emph{2023 42nd International Symposium on Reliable Distributed Systems (SRDS)}, pages 129--139. IEEE, 2023.
+\newblock Transparent fault tolerance for stateful applications in kubernetes
+  with checkpoint/restore.
+\newblock In \emph{2023 42nd International Symposium on Reliable Distributed
+  Systems (SRDS)}, pages 129--139. IEEE, 2023.
 
 \bibitem[Sedov and Lazarev(2024)]{115}
 Dmitrii Sedov and Andrei Lazarev.
 \newblock Enhancing it education through docker integration.
-\newblock In \emph{2024 4th International Conference on Technology Enhanced Learning in Higher Education (TELE)}, pages 252--255. IEEE, 2024.
+\newblock In \emph{2024 4th International Conference on Technology Enhanced
+  Learning in Higher Education (TELE)}, pages 252--255. IEEE, 2024.
 
-\bibitem[Segun-Falade et~al.(2024)Segun-Falade, Osundare, Kedi, Okeleke, Ijomah, Abdul-Azeez, and Abdul-Azeez]{falade-segun}
-Segun-Falade, Osundare, Kedi, Okeleke, Tochukwu Ijomah, P.~Abdul-Azeez, and Abdul-Azeez.
-\newblock Assessing the transformative impact of cloud computing on software deployment and management.
+\bibitem[Segun-Falade et~al.(2024)Segun-Falade, Osundare, Kedi, Okeleke,
+  Ijomah, Abdul-Azeez, and Abdul-Azeez]{falade-segun}
+Segun-Falade, Osundare, Kedi, Okeleke, Tochukwu Ijomah, P.~Abdul-Azeez, and
+  Abdul-Azeez.
+\newblock Assessing the transformative impact of cloud computing on software
+  deployment and management.
 \newblock pages 2062--2082, 08 2024.
 \newblock \doi{10.51594/csitrj.v5i8.1492}.
 
-\bibitem[Sep{\'{u}}lveda-Rodr{\'{i}}guez et~al.(2022)Sep{\'{u}}lveda-Rodr{\'{i}}guez, Chavarro-Porras, Sanabria-Ordo{\~{n}}ez, Castro, and Matthews]{SepulvedaRodriguez2022}
-Luis~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, Julio~C. Chavarro-Porras, John~A. Sanabria-Ordo{\~{n}}ez, Harold~E. Castro, and Jeanna Matthews.
-\newblock {A Survey of Virtualization Technologies: Towards a New Taxonomic Proposal}.
+\bibitem[Sep{\'{u}}lveda-Rodr{\'{i}}guez
+  et~al.(2022)Sep{\'{u}}lveda-Rodr{\'{i}}guez, Chavarro-Porras,
+  Sanabria-Ordo{\~{n}}ez, Castro, and Matthews]{SepulvedaRodriguez2022}
+Luis~E. Sep{\'{u}}lveda-Rodr{\'{i}}guez, Julio~C. Chavarro-Porras, John~A.
+  Sanabria-Ordo{\~{n}}ez, Harold~E. Castro, and Jeanna Matthews.
+\newblock {A Survey of Virtualization Technologies: Towards a New Taxonomic
+  Proposal}.
 \newblock \emph{Ingenieria e Investigacion}, 42\penalty0 (3), 2022.
 \newblock ISSN 22488723.
 \newblock \doi{10.15446/ing.investig.97363}.
-\newblock URL \url{https://openurl-ebsco-com.crai.referencistas.com/contentitem/edsdia:edsdia.ART0001545825?sid=ebsco:plink:crawler&id=ebsco:edsdia:edsdia.ART0001545825&crl=c}.
+\newblock URL
+  \url{https://openurl-ebsco-com.crai.referencistas.com/contentitem/edsdia:edsdia.ART0001545825?sid=ebsco:plink:crawler&id=ebsco:edsdia:edsdia.ART0001545825&crl=c}.
 
 \bibitem[Shakya and Tripathi(2024)]{217}
 Santosh Shakya and Priyanka Tripathi.
-\newblock Using light weight container a mesh based dynamic allocation task scheduling algorithm for cloud with iot network.
-\newblock \emph{International Journal of Information Technology}, 16\penalty0 (5):\penalty0 2847--2861, 2024.
+\newblock Using light weight container a mesh based dynamic allocation task
+  scheduling algorithm for cloud with iot network.
+\newblock \emph{International Journal of Information Technology}, 16\penalty0
+  (5):\penalty0 2847--2861, 2024.
 
 \bibitem[Shrestha and Ray(2024)]{196}
 Raju Shrestha and Akash Ray.
 \newblock Streamlining application deployment: A ci/cd pipeline for kubernetes.
-\newblock In \emph{2024 IEEE International Conference on Cloud Engineering (IC2E)}, pages 253--255. IEEE, 2024.
+\newblock In \emph{2024 IEEE International Conference on Cloud Engineering
+  (IC2E)}, pages 253--255. IEEE, 2024.
 
 \bibitem[Silva et~al.(2024)Silva, Goldbarg, Silva, and Fernandes]{52}
-S{\'e}rgio~N Silva, Mateus AS de~S Goldbarg, Lucileide MD~da Silva, and Marcelo~AC Fernandes.
-\newblock Application of fuzzy logic for horizontal scaling in kubernetes environments within the context of edge computing.
+S{\'e}rgio~N Silva, Mateus AS de~S Goldbarg, Lucileide MD~da Silva, and
+  Marcelo~AC Fernandes.
+\newblock Application of fuzzy logic for horizontal scaling in kubernetes
+  environments within the context of edge computing.
 \newblock \emph{Future Internet}, 16\penalty0 (9):\penalty0 316, 2024.
 
 \bibitem[{\v{S}}imon et~al.(2023){\v{S}}imon, Huraj, and B{\'u}{\v{c}}ik]{4}
 M~{\v{S}}imon, L~Huraj, and N~B{\'u}{\v{c}}ik.
-\newblock A comparative analysis of high availability for linux container infrastructures. future internet, 15 (8), 2023.
+\newblock A comparative analysis of high availability for linux container
+  infrastructures. future internet, 15 (8), 2023.
 
-\bibitem[Singh et~al.(2024)Singh, Kumar, Kumar, Singh, Kothari, and Sheikh]{133}
-Kamred~Udham Singh, Ankit Kumar, Gaurav Kumar, Teekam Singh, Paras Kothari, and Anisha Sheikh.
-\newblock Increasing productivity in software development through the use of docker technology.
-\newblock In \emph{International Conference on Universal Threats in Expert Applications and Solutions}, pages 157--165. Springer, 2024.
+\bibitem[Singh et~al.(2024)Singh, Kumar, Kumar, Singh, Kothari, and
+  Sheikh]{133}
+Kamred~Udham Singh, Ankit Kumar, Gaurav Kumar, Teekam Singh, Paras Kothari, and
+  Anisha Sheikh.
+\newblock Increasing productivity in software development through the use of
+  docker technology.
+\newblock In \emph{International Conference on Universal Threats in Expert
+  Applications and Solutions}, pages 157--165. Springer, 2024.
 
 \bibitem[Sobieraj and Koty{\'n}ski(2024)]{104}
 Maciej Sobieraj and Daniel Koty{\'n}ski.
@@ -1111,129 +1585,187 @@ Maciej Sobieraj and Daniel Koty{\'n}ski.
 \bibitem[Soderi et~al.(2022)Soderi, Kamath, Morgan, and Breslin]{37}
 Mirco Soderi, Vignesh Kamath, Jeff Morgan, and John~G Breslin.
 \newblock Advanced analytics as a service in smart factories.
-\newblock In \emph{2022 IEEE 20th Jubilee World Symposium on Applied Machine Intelligence and Informatics (SAMI)}, pages 000425--000430. IEEE, 2022.
+\newblock In \emph{2022 IEEE 20th Jubilee World Symposium on Applied Machine
+  Intelligence and Informatics (SAMI)}, pages 000425--000430. IEEE, 2022.
 
 \bibitem[Song et~al.(2023)Song, Suneja, Le, and Tak]{166}
 Somin Song, Sahil Suneja, Michael~V Le, and Byungchul Tak.
-\newblock On the value of sequence-based system call filtering for container security.
-\newblock In \emph{2023 IEEE 16th International Conference on Cloud Computing (CLOUD)}, pages 296--307. IEEE, 2023.
+\newblock On the value of sequence-based system call filtering for container
+  security.
+\newblock In \emph{2023 IEEE 16th International Conference on Cloud Computing
+  (CLOUD)}, pages 296--307. IEEE, 2023.
 
 \bibitem[Spahn et~al.(2023)Spahn, Hanke, Holz, Kruegel, and Vigna]{81}
 Noah Spahn, Nils Hanke, Thorsten Holz, Christopher Kruegel, and Giovanni Vigna.
 \newblock Container orchestration honeypot: Observing attacks in the wild.
-\newblock In \emph{Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses}, pages 381--396, 2023.
+\newblock In \emph{Proceedings of the 26th International Symposium on Research
+  in Attacks, Intrusions and Defenses}, pages 381--396, 2023.
 
-\bibitem[Stojanovi{\'c} et~al.(2024)Stojanovi{\'c}, Jovanovi{\'c}, and Stojanovi{\'c}]{61}
+\bibitem[Stojanovi{\'c} et~al.(2024)Stojanovi{\'c}, Jovanovi{\'c}, and
+  Stojanovi{\'c}]{61}
 Dragan Stojanovi{\'c}, Du{\v{s}}an Jovanovi{\'c}, and Natalija Stojanovi{\'c}.
 \newblock Big medical data analytics using apache spark framework.
-\newblock In \emph{2024 11th International Conference on Electrical, Electronic and Computing Engineering (IcETRAN)}, pages 1--5. IEEE, 2024.
+\newblock In \emph{2024 11th International Conference on Electrical, Electronic
+  and Computing Engineering (IcETRAN)}, pages 1--5. IEEE, 2024.
 
-\bibitem[Thurimella et~al.(2024)Thurimella, Raith, Enriquez, Da~Silva, Rattihalli, Gavrilovska, and Milojicic]{194}
-Vijay Thurimella, Philipp Raith, Rolando P~Hong Enriquez, Anderson~Andrei Da~Silva, Gourav Rattihalli, Ada Gavrilovska, and Dejan Milojicic.
+\bibitem[Thurimella et~al.(2024)Thurimella, Raith, Enriquez, Da~Silva,
+  Rattihalli, Gavrilovska, and Milojicic]{194}
+Vijay Thurimella, Philipp Raith, Rolando P~Hong Enriquez, Anderson~Andrei
+  Da~Silva, Gourav Rattihalli, Ada Gavrilovska, and Dejan Milojicic.
 \newblock Serverless computing for dynamic hpc workflows.
-\newblock In \emph{SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis}, pages 2096--2103. IEEE, 2024.
+\newblock In \emph{SC24-W: Workshops of the International Conference for High
+  Performance Computing, Networking, Storage and Analysis}, pages 2096--2103.
+  IEEE, 2024.
 
 \bibitem[Timonen et~al.(2023)Timonen, Sroor, Mohanani, and Mikkonen]{50}
 Salla Timonen, Maha Sroor, Rahul Mohanani, and Tommi Mikkonen.
-\newblock Anomaly detection through container testing: A survey of company practices.
-\newblock In \emph{International Conference on Product-Focused Software Process Improvement}, pages 363--378. Springer, 2023.
+\newblock Anomaly detection through container testing: A survey of company
+  practices.
+\newblock In \emph{International Conference on Product-Focused Software Process
+  Improvement}, pages 363--378. Springer, 2023.
 
 \bibitem[Ukene et~al.(2023)Ukene, Wimmer, and Kim]{119}
 Daniel Ukene, Hayden Wimmer, and Jongyeop Kim.
-\newblock Evaluating the performance of containerized webservers against web servers on virtual machines using bombardment and siege.
-\newblock In \emph{2023 IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications (SERA)}, pages 144--152. IEEE, 2023.
+\newblock Evaluating the performance of containerized webservers against web
+  servers on virtual machines using bombardment and siege.
+\newblock In \emph{2023 IEEE/ACIS 21st International Conference on Software
+  Engineering Research, Management and Applications (SERA)}, pages 144--152.
+  IEEE, 2023.
 
-\bibitem[Vaidya et~al.(2024)Vaidya, Tembhurnikar, Mohite, Puri, Kulkarni, and Buchade]{63}
-Rohan Vaidya, Atharv Tembhurnikar, Chinmay Mohite, Sumit Puri, Swapneel Kulkarni, and Amar Buchade.
-\newblock Blockchain-powered certificate authentication: Enhancing trust and transparency.
-\newblock In \emph{2024 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)}, pages 1--5. IEEE, 2024.
+\bibitem[Vaidya et~al.(2024)Vaidya, Tembhurnikar, Mohite, Puri, Kulkarni, and
+  Buchade]{63}
+Rohan Vaidya, Atharv Tembhurnikar, Chinmay Mohite, Sumit Puri, Swapneel
+  Kulkarni, and Amar Buchade.
+\newblock Blockchain-powered certificate authentication: Enhancing trust and
+  transparency.
+\newblock In \emph{2024 IEEE International Conference on Blockchain and
+  Distributed Systems Security (ICBDS)}, pages 1--5. IEEE, 2024.
 
-\bibitem[Vhatkar and Bhole(2022)]{VhatkarBhole2022_Survey_ContainerResourceAllocation}
+\bibitem[Vhatkar and
+  Bhole(2022)]{VhatkarBhole2022_Survey_ContainerResourceAllocation}
 Kapil~Netaji Vhatkar and G.P. Bhole.
-\newblock A comprehensive survey on container resource allocation approaches in cloud computing: State-of-the-art and research challenges.
+\newblock A comprehensive survey on container resource allocation approaches in
+  cloud computing: State-of-the-art and research challenges.
 \newblock \emph{Web Intelligence}, 19\penalty0 (1):\penalty0 1--22, 2022.
 \newblock \doi{10.3233/WEB-210474}.
 
-\bibitem[Voulgaris et~al.(2022)Voulgaris, Kiourtis, Karabetian, Karamolegkos, Poulakis, Mavrogiorgou, and Kyriazis]{7}
-Konstantinos Voulgaris, Athanasios Kiourtis, Andreas Karabetian, Panagiotis Karamolegkos, Yannis Poulakis, Argyro Mavrogiorgou, and Dimosthenis Kyriazis.
-\newblock A comparison of container systems for machine learning scenarios: Docker and podman.
-\newblock In \emph{2022 2nd international conference on computers and automation (compauto)}, pages 114--118. IEEE, 2022.
+\bibitem[Voulgaris et~al.(2022)Voulgaris, Kiourtis, Karabetian, Karamolegkos,
+  Poulakis, Mavrogiorgou, and Kyriazis]{7}
+Konstantinos Voulgaris, Athanasios Kiourtis, Andreas Karabetian, Panagiotis
+  Karamolegkos, Yannis Poulakis, Argyro Mavrogiorgou, and Dimosthenis Kyriazis.
+\newblock A comparison of container systems for machine learning scenarios:
+  Docker and podman.
+\newblock In \emph{2022 2nd international conference on computers and
+  automation (compauto)}, pages 114--118. IEEE, 2022.
 
 \bibitem[VS et~al.(2023)VS, Sethuraman, and Khan]{86}
 Devi~Priya VS, Sibi~Chakkaravarthy Sethuraman, and Muhammad~Khurram Khan.
-\newblock Container security: precaution levels, mitigation strategies, and research perspectives.
+\newblock Container security: precaution levels, mitigation strategies, and
+  research perspectives.
 \newblock \emph{Computers \& Security}, 135:\penalty0 103490, 2023.
 
 \bibitem[Wang et~al.(2024)Wang, Liu, Liu, Li, and Chen]{210}
 Chang Wang, Zhiqiong Liu, Jin Liu, Wang Li, and Junxin Chen.
-\newblock Towards a container scheduling policy for alleviating total startup latency in serverless computing platform.
-\newblock In \emph{Third international conference on algorithms, microchips, and network applications (AMNA 2024)}, volume 13171, pages 466--474. SPIE, 2024.
+\newblock Towards a container scheduling policy for alleviating total startup
+  latency in serverless computing platform.
+\newblock In \emph{Third international conference on algorithms, microchips,
+  and network applications (AMNA 2024)}, volume 13171, pages 466--474. SPIE,
+  2024.
 
 \bibitem[Wang et~al.(2023)Wang, Wu, Suo, Liu, Huang, Huang, and Jin]{67}
 Kun Wang, Song Wu, Kun Suo, Yijie Liu, Hang Huang, Zhuo Huang, and Hai Jin.
-\newblock Characterizing and optimizing kernel resource isolation for containers.
-\newblock \emph{Future Generation Computer Systems}, 141:\penalty0 218--229, 2023.
+\newblock Characterizing and optimizing kernel resource isolation for
+  containers.
+\newblock \emph{Future Generation Computer Systems}, 141:\penalty0 218--229,
+  2023.
 
 \bibitem[Wang and Li(2024)]{14}
 Wenzhuo Wang and Jian Li.
-\newblock A feasibility study on containerization of traditional embedded systems.
-\newblock In \emph{2024 4th International Conference on Electronic Information Engineering and Computer Communication (EIECC)}, pages 217--221. IEEE, 2024.
+\newblock A feasibility study on containerization of traditional embedded
+  systems.
+\newblock In \emph{2024 4th International Conference on Electronic Information
+  Engineering and Computer Communication (EIECC)}, pages 217--221. IEEE, 2024.
 
-\bibitem[Waseem et~al.(2024)Waseem, Ahmad, Liang, Akbar, Khan, Ahmad, Setäl{\"a}, and Mikkonen]{waseem2024containerization}
-Muhammad Waseem, Aakash Ahmad, Peng Liang, Muhammad~Azeem Akbar, Arif~Ali Khan, Iftikhar Ahmad, Manu Setäl{\"a}, and Tommi Mikkonen.
-\newblock Containerization in multi-cloud environment: Roles, strategies, challenges, and solutions for effective implementation.
+\bibitem[Waseem et~al.(2024)Waseem, Ahmad, Liang, Akbar, Khan, Ahmad,
+  Setäl{\"a}, and Mikkonen]{waseem2024containerization}
+Muhammad Waseem, Aakash Ahmad, Peng Liang, Muhammad~Azeem Akbar, Arif~Ali Khan,
+  Iftikhar Ahmad, Manu Setäl{\"a}, and Tommi Mikkonen.
+\newblock Containerization in multi-cloud environment: Roles, strategies,
+  challenges, and solutions for effective implementation.
 \newblock \emph{arXiv preprint}, March 2024.
 \newblock \doi{10.48550/arXiv.2403.12980}.
 \newblock URL \url{https://arxiv.org/abs/2403.12980}.
-\newblock Preprint accepted for publication in Journal of Systems and Software (2025). Submitted 1 Mar 2024; last revised 8 Jul 2025 (version v3).
+\newblock Preprint accepted for publication in Journal of Systems and Software
+  (2025). Submitted 1 Mar 2024; last revised 8 Jul 2025 (version v3).
 
-\bibitem[Waseem et~al.(2025)Waseem, Ahmad, Liang, Akbar, Khan, Ahmad, Set{\"a}l{\"a}, and Mikkonen]{87}
-Muhammad Waseem, Aakash Ahmad, Peng Liang, Muhammad~Azeem Akbar, Arif~Ali Khan, Iftikhar Ahmad, Manu Set{\"a}l{\"a}, and Tommi Mikkonen.
-\newblock Containerization in multi-cloud environment: roles, strategies, challenges, and solutions for effective implementation.
+\bibitem[Waseem et~al.(2025)Waseem, Ahmad, Liang, Akbar, Khan, Ahmad,
+  Set{\"a}l{\"a}, and Mikkonen]{87}
+Muhammad Waseem, Aakash Ahmad, Peng Liang, Muhammad~Azeem Akbar, Arif~Ali Khan,
+  Iftikhar Ahmad, Manu Set{\"a}l{\"a}, and Tommi Mikkonen.
+\newblock Containerization in multi-cloud environment: roles, strategies,
+  challenges, and solutions for effective implementation.
 \newblock \emph{Journal of Systems and Software}, page 112558, 2025.
 
 \bibitem[Widodo et~al.(2023)Widodo, Kristalina, Hadi, and Kurniawati]{175}
-Dibyo Widodo, Prima Kristalina, Moch Zen~Samsono Hadi, and Aprilia~Dewi Kurniawati.
-\newblock Performance evaluation of docker containers for disaster management dashboard web application.
-\newblock In \emph{2023 International Electronics Symposium (IES)}, pages 551--556. IEEE, 2023.
+Dibyo Widodo, Prima Kristalina, Moch Zen~Samsono Hadi, and Aprilia~Dewi
+  Kurniawati.
+\newblock Performance evaluation of docker containers for disaster management
+  dashboard web application.
+\newblock In \emph{2023 International Electronics Symposium (IES)}, pages
+  551--556. IEEE, 2023.
 
 \bibitem[Wohlin(2014)]{10.1145/2601248.2601268}
 Claes Wohlin.
-\newblock Guidelines for snowballing in systematic literature studies and a replication in software engineering.
-\newblock In \emph{Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering}, EASE '14, New York, NY, USA, 2014. Association for Computing Machinery.
+\newblock Guidelines for snowballing in systematic literature studies and a
+  replication in software engineering.
+\newblock In \emph{Proceedings of the 18th International Conference on
+  Evaluation and Assessment in Software Engineering}, EASE '14, New York, NY,
+  USA, 2014. Association for Computing Machinery.
 \newblock ISBN 9781450324762.
 \newblock \doi{10.1145/2601248.2601268}.
 \newblock URL \url{https://doi.org/10.1145/2601248.2601268}.
 
 \bibitem[Wong et~al.(2023)Wong, Chekole, Ochoa, and Zhou]{165}
 Ann~Yi Wong, Eyasu~Getahun Chekole, Mart{\'\i}n Ochoa, and Jianying Zhou.
-\newblock On the security of containers: Threat modeling, attack analysis, and mitigation strategies.
+\newblock On the security of containers: Threat modeling, attack analysis, and
+  mitigation strategies.
 \newblock \emph{Computers \& Security}, 128:\penalty0 103140, 2023.
 
 \bibitem[Wu et~al.(2024)Wu, Li, and Li]{18}
 Gang Wu, Xiaozhen Li, and Chuan Li.
-\newblock A load balancing-based container migration mechanism in the smart grid cloud platform.
-\newblock In \emph{2024 9th International Conference on Computer and Communication Systems (ICCCS)}, pages 1100--1104. IEEE, 2024.
+\newblock A load balancing-based container migration mechanism in the smart
+  grid cloud platform.
+\newblock In \emph{2024 9th International Conference on Computer and
+  Communication Systems (ICCCS)}, pages 1100--1104. IEEE, 2024.
 
 \bibitem[Wu et~al.(2022)Wu, Tao, Fan, Huang, Zhang, Jin, Yu, and Cao]{85}
-Song Wu, Zhiheng Tao, Hao Fan, Zhuo Huang, Xinmin Zhang, Hai Jin, Chen Yu, and Chun Cao.
+Song Wu, Zhiheng Tao, Hao Fan, Zhuo Huang, Xinmin Zhang, Hai Jin, Chen Yu, and
+  Chun Cao.
 \newblock Container lifecycle-aware scheduling for serverless computing.
-\newblock \emph{Software: Practice and Experience}, 52\penalty0 (2):\penalty0 337--352, 2022.
+\newblock \emph{Software: Practice and Experience}, 52\penalty0 (2):\penalty0
+  337--352, 2022.
 
 \bibitem[Xi et~al.(2024)Xi, Hu, Zhang, Zhang, Weng, and Huang]{11}
 Hajie Xi, Song Hu, He~Zhang, Shuang Zhang, Jingnong Weng, and Jian Huang.
-\newblock A dynamic load balancing algorithm for stable pushing of docker images in nginx.
-\newblock In \emph{2024 6th International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI)}, pages 239--243. IEEE, 2024.
+\newblock A dynamic load balancing algorithm for stable pushing of docker
+  images in nginx.
+\newblock In \emph{2024 6th International Conference on Machine Learning, Big
+  Data and Business Intelligence (MLBDBI)}, pages 239--243. IEEE, 2024.
 
 \bibitem[Xie et~al.(2020)Xie, Jin, Zou, Xu, Feng, Liu, and Long]{182}
-Yulai Xie, Minpeng Jin, Zhuping Zou, Gongming Xu, Dan Feng, Wenmao Liu, and Darrell Long.
-\newblock Real-time prediction of docker container resource load based on a hybrid model of arima and triple exponential smoothing.
-\newblock \emph{IEEE Transactions on Cloud Computing}, 10\penalty0 (2):\penalty0 1386--1401, 2020.
+Yulai Xie, Minpeng Jin, Zhuping Zou, Gongming Xu, Dan Feng, Wenmao Liu, and
+  Darrell Long.
+\newblock Real-time prediction of docker container resource load based on a
+  hybrid model of arima and triple exponential smoothing.
+\newblock \emph{IEEE Transactions on Cloud Computing}, 10\penalty0
+  (2):\penalty0 1386--1401, 2020.
 
 \bibitem[Xu et~al.(2024)Xu, Zhou, Gao, Zhang, and Wu]{188}
 Yijiang Xu, Muxian Zhou, Qing Gao, Shikun Zhang, and Zhonghai Wu.
-\newblock Swat4j: Generating system call allowlist for java container attack surface reduction.
-\newblock In \emph{2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)}, pages 929--939. IEEE, 2024.
+\newblock Swat4j: Generating system call allowlist for java container attack
+  surface reduction.
+\newblock In \emph{2024 IEEE International Conference on Software Analysis,
+  Evolution and Reengineering (SANER)}, pages 929--939. IEEE, 2024.
 
 \bibitem[YAGHMAEI(2003)]{yaghmaei2003content}
 FARIDEH YAGHMAEI.
@@ -1242,43 +1774,60 @@ FARIDEH YAGHMAEI.
 
 \bibitem[Yang and Dai(2022)]{17}
 Dali Yang and Wenbin Dai.
-\newblock A lightweight container design for microservice-based industrial edge applications.
-\newblock In \emph{2022 IEEE 17th Conference on Industrial Electronics and Applications (ICIEA)}, pages 858--863. IEEE, 2022.
+\newblock A lightweight container design for microservice-based industrial edge
+  applications.
+\newblock In \emph{2022 IEEE 17th Conference on Industrial Electronics and
+  Applications (ICIEA)}, pages 858--863. IEEE, 2022.
 
 \bibitem[Yang et~al.(2023)Yang, Shen, Li, Liu, Guo, and Ma]{203}
 Nanzi Yang, Wenbo Shen, Jinku Li, Xunqi Liu, Xin Guo, and Jianfeng Ma.
-\newblock Take over the whole cluster: Attacking kubernetes via excessive permissions of third-party applications.
-\newblock In \emph{Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security}, pages 3048--3062, 2023.
+\newblock Take over the whole cluster: Attacking kubernetes via excessive
+  permissions of third-party applications.
+\newblock In \emph{Proceedings of the 2023 ACM SIGSAC Conference on Computer
+  and Communications Security}, pages 3048--3062, 2023.
 
-\bibitem[Yang et~al.(2022)Yang, Shen, Xie, Lu, Wang, Zhou, Qin, Yu, and Ren]{155}
-Yutian Yang, Wenbo Shen, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou, Chenggang Qin, Wang Yu, and Kui Ren.
-\newblock Making memory account accountable: Analyzing and detecting memory missing-account bugs for container platforms.
-\newblock In \emph{Proceedings of the 38th Annual Computer Security Applications Conference}, pages 869--880, 2022.
+\bibitem[Yang et~al.(2022)Yang, Shen, Xie, Lu, Wang, Zhou, Qin, Yu, and
+  Ren]{155}
+Yutian Yang, Wenbo Shen, Xun Xie, Kangjie Lu, Mingsen Wang, Tianyu Zhou,
+  Chenggang Qin, Wang Yu, and Kui Ren.
+\newblock Making memory account accountable: Analyzing and detecting memory
+  missing-account bugs for container platforms.
+\newblock In \emph{Proceedings of the 38th Annual Computer Security
+  Applications Conference}, pages 869--880, 2022.
 
 \bibitem[Yaory and Manuaba(2024)]{5}
 Ellyz Yaory and Ida Bagus~Kerthyayana Manuaba.
-\newblock A comparative study of complex query performance on mysql and oracle databases for the oil and gas industry.
-\newblock In \emph{2024 International Conference on Information Management and Technology (ICIMTech)}, pages 1--6. IEEE, 2024.
+\newblock A comparative study of complex query performance on mysql and oracle
+  databases for the oil and gas industry.
+\newblock In \emph{2024 International Conference on Information Management and
+  Technology (ICIMTech)}, pages 1--6. IEEE, 2024.
 
 \bibitem[Yarmilko et~al.(2023)Yarmilko, Naumenko, et~al.]{47}
 A~Yarmilko, S~Naumenko, et~al.
-\newblock Analysis of information security issues in balancing multiple independent containers on a single server.
-\newblock In \emph{Proceedings of the 3rd International Workshop on Information Technologies: Theoretical and Applied Problems}, pages 450--461, 2023.
+\newblock Analysis of information security issues in balancing multiple
+  independent containers on a single server.
+\newblock In \emph{Proceedings of the 3rd International Workshop on Information
+  Technologies: Theoretical and Applied Problems}, pages 450--461, 2023.
 
 \bibitem[Ye et~al.(2024)Ye, Zhang, and Feng]{30}
 Yuhan Ye, Dong Zhang, and Guo Feng.
 \newblock A patch-based network model for container workload forecasting.
-\newblock In \emph{Proceedings of the 2024 International Conference on Cloud Computing and Big Data}, pages 272--277, 2024.
+\newblock In \emph{Proceedings of the 2024 International Conference on Cloud
+  Computing and Big Data}, pages 272--277, 2024.
 
 \bibitem[Yin et~al.(2024)Yin, Zhao, and Wang]{24}
 Jinyong Yin, Yuechang Zhao, and Honghui Wang.
-\newblock A static task allocation and scheduling algorithm for kubernetes cluster.
-\newblock In \emph{2024 IEEE 7th International Conference on Information Systems and Computer Aided Education (ICISCAE)}, pages 175--179. IEEE, 2024.
+\newblock A static task allocation and scheduling algorithm for kubernetes
+  cluster.
+\newblock In \emph{2024 IEEE 7th International Conference on Information
+  Systems and Computer Aided Education (ICISCAE)}, pages 175--179. IEEE, 2024.
 
 \bibitem[Yu et~al.(2022)Yu, Zhang, Shi, Wu, and Li]{101}
 Xiya Yu, Xuetao Zhang, Yuanyuan Shi, Changping Wu, and Xianhe Li.
-\newblock Design and implementation of vsto-based online compilation teaching system for c language.
-\newblock In \emph{Proceedings of the 5th International Conference on Computer Science and Software Engineering}, pages 481--486, 2022.
+\newblock Design and implementation of vsto-based online compilation teaching
+  system for c language.
+\newblock In \emph{Proceedings of the 5th International Conference on Computer
+  Science and Software Engineering}, pages 481--486, 2022.
 
 \bibitem[Yuan and Liao(2024)]{26}
 Haibin Yuan and Shengchen Liao.
@@ -1286,8 +1835,10 @@ Haibin Yuan and Shengchen Liao.
 \newblock \emph{Electronics}, 13\penalty0 (2):\penalty0 285, 2024.
 
 \bibitem[Zehra et~al.(2024)Zehra, Syed, Samad, Faseeha, Ahmed, and Khan]{190}
-Sehar Zehra, Hassan~J Syed, Fahad Samad, Ummay Faseeha, Hamza Ahmed, and Muhammad~K Khan.
-\newblock Securing the shared kernel: Exploring kernel isolation and emerging challenges in modern cloud computing.
+Sehar Zehra, Hassan~J Syed, Fahad Samad, Ummay Faseeha, Hamza Ahmed, and
+  Muhammad~K Khan.
+\newblock Securing the shared kernel: Exploring kernel isolation and emerging
+  challenges in modern cloud computing.
 \newblock \emph{IEEE Access}, 2024.
 
 \bibitem[Zeng et~al.(2023)Zeng, Kavousi, Luo, Jin, and Chen]{126}
@@ -1297,32 +1848,42 @@ Qingyang Zeng, Mohammad Kavousi, Yinhong Luo, Ling Jin, and Yan Chen.
 
 \bibitem[Zhang et~al.(2022)Zhang, Yu, Fan, and Li]{73}
 Jiayin Zhang, Huiqun Yu, Guisheng Fan, and Zengpeng Li.
-\newblock Cold-start aware cloud-native service function chain caching in resource-constrained edge: A reinforcement learning approach.
+\newblock Cold-start aware cloud-native service function chain caching in
+  resource-constrained edge: A reinforcement learning approach.
 \newblock \emph{Computer Communications}, 195:\penalty0 334--345, 2022.
 
 \bibitem[Zhang et~al.(2024)Zhang, Ma, Zhang, and Liu]{82}
 Qingman Zhang, Ju~Ma, Xiufeng Zhang, and Yongjia Liu.
-\newblock Container security assessment and reinforcement technology integrating big data and intelligent algorithms.
-\newblock In \emph{2024 3rd International Conference on Data Analytics, Computing and Artificial Intelligence (ICDACAI)}, pages 622--626. IEEE, 2024.
+\newblock Container security assessment and reinforcement technology
+  integrating big data and intelligent algorithms.
+\newblock In \emph{2024 3rd International Conference on Data Analytics,
+  Computing and Artificial Intelligence (ICDACAI)}, pages 622--626. IEEE, 2024.
 
 \bibitem[Zheng et~al.(2024)Zheng, Tang, Chen, and Shen]{141}
 Tao Zheng, Rui Tang, Xingshu Chen, and Changxiang Shen.
-\newblock Kubefuzzer: Automating restful api vulnerability detection in kubernetes.
+\newblock Kubefuzzer: Automating restful api vulnerability detection in
+  kubernetes.
 \newblock \emph{Computers, Materials \& Continua}, 81\penalty0 (1), 2024.
 
 \bibitem[Zhou et~al.(2024)Zhou, Huang, Ke, Li, Wang, and Mao]{202}
 Amelie~Chi Zhou, Rongzheng Huang, Zhoubin Ke, Yusen Li, Yi~Wang, and Rui Mao.
-\newblock Tackling cold start in serverless computing with multi-level container reuse.
-\newblock In \emph{2024 IEEE international parallel and distributed processing symposium (IPDPS)}, pages 89--99. IEEE, 2024.
+\newblock Tackling cold start in serverless computing with multi-level
+  container reuse.
+\newblock In \emph{2024 IEEE international parallel and distributed processing
+  symposium (IPDPS)}, pages 89--99. IEEE, 2024.
 
 \bibitem[Zhou et~al.(2023)Zhou, Zhan, Li, Han, Chen, and Gall]{97}
 Yu~Zhou, Weilin Zhan, Zi~Li, Tingting Han, Taolue Chen, and Harald Gall.
 \newblock Drive: Dockerfile rule mining and violation detection.
-\newblock \emph{ACM Transactions on Software Engineering and Methodology}, 33\penalty0 (2):\penalty0 1--23, 2023.
+\newblock \emph{ACM Transactions on Software Engineering and Methodology},
+  33\penalty0 (2):\penalty0 1--23, 2023.
 
-\bibitem[Zuppelli et~al.(2024)Zuppelli, Guarascio, Caviglione, and Liguori]{161}
+\bibitem[Zuppelli et~al.(2024)Zuppelli, Guarascio, Caviglione, and
+  Liguori]{161}
 Marco Zuppelli, Massimo Guarascio, Luca Caviglione, and Angelica Liguori.
-\newblock No country for leaking containers: Detecting exfiltration of secrets through ai and syscalls.
-\newblock In \emph{Proceedings of the 19th International Conference on Availability, Reliability and Security}, pages 1--8, 2024.
+\newblock No country for leaking containers: Detecting exfiltration of secrets
+  through ai and syscalls.
+\newblock In \emph{Proceedings of the 19th International Conference on
+  Availability, Reliability and Security}, pages 1--8, 2024.
 
 \end{thebibliography}

@@ -7,7 +7,8 @@ This section presents and interprets the findings from the SMS, organized in thr
 The SMS identified \textbf{226} selected primary studies (SPS), listed in Table~\ref{tab:sps-list}. The following subsections analyze the distribution of these studies across sources, technologies, academic dimensions, and quality indices.
 
 \paragraph{Source and strategy distribution.}
-Table~\ref{tab:clasificacion-topicos} presents the classification of CBV technologies by academic dimension. Docker dominates across education, research, and outreach, accounting for \textbf{100} SPS (44.24\%). This predominance reflects Docker's mature ecosystem, extensive documentation, and low barrier to entry, which collectively facilitate adoption in academic contexts where ease of deployment is prioritized over specialized performance characteristics.\\
+Table~\ref{tab:clasificacion-topicos} presents the classification of CBV technologies by academic dimension. Docker dominates across education, research, and outreach, accounting for \textbf{100} SPS (44.24\%). This predominance reflects Docker's mature ecosystem, extensive documentation, and low barrier to entry, which collectively facilitate adoption in academic contexts where ease of deployment is prioritized over specialized performance characteristics.
+
 Table~\ref{tab:clasificacion-sps} maps IT domains to academic dimensions. IT Infrastructure is the most represented domain, with \textbf{171} SPS (75.66\%), indicating that containerization research remains strongly anchored to infrastructure-level concerns such as deployment, scaling, and resource management.
 \onecolumn
 \input{figures/all-sps}
@@ -22,25 +23,28 @@ Figure~\ref{fig:SPS-SOURCE-SE} shows the distribution of studies by source and s
 
 Figure~\ref{fig:SPS-VBC} reveals the distribution of container runtime technologies. Docker leads with \textbf{94} SPS, followed distantly by Podman (7), LXC and Containerd (4 each), and Singularity, runC, and gVisor (3 each). This concentration raises an important finding: \textit{despite the growing ecosystem of alternative container runtimes designed for security (gVisor, Kata Containers), HPC (Singularity), and rootless operation (Podman), the research community remains heavily Docker-centric}. This gap between technological diversity and research coverage represents an opportunity for future studies to evaluate emerging runtimes in domains where Docker's limitations are well documented.
 
-\begin{center}
+\begin{figure}[htbp]
+    \centering
     \includegraphics[width=0.5\textwidth]{resources/images/resultados/SPS-VBC.png}
-    \captionof{figure}{Distribution of container runtime technologies across SPS}
+    \caption{Distribution of container runtime technologies across SPS}
     \label{fig:SPS-VBC}
-\end{center}
+\end{figure}
 Figure~\ref{fig:SPS-ORCH} shows orchestrator distribution. Kubernetes dominates with \textbf{67} SPS, confirming its status as the \textit{de facto} standard for container orchestration. Docker Swarm (9~SPS) and Apache Mesos (5~SPS) trail significantly. The marginal representation of alternatives such as OpenShift (2), Docker Compose (3), and cloud-native services (Amazon ECS/EKS, 1 each) suggests that \textit{academic research has not yet systematically evaluated the trade-offs between Kubernetes and its alternatives}, particularly in edge computing, serverless, and resource-constrained environments where lighter orchestration solutions may be more appropriate.
-\begin{center}
+\begin{figure}[htbp]
+    \centering
     \includegraphics[width=0.5\textwidth]{resources/images/resultados/orch-SPS.png}
-    \captionof{figure}{Distribution of orchestrator technologies across SPS}
+    \caption{Distribution of orchestrator technologies across SPS}
     \label{fig:SPS-ORCH}
-\end{center}
+\end{figure}
 
 \paragraph{Academic dimension analysis.}
 Figure~\ref{fig:SPS-venn} illustrates the intersection of studies across academic dimensions. Research dominates with \textbf{187} exclusive SPS, while Education (19~exclusive) and Outreach (8~exclusive) remain underrepresented. Notably, \textit{no study simultaneously addresses all three dimensions}, revealing a significant fragmentation in academic production. Only 6~SPS bridge Research and Education, and 6~bridge Research and Outreach, with zero overlap between Education and Outreach. This finding suggests that the potential of CBV as a transversal tool linking teaching, research output, and societal impact remains largely unexplored.
-\begin{center}
+\begin{figure}[htbp]
+    \centering
     \includegraphics[width=0.5\textwidth]{resources/images/resultados/SPS-venn.png}
-    \captionof{figure}{Venn diagram of SPS across academic dimensions}
+    \caption{Venn diagram of SPS across academic dimensions}
     \label{fig:SPS-venn}
-\end{center}
+\end{figure}
 
 \paragraph{Topic and temporal distribution.}
 Figure~\ref{fig:SPS-topics} shows topic distribution per research question. For Q1, Research accounts for 83.61\% of studies, while Outreach represents only 5.88\%---a disparity that underscores the limited penetration of containerization into community engagement and societal applications. For Q2, IT Infrastructure leads (41.28\%), followed by Cloud Computing (14.37\%), while Blockchain (0.76\%) and Parallel Computing represent emerging but underexplored intersections with CBV.
@@ -65,11 +69,11 @@ Figure~\ref{fig:SPS-kw} presents a cross-analysis of keywords. The term ``\texti
 \onecolumn
 
 \input{figures/study-clasification-by-topic-and-year}
-\vspace{1cm}
+
 \input{figures/higher-cvi}
-\vspace{10cm}
+
 \input{figures/higher-sci}
-\vspace{10cm}
+
 \input{figures/higher-irrq}
 
 \input{figures/study-clasification-by-VBC-academic-dimension}
@@ -84,19 +88,19 @@ Figure~\ref{fig:SPS-kw} presents a cross-analysis of keywords. The term ``\texti
 \end{figure}
 
 
-\begin{center}
-    \includegraphics[scale=0.3]{resources/images/resultados/Kw.png}
-    \captionof{figure}{SPS keyword co-occurrence analysis}
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.48\textwidth]{resources/images/resultados/Kw.png}
+    \caption{SPS keyword co-occurrence analysis}
     \label{fig:SPS-kw}
-\end{center}
-
-\setlength{\tabcolsep}{8pt} % separación horizontal entre columnas
+\end{figure}
 
 %sub-subseccion 4.6.2
 \subsubsection{Word Cloud Visualization}
 Figure~\ref{fig:SPS-wordcloud} presents the keyword cloud generated from the 226~SPS (terms with frequency $> 1$). The three dominant clusters---\textit{Docker}, \textit{Container}, \textit{Kubernetes}, \textit{Cloud Computing} (61.6\%); \textit{Containerization}, \textit{Container Orchestration}, \textit{Virtualization}, \textit{Microservices} (13.08\%); and \textit{Performance evaluation}, \textit{Edge computing}, \textit{Machine learning}, \textit{Security} (9.09\%)---reflect the current thematic structure of CBV research. Notably, terms related to education, teaching, and outreach are absent from the high-frequency clusters, confirming the finding that academic applications of CBV remain an under-investigated research area.
-\begin{center}
+\begin{figure}[htbp]
+    \centering
     \includegraphics[width=0.5\textwidth]{resources/images/resultados/wordcloud.png}
-    \captionof{figure}{Keyword cloud of the 226 SPS}
+    \caption{Keyword cloud of the 226 SPS}
     \label{fig:SPS-wordcloud}
-\end{center}
+\end{figure}

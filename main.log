@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  8 FEB 2026 14:34
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  8 FEB 2026 15:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1518,8 +1518,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: ulem 2019/11/18
 \ULdepth=\dimen330
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 46.
-Package hyperref Info: Option `breaklinks' set `true' on input line 46.
+Package hyperref Info: Option `colorlinks' set `true' on input line 61.
+Package hyperref Info: Option `breaklinks' set `true' on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/TeXGyreTermesX.fontspec)
 
 Package fontspec Info: 
@@ -1615,7 +1615,7 @@ Package fontspec Info:
 (fontspec)             <->s*[1]"[TeXGyreTermesX-BoldSlanted.otf]/OT:script=latn;language=dflt;-ss05;+tnum;+lnum;+smcp;+pcap;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 71.
+(Font)              scaled to size 10.0pt on input line 86.
 
 
 LaTeX Warning: Unused global option(s):
@@ -1624,36 +1624,36 @@ LaTeX Warning: Unused global option(s):
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen331
 \MT@vwid@rightmargin=\dimen332
-LaTeX Info: Redefining \microtypecontext on input line 71.
-Package microtype Info: Applying patch `item' on input line 71.
-Package microtype Info: Applying patch `toc' on input line 71.
-Package microtype Info: Applying patch `eqnum' on input line 71.
-Package microtype Info: Applying patch `footnote' on input line 71.
-Package microtype Info: Applying patch `verbatim' on input line 71.
-LaTeX Info: Redefining \microtypesetup on input line 71.
+LaTeX Info: Redefining \microtypecontext on input line 86.
+Package microtype Info: Applying patch `item' on input line 86.
+Package microtype Info: Applying patch `toc' on input line 86.
+Package microtype Info: Applying patch `eqnum' on input line 86.
+Package microtype Info: Applying patch `footnote' on input line 86.
+Package microtype Info: Applying patch `verbatim' on input line 86.
+LaTeX Info: Redefining \microtypesetup on input line 86.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1707,56 +1707,56 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 71.
+Package hyperref Info: Link coloring ON on input line 86.
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 18.0pt on input line 100.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 100.
+(Font)              scaled to size 18.0pt on input line 115.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 115.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 100.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 115.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 100.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 115.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 100.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 115.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 100.
+(Font)              <10> on input line 115.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 100.
+(Font)              <7> on input line 115.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 100.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 100.
+(Font)              <5> on input line 115.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 115.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 100.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 115.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 100.
+(Font)              scaled to size 10.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 100.
+(Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/it' will be
-(Font)              scaled to size 9.0pt on input line 100.
-LaTeX Font Info:    Trying to load font information for TU+academicons on input line 100.
+(Font)              scaled to size 9.0pt on input line 115.
+LaTeX Font Info:    Trying to load font information for TU+academicons on input line 115.
  (./tuacademicons.fd)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `academicons' (encoding: TU).
@@ -1927,27 +1927,27 @@ Package microtype Info: Character `\textgreater ' is missing
 
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/m/it' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 100.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 115.
 
 LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 100.
+(Font)              scaled to size 9.0pt on input line 115.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-TU-empty.cfg
 File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonstandard glyph set (RS)
 )
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 100.
+(Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 100.
+(Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 100.
+(Font)              scaled to size 9.0pt on input line 115.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 100.
+(Font)              <9> on input line 115.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 100.
+(Font)              <6> on input line 115.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 100.
+(Font)              scaled to size 10.0pt on input line 115.
 
-Overfull \hbox (66.0pt too wide) in paragraph at lines 100--100
+Overfull \hbox (66.0pt too wide) in paragraph at lines 115--115
 [][]  
  []
 
@@ -1975,61 +1975,6 @@ LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/n' will be
 
 
 ]) (./sections/related-works.tex
-Underfull \hbox (badness 1024) in paragraph at lines 4--5
-\TU/TeXGyreTermesX(0)/m/n/10 sition the contribution of the present SMS, this section
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-Underfull \hbox (badness 2173) in paragraph at lines 6--7
-\TU/TeXGyreTermesX(0)/m/n/10 nologies and application contexts examined. [][]Bentaleb
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 6--7
-\TU/TeXGyreTermesX(0)/m/n/10 et al.[][] [[][]2022b[][]] and [][]Sepúlveda-Rodríguez et al.[][] [[][]2022[][]]
- []
-
-
-Underfull \hbox (badness 2495) in paragraph at lines 6--7
-\TU/TeXGyreTermesX(0)/m/n/10 both propose taxonomic classifications of virtualization
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 6--7
-\TU/TeXGyreTermesX(0)/m/n/10 academic dimension (education, research, and outreach).
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 6--7
-\TU/TeXGyreTermesX(0)/m/n/10 Similarly, [][]Malhotra et al.[][] [[][]2024b[][]] provide a systematic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-
-Underfull \hbox (badness 3861) in paragraph at lines 8--9
-\TU/TeXGyreTermesX(0)/m/n/10 Their categorization scheme, however, is restricted to
- []
-
-
-Underfull \hbox (badness 2384) in paragraph at lines 8--9
-\TU/TeXGyreTermesX(0)/m/n/10 academic applications, or cross-domain analysis. The
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-
 
 
 Overfull \hbox (0.90816pt too wide) in paragraph at lines 28--28
@@ -2085,9 +2030,6 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 2.
-
-
-[2]
 File: resources/images/planeacion/etapa1.png Graphic file (type bmp)
 <resources/images/planeacion/etapa1.png>
 
@@ -2096,160 +2038,96 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 7--8
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 23--23
-[]|\TU/TeXGyreTermesX(0)/m/n/10 Classify studies related to CBV across IT do-
- []
-
-
-Overfull \hbox (11.62202pt too wide) in paragraph at lines 17--27
+Overfull \hbox (11.62202pt too wide) in paragraph at lines 19--27
  [][] 
  []
 
 
-Underfull \vbox (badness 1331) has occurred while \output is active []
 
-
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 103--104
-\TU/TeXGyreTermesX(0)/m/n/10 three-year window (2022–2024) balances currency with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
-
- []
+[2]
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 129.
+(Font)              scaled to size 5.0pt on input line 128.
 
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
  []\TU/TeXGyreTermesX(0)/b/n/10 Scientific Citation Index (SCI).[] \TU/TeXGyreTermesX(0)/m/n/10 The SCI captures
  []
 
-) (./sections/review-method/02-search-studies.tex
 
+
+[3]) (./sections/review-method/02-search-studies.tex
 File: resources/images/planeacion/estrategias-busqueda.png Graphic file (type bmp)
 <resources/images/planeacion/estrategias-busqueda.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 6.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 5--6
- [] 
+Overfull \hbox (9.0pt too wide) in paragraph at lines 6--7
+ [][] 
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 12--13
+Underfull \hbox (badness 1558) in paragraph at lines 13--14
 \TU/TeXGyreTermesX(0)/m/n/10 involves automated search string execution in academic
  []
 
 
 
-[4]
-Underfull \hbox (badness 1077) in paragraph at lines 19--20
+
+Underfull \hbox (badness 1077) in paragraph at lines 20--21
 \TU/TeXGyreTermesX(0)/m/n/10 ing were used to construct database-specific search
  []
 
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 61.
-See the caption package documentation for explanation.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--64
-
- []
-
+[4]
 File: resources/images/busqueda-estudios/busqueda-bd.png Graphic file (type bmp)
 <resources/images/busqueda-estudios/busqueda-bd.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 69.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 68--69
- [] 
+Overfull \hbox (9.0pt too wide) in paragraph at lines 65--66
+ [][] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 117--118
+Underfull \hbox (badness 1210) in paragraph at lines 114--115
 []\TU/TeXGyreTermesX(0)/m/n/10 The first phase, called \TU/TeXGyreTermesX(0)/m/it/10 Base Line Construction\TU/TeXGyreTermesX(0)/m/n/10 , aims
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 117--118
+Underfull \hbox (badness 1655) in paragraph at lines 114--115
 \TU/TeXGyreTermesX(0)/m/it/10 ward Snowballing) \TU/TeXGyreTermesX(0)/m/n/10 and citations \TU/TeXGyreTermesX(0)/m/it/10 (Forward Snowballing)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
 
-[5]
-Overfull \hbox (26.31696pt too wide) in paragraph at lines 144--144
- []|\TU/TeXGyreTermesX(0)/b/n/10 Studies| 
+
+Overfull \hbox (16.98096pt too wide) in paragraph at lines 143--143
+ []|\TU/TeXGyreTermesX(0)/b/n/7 Studies| 
  []
 
 
-Overfull \hbox (10.19696pt too wide) in paragraph at lines 144--144
- []|\TU/TeXGyreTermesX(0)/m/n/10 110| 
+Overfull \hbox (5.69696pt too wide) in paragraph at lines 143--143
+ []|\TU/TeXGyreTermesX(0)/m/n/7 110| 
  []
 
 
-Overfull \hbox (10.19696pt too wide) in paragraph at lines 144--144
- []|\TU/TeXGyreTermesX(0)/m/n/10 115| 
+Overfull \hbox (5.69696pt too wide) in paragraph at lines 143--143
+ []|\TU/TeXGyreTermesX(0)/m/n/7 115| 
  []
 
 
-Overfull \hbox (10.19696pt too wide) in paragraph at lines 144--144
- []|\TU/TeXGyreTermesX(0)/b/n/10 226| 
+Overfull \hbox (5.69696pt too wide) in paragraph at lines 143--143
+ []|\TU/TeXGyreTermesX(0)/b/n/7 226| 
  []
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 145.
-See the caption package documentation for explanation.
 
 File: resources/images/busqueda-estudios/busqueda-snowball.png Graphic file (type bmp)
 <resources/images/busqueda-estudios/busqueda-snowball.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 149.
-See the caption package documentation for explanation.
-
-
 Overfull \hbox (9.0pt too wide) in paragraph at lines 148--149
- [] 
+ [][] 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 ) (./sections/review-method/03-quality-assessment.tex
 Underfull \hbox (badness 1424) in paragraph at lines 3--4
@@ -2257,96 +2135,74 @@ Underfull \hbox (badness 1424) in paragraph at lines 3--4
  []
 
 
-Underfull \vbox (badness 1097) has occurred while \output is active []
 
+[5]) (./sections/review-method/04-data-extraction.tex) (./sections/review-method/05-study-clasification.tex
 
+) (./sections/review-method/06-results.tex
 
-[6]) (./sections/review-method/04-data-extraction.tex) (./sections/review-method/05-study-clasification.tex) (./sections/review-method/06-results.tex
+[6] (./figures/all-sps.tex [7
 
+])
 
-
-[7] (./figures/all-sps.tex [8
-
-] [9])
-
-[10]
+[8]
 File: resources/images/resultados/SPS-SOURCE-SE.png Graphic file (type bmp)
 <resources/images/resultados/SPS-SOURCE-SE.png>
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 19--20
+Overfull \hbox (9.0pt too wide) in paragraph at lines 20--21
  [][] 
  []
 
 File: resources/images/resultados/SPS-VBC.png Graphic file (type bmp)
 <resources/images/resultados/SPS-VBC.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 27.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 26--27
- [] 
+Overfull \hbox (9.0pt too wide) in paragraph at lines 28--29
+ [][] 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 File: resources/images/resultados/orch-SPS.png Graphic file (type bmp)
 <resources/images/resultados/orch-SPS.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 33.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 32--33
- [] 
+Overfull \hbox (9.0pt too wide) in paragraph at lines 35--36
+ [][] 
  []
 
 File: resources/images/resultados/SPS-venn.png Graphic file (type bmp)
 <resources/images/resultados/SPS-venn.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 41.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 40--41
- [] 
- []
-
-
-
-[11
-
-]
-File: resources/images/resultados/SPS-topics.png Graphic file (type bmp)
-<resources/images/resultados/SPS-topics.png>
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 49--50
+Overfull \hbox (9.0pt too wide) in paragraph at lines 44--45
  [][] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 53--54
-[]\TU/TeXGyreTermesX(0)/m/n/10 The temporal analysis (Figure [][]11[][]) reveals sustained
+
+File: resources/images/resultados/SPS-topics.png Graphic file (type bmp)
+<resources/images/resultados/SPS-topics.png>
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 53--54
+ [][] 
  []
 
 
+
+[9
+
+]
+Underfull \hbox (badness 3590) in paragraph at lines 57--58
+[]\TU/TeXGyreTermesX(0)/m/n/10 The temporal analysis (Figure [][]11[][]) reveals sustained
+ []
 
 File: resources/images/resultados/SPS-QI.png Graphic file (type bmp)
 <resources/images/resultados/SPS-QI.png>
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 57--58
+Overfull \hbox (9.0pt too wide) in paragraph at lines 61--62
  [][] 
  []
 
 
 
-[12] (./figures/study-clasification-by-topic-and-year.tex
+
+
+[10] (./figures/study-clasification-by-topic-and-year.tex
 Overfull \hbox (3.79134pt too wide) in alignment at lines 7--13
  [] [] [] [] [] 
  []
@@ -2361,10 +2217,10 @@ Overfull \hbox (3.79134pt too wide) in alignment at lines 18--21
  [] [] [] [] [] 
  []
 
-[13
+[11
 
 
-] [14]) (./figures/higher-cvi.tex
+] [12]) (./figures/higher-cvi.tex
 Overfull \hbox (3.79134pt too wide) in alignment at lines 3--9
  [] [] [] [] [] 
  []
@@ -2380,11 +2236,6 @@ Overfull \hbox (3.79134pt too wide) in alignment at lines 14--29
  []
 
 ) (./figures/higher-sci.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[15]
 Overfull \hbox (3.79134pt too wide) in alignment at lines 3--9
  [] [] [] [] [] 
  []
@@ -2399,7 +2250,7 @@ Overfull \hbox (3.79134pt too wide) in alignment at lines 14--32
  [] [] [] [] [] 
  []
 
-) (./figures/higher-irrq.tex
+[13]) (./figures/higher-irrq.tex
 Overfull \hbox (3.79134pt too wide) in alignment at lines 3--9
  [] [] [] [] [] 
  []
@@ -2416,44 +2267,34 @@ Overfull \hbox (3.79134pt too wide) in alignment at lines 14--33
 
 
 
-[16]) (./figures/study-clasification-by-VBC-academic-dimension.tex
+[14]) (./figures/study-clasification-by-VBC-academic-dimension.tex
 
 Package array Warning: Column Z is already defined on input line 3.
 
+) (./figures/study-clasification-by-TI-domain-and-academic-dimension.tex
 
+[15] [16])
 
-[17] [18]) (./figures/study-clasification-by-TI-domain-and-academic-dimension.tex [19] [20])
-
-[21]
+[17]
 File: resources/images/resultados/SPS-topics-QI.png Graphic file (type bmp)
 <resources/images/resultados/SPS-topics-QI.png>
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 82--83
+Overfull \hbox (9.0pt too wide) in paragraph at lines 86--87
  [][] 
  []
 
 File: resources/images/resultados/Kw.png Graphic file (type bmp)
 <resources/images/resultados/Kw.png>
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 89.
-See the caption package documentation for explanation.
-
-
-
 File: resources/images/resultados/wordcloud.png Graphic file (type bmp)
 <resources/images/resultados/wordcloud.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 100.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 99--100
- [] 
+Overfull \hbox (9.0pt too wide) in paragraph at lines 103--104
+ [][] 
  []
 
-) (./sections/review-method/07-reproducibility.tex
+)
+
+(./sections/review-method/07-reproducibility.tex
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/it' will be
 (Font)              scaled to size 10.0pt on input line 2.
 
@@ -2483,7 +2324,7 @@ Overfull \hbox (5.95pt too wide) in paragraph at lines 11--12
 
 ) (./sections/threats-to-validity.tex
 
-[22
+[18
 
 ]) (./sections/analysis-and-discussion.tex
 Underfull \hbox (badness 1147) in paragraph at lines 6--7
@@ -2493,49 +2334,41 @@ Underfull \hbox (badness 1147) in paragraph at lines 6--7
 File: resources/images/taxonomy/taxonomia.png Graphic file (type bmp)
 <resources/images/taxonomy/taxonomia.png>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 10.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (9.0pt too wide) in paragraph at lines 9--10
- [] 
+Overfull \hbox (9.0pt too wide) in paragraph at lines 10--11
+ [][] 
  []
 
 
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
-
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 17--18
+Underfull \hbox (badness 3536) in paragraph at lines 18--19
  []\TU/TeXGyreTermesX(0)/b/n/10 Technology concentration and its implications.[] \TU/TeXGyreTermesX(0)/m/n/10 The
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 17--18
+Underfull \hbox (badness 1122) in paragraph at lines 18--19
 \TU/TeXGyreTermesX(0)/m/n/10 dominance of Docker (94 SPS, 41.6%) and Kubernetes
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 20--21
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 21--22
 \TU/TeXGyreTermesX(0)/m/n/10 derexplored despite clear potential for containerization.
  []
 
 
-
-[23]
-Underfull \hbox (badness 1337) in paragraph at lines 26--27
+Underfull \hbox (badness 1337) in paragraph at lines 27--28
  []\TU/TeXGyreTermesX(0)/b/n/10 Temporal trends and maturation signals.[] \TU/TeXGyreTermesX(0)/m/n/10 The 118%
  []
 
 
-Underfull \hbox (badness 3240) in paragraph at lines 33--34
+
+[19]
+Underfull \hbox (badness 3240) in paragraph at lines 34--35
 \TU/TeXGyreTermesX(0)/m/n/10 mad, Docker Compose) for edge computing, IoT,
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 35--36
+Underfull \hbox (badness 5490) in paragraph at lines 36--37
 []\TU/TeXGyreTermesX(0)/b/n/10 Cross-domain integration. \TU/TeXGyreTermesX(0)/m/n/10 No identified study
  []
 
@@ -2562,8 +2395,6 @@ Underfull \hbox (badness 3769) in paragraph at lines 10--11
  []
 
 
-
-[24]
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 []\TU/TeXGyreTermesX(0)/b/n/10 Academic fragmentation: \TU/TeXGyreTermesX(0)/m/n/10 Research dominates
  []
@@ -2583,30 +2414,32 @@ Underfull \hbox (badness 1845) in paragraph at lines 11--12
 \TU/TeXGyreTermesX(0)/m/n/10 taneously addresses all three academic dimensions,
  []
 
-) (./main.bbl
-Underfull \hbox (badness 1571) in paragraph at lines 14--17
+
+
+[20]) (./main.bbl
+Underfull \hbox (badness 1571) in paragraph at lines 15--20
 \TU/TeXGyreTermesX(0)/m/it/10 ogy and Science (CloudCom)\TU/TeXGyreTermesX(0)/m/n/10 , pages 139–146. IEEE,
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 19--22
+Underfull \hbox (badness 1009) in paragraph at lines 23--29
 []\TU/TeXGyreTermesX(0)/m/n/10 Sameh Abdulah, Jorge Ejarque, Omar Marzouk, Hatem
  []
 
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--87
+Underfull \hbox (badness 10000) in paragraph at lines 111--116
 []\TU/TeXGyreTermesX(0)/m/n/10 Guillermo Chinarro Álvarez, César Alejandro Achig
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 84--87
+Underfull \hbox (badness 6063) in paragraph at lines 111--116
 \TU/TeXGyreTermesX(0)/m/n/10 In \TU/TeXGyreTermesX(0)/m/it/10 2023 7th International Young Engineers Forum
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 94--97
+Underfull \hbox (badness 3769) in paragraph at lines 128--134
 \TU/TeXGyreTermesX(0)/m/n/10 Joao Da Silva Almeida Da Quintanilha, Georgiana-
  []
 
@@ -2615,33 +2448,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[25]
+[21]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--150
+Underfull \hbox (badness 10000) in paragraph at lines 196--204
 []\TU/TeXGyreTermesX(0)/m/n/10 Luciano Baresi, Giovanni Quattrocchi, and Nicholas
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 144--150
+Underfull \hbox (badness 3815) in paragraph at lines 196--204
 \TU/TeXGyreTermesX(0)/m/n/10 tainer engines.  \TU/TeXGyreTermesX(0)/m/it/10 Journal of Systems and Software\TU/TeXGyreTermesX(0)/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 144--150
+Underfull \hbox (badness 2285) in paragraph at lines 196--204
 \TU/TeXGyreTermesX(0)/m/n/10 210:111965, 2024b.  ISSN 0164-1212.  .  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--150
+Underfull \hbox (badness 10000) in paragraph at lines 196--204
 [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 162--165
+Underfull \hbox (badness 8113) in paragraph at lines 223--228
 []\TU/TeXGyreTermesX(0)/m/n/10 Nada Barnawi, Razan AITooq, and Mohammed Al-
  []
 
@@ -2651,58 +2484,63 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 182--188
+Underfull \hbox (badness 2582) in paragraph at lines 258--266
 \TU/TeXGyreTermesX(0)/m/n/10 15730484.  .  URL [][]$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 200--203
+Underfull \hbox (badness 1635) in paragraph at lines 283--290
 \TU/TeXGyreTermesX(0)/m/n/10 Alexander Zuepke, Andrea Bastoni, Marco Caccamo,
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 220--223
+Underfull \hbox (badness 2134) in paragraph at lines 316--322
 []\TU/TeXGyreTermesX(0)/m/n/10 Vincent Bracke, Gillis Werrebrouck, José Santos, Tim
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 342--348
 []\TU/TeXGyreTermesX(0)/m/n/10 C.A. Candela-Uribe, L.E. Sepúlveda-Rodríguez,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 342--348
 \TU/TeXGyreTermesX(0)/m/n/10 J.C. Chavarro-Porras, J.A. Sanabria-Ordoñez,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 342--348
 \TU/TeXGyreTermesX(0)/m/n/10 J.L. Garrido, C. Rodríguez-Domínguez, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 342--348
 \TU/TeXGyreTermesX(0)/m/n/10 G. Guerrero-Contreras.  SMS-Builder Project.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 342--348
 [][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][]$[][]\TU/TeXGyreTermesX(0)/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 241--247
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[22]
+Underfull \hbox (badness 2050) in paragraph at lines 353--362
 \TU/TeXGyreTermesX(0)/m/n/10 Julio C. Chavarro-Porras, John A. Sanabria-Ordoñez,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 259--262
+Underfull \hbox (badness 2027) in paragraph at lines 376--381
 []\TU/TeXGyreTermesX(0)/m/n/10 Carmen Carrión.  Kubernetes as a standard container
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 443--447
+[]\TU/TeXGyreTermesX(0)/m/n/10 Assis T de Oliveira Filho, Eduardo Freitas, Pedro RX
  []
 
 
@@ -2711,17 +2549,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 309--312
-[]\TU/TeXGyreTermesX(0)/m/n/10 Assis T de Oliveira Filho, Eduardo Freitas, Pedro RX
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 324--327
+Underfull \hbox (badness 3260) in paragraph at lines 465--471
 \TU/TeXGyreTermesX(0)/m/n/10 Eduard Marin, and Thomas Eisenbarth.  Dynamic
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 324--327
+Underfull \hbox (badness 1661) in paragraph at lines 465--471
 \TU/TeXGyreTermesX(0)/m/n/10 frequency-based fingerprinting attacks against modern
  []
 
@@ -2730,13 +2563,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[27]
-Underfull \hbox (badness 2856) in paragraph at lines 379--381
+[23]
+Underfull \hbox (badness 2856) in paragraph at lines 547--552
 []\TU/TeXGyreTermesX(0)/m/n/10 M Ersted Rasmussen, C Dueholm Vestergaard, J Fol-
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 403--406
+Underfull \hbox (badness 2197) in paragraph at lines 586--592
 \TU/TeXGyreTermesX(0)/m/n/10 Newton C Will, Rafael R Obelheiro, and Carlos A
  []
 
@@ -2750,19 +2583,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[28]
-Underfull \hbox (badness 4096) in paragraph at lines 511--514
+[24]
+Underfull \hbox (badness 4096) in paragraph at lines 735--742
 []\TU/TeXGyreTermesX(0)/m/n/10 Lasal Sandeepa Hettiarachchi, Senura Vihan Jayadeva,
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 525--528
+Underfull \hbox (badness 4595) in paragraph at lines 758--763
 []\TU/TeXGyreTermesX(0)/m/n/10 Husain Husain, Khairan Marzuki, Lalu Zazuli Azhar
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 540--543
+Underfull \hbox (badness 1424) in paragraph at lines 778--784
 \TU/TeXGyreTermesX(0)/m/n/10 In \TU/TeXGyreTermesX(0)/m/it/10 2023 IEEE 3rd International Conference on Elec-
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 800--806
+[]\TU/TeXGyreTermesX(0)/m/n/10 Bjarne Johansson, Mats Rågberger, Thomas Nolte, and
  []
 
 
@@ -2771,12 +2609,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 555--558
-[]\TU/TeXGyreTermesX(0)/m/n/10 Bjarne Johansson, Mats Rågberger, Thomas Nolte, and
- []
-
-
-Underfull \hbox (badness 4279) in paragraph at lines 615--618
+Underfull \hbox (badness 4279) in paragraph at lines 880--884
 []\TU/TeXGyreTermesX(0)/m/n/10 Srinidhi Kanagachalam, Khikmatullo Tulkinbekov, and
  []
 
@@ -2785,9 +2618,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[29]
-Underfull \hbox (badness 1931) in paragraph at lines 654--659
+[25]
+Underfull \hbox (badness 1931) in paragraph at lines 932--940
 []\TU/TeXGyreTermesX(0)/m/n/10 Barbara Kitchenham, Rialette Pretorius, David Budgen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--1002
+\TU/TeXGyreTermesX(0)/m/n/10 formance comparison of container-based technolo-
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 993--1002
+\TU/TeXGyreTermesX(0)/m/n/10 gies for the cloud.  \TU/TeXGyreTermesX(0)/m/it/10 Future Generation Computer
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 993--1002
+\TU/TeXGyreTermesX(0)/m/it/10 Systems\TU/TeXGyreTermesX(0)/m/n/10 , 68:175–182, 2017.  ISSN 0167-739X.  .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--1002
+\TU/TeXGyreTermesX(0)/m/n/10 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] []
  []
 
 
@@ -2796,32 +2649,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 698--704
-\TU/TeXGyreTermesX(0)/m/n/10 formance comparison of container-based technolo-
- []
-
-
-Underfull \hbox (badness 4416) in paragraph at lines 698--704
-\TU/TeXGyreTermesX(0)/m/n/10 gies for the cloud.  \TU/TeXGyreTermesX(0)/m/it/10 Future Generation Computer
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 698--704
-\TU/TeXGyreTermesX(0)/m/it/10 Systems\TU/TeXGyreTermesX(0)/m/n/10 , 68:175–182, 2017.  ISSN 0167-739X.  .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 698--704
-\TU/TeXGyreTermesX(0)/m/n/10 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] []
- []
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 721--725
+Underfull \hbox (badness 2564) in paragraph at lines 1025--1031
 []\TU/TeXGyreTermesX(0)/m/n/10 Pankaj Kunekar, Nidhi Bhavsar, Kriti Das, and Sachi
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 732--735
+Underfull \hbox (badness 1028) in paragraph at lines 1043--1047
 []\TU/TeXGyreTermesX(0)/m/n/10 Soonhong Kwon, Wooyoung Son, and Jong-Hyouk Lee.
  []
 
@@ -2830,18 +2663,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 772--775
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1106
 []\TU/TeXGyreTermesX(0)/m/n/10 Vasiliki Liagkou, George Fragiadakis, Evangelia Fil-
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 824--827
+Underfull \hbox (badness 1097) in paragraph at lines 1172--1178
 \TU/TeXGyreTermesX(0)/m/it/10 nologies: Infrastructure for Collaborative Enterprises
  []
 
@@ -2850,18 +2678,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[31]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 992--995
+Underfull \hbox (badness 1331) in paragraph at lines 1415--1421
 \TU/TeXGyreTermesX(0)/m/n/10 A Hasić, M Azizović, and S Thirumalai.  Security-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 997--1000
+Underfull \hbox (badness 10000) in paragraph at lines 1424--1430
 []\TU/TeXGyreTermesX(0)/m/n/10 Shunmugapriya Ramanathan, Abhishek Bhattacharyya,
  []
 
@@ -2870,69 +2703,79 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[32]
-Underfull \hbox (badness 1014) in paragraph at lines 1059--1062
+[28]
+Underfull \hbox (badness 1014) in paragraph at lines 1512--1517
 []\TU/TeXGyreTermesX(0)/m/n/10 Henri Schmidt, Zeineb Rejiba, Raphael Eidenbenz, and
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1059--1062
+Underfull \hbox (badness 1442) in paragraph at lines 1512--1517
 \TU/TeXGyreTermesX(0)/m/n/10 Klaus-Tycho Förster.  Transparent fault tolerance for
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 1075--1081
+Underfull \hbox (badness 1762) in paragraph at lines 1536--1545
 []\TU/TeXGyreTermesX(0)/m/n/10 Luis E. Sepúlveda-Rodríguez, Julio C. Chavarro-Porras,
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 1075--1081
+Underfull \hbox (badness 1173) in paragraph at lines 1536--1545
 \TU/TeXGyreTermesX(0)/m/n/10 Matthews.  A Survey of Virtualization Technologies:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1075--1081
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1545
 [] [] [][][][][][][][][][][][][][][][][][][] [] [][][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1075--1081
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1545
 [][][][][][][][][][][] [] [][][][][][] [] [][][][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1075--1081
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1545
 [][][] [] [][][][][] [] [][][][][] [] [][][][][][][] [] [][] [] [][][][][] [] [][][][][][] []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 1083--1086
+Underfull \hbox (badness 1817) in paragraph at lines 1547--1552
 \TU/TeXGyreTermesX(0)/m/n/10 ing algorithm for cloud with iot network.  \TU/TeXGyreTermesX(0)/m/it/10 Interna-
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 1102--1105
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 1573--1579
 []\TU/TeXGyreTermesX(0)/m/n/10 Kamred Udham Singh, Ankit Kumar, Gaurav Kumar,
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 1122--1125
+Underfull \hbox (badness 3098) in paragraph at lines 1599--1603
 []\TU/TeXGyreTermesX(0)/m/n/10 Noah Spahn, Nils Hanke, Thorsten Holz, Christopher
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 1127--1130
+Underfull \hbox (badness 2293) in paragraph at lines 1606--1610
 []\TU/TeXGyreTermesX(0)/m/n/10 Dragan Stojanović, Dušan Jovanović, and Natalija Sto-
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 1132--1135
+Underfull \hbox (badness 2334) in paragraph at lines 1613--1619
 []\TU/TeXGyreTermesX(0)/m/n/10 Vijay Thurimella, Philipp Raith, Rolando P Hong En-
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 1637--1643
+[]\TU/TeXGyreTermesX(0)/m/n/10 Rohan Vaidya, Atharv Tembhurnikar, Chinmay Mohite,
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 1637--1643
+\TU/TeXGyreTermesX(0)/m/n/10 Sumit Puri, Swapneel Kulkarni, and Amar Buchade.
  []
 
 
@@ -2940,18 +2783,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[33]
-Underfull \hbox (badness 1983) in paragraph at lines 1147--1150
-[]\TU/TeXGyreTermesX(0)/m/n/10 Rohan Vaidya, Atharv Tembhurnikar, Chinmay Mohite,
- []
-
-
-Underfull \hbox (badness 2050) in paragraph at lines 1147--1150
-\TU/TeXGyreTermesX(0)/m/n/10 Sumit Puri, Swapneel Kulkarni, and Amar Buchade.
- []
-
-
-Underfull \hbox (badness 3623) in paragraph at lines 1163--1166
+[29]
+Underfull \hbox (badness 3623) in paragraph at lines 1662--1666
 []\TU/TeXGyreTermesX(0)/m/n/10 Devi Priya VS, Sibi Chakkaravarthy Sethuraman, and
  []
 
@@ -2965,14 +2798,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[30])
 
 
 
-)
+[31
 
-[35] (./main.aux)
+] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -2985,12 +2817,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0BED1EBE1EBB29AA44EED48E68A3BA4E;6957.
  ) 
 Here is how much of TeX's memory you used:
- 24929 strings out of 473832
- 468639 string characters out of 5729482
- 1003533 words of memory out of 5000000
- 47408 multiletter control sequences out of 15000+600000
+ 24927 strings out of 473832
+ 468579 string characters out of 5729482
+ 1003762 words of memory out of 5000000
+ 47406 multiletter control sequences out of 15000+600000
  584302 words of font info for 153 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 109i,13n,131p,5617b,962s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,13n,131p,5617b,966s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (35 pages, 1391824 bytes).
+Output written on main.xdv (31 pages, 1386268 bytes).
