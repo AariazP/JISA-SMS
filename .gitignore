@@ -1,0 +1,32 @@
+# === LaTeX build artifacts ===
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+
+# === Project-specific build files ===
+main.aux
+main.bbl
+main.blg
+main.fdb_latexmk
+main.fls
+main.log
+main.out
+main.pdf
+main.synctex.gz
+main.xdv
+
+# === OS / editor noise ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# === Latexmk cache ===
+.latexmk/
