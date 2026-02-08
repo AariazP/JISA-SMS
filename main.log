@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  8 FEB 2026 15:19
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  8 FEB 2026 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1976,29 +1976,11 @@ LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/n' will be
 
 ]) (./sections/related-works.tex
 
+LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/b/n' will be
+(Font)              scaled to size 7.0pt on input line 20.
 
-Overfull \hbox (0.90816pt too wide) in paragraph at lines 28--28
- []|\TU/TeXGyreTermesX(0)/m/n/7 Review| 
- []
-
-
-Overfull \hbox (0.90816pt too wide) in paragraph at lines 28--28
- []|\TU/TeXGyreTermesX(0)/m/n/7 Review| 
- []
-
-
-Overfull \hbox (0.90816pt too wide) in paragraph at lines 28--28
- []|\TU/TeXGyreTermesX(0)/m/n/7 Review| 
- []
-
-
-Overfull \hbox (0.90816pt too wide) in paragraph at lines 28--28
- []|\TU/TeXGyreTermesX(0)/m/n/7 Review| 
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 28--28
-[][][][][][] 
+Overfull \hbox (9.56909pt too wide) in paragraph at lines 18--31
+ [][] 
  []
 
 ) (./sections/review-method/00-review-method.tex
@@ -2038,24 +2020,17 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 7--8
  []
 
 
-Overfull \hbox (11.62202pt too wide) in paragraph at lines 19--27
- [][] 
- []
-
-
 
 [2]
 
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesX(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 128.
+(Font)              scaled to size 5.0pt on input line 132.
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
  []\TU/TeXGyreTermesX(0)/b/n/10 Scientific Citation Index (SCI).[] \TU/TeXGyreTermesX(0)/m/n/10 The SCI captures
  []
 
-
-
-[3]) (./sections/review-method/02-search-studies.tex
+) (./sections/review-method/02-search-studies.tex
 File: resources/images/planeacion/estrategias-busqueda.png Graphic file (type bmp)
 <resources/images/planeacion/estrategias-busqueda.png>
 
@@ -2070,62 +2045,43 @@ Underfull \hbox (badness 1558) in paragraph at lines 13--14
 
 
 
-
+[3]
 Underfull \hbox (badness 1077) in paragraph at lines 20--21
 \TU/TeXGyreTermesX(0)/m/n/10 ing were used to construct database-specific search
  []
 
 
 
-[4]
 File: resources/images/busqueda-estudios/busqueda-bd.png Graphic file (type bmp)
 <resources/images/busqueda-estudios/busqueda-bd.png>
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 65--66
+Overfull \hbox (9.0pt too wide) in paragraph at lines 67--68
  [][] 
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 114--115
+Underfull \hbox (badness 1210) in paragraph at lines 108--109
 []\TU/TeXGyreTermesX(0)/m/n/10 The first phase, called \TU/TeXGyreTermesX(0)/m/it/10 Base Line Construction\TU/TeXGyreTermesX(0)/m/n/10 , aims
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 114--115
+Underfull \hbox (badness 1655) in paragraph at lines 108--109
 \TU/TeXGyreTermesX(0)/m/it/10 ward Snowballing) \TU/TeXGyreTermesX(0)/m/n/10 and citations \TU/TeXGyreTermesX(0)/m/it/10 (Forward Snowballing)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 
 
-
-Overfull \hbox (16.98096pt too wide) in paragraph at lines 143--143
- []|\TU/TeXGyreTermesX(0)/b/n/7 Studies| 
- []
-
-
-Overfull \hbox (5.69696pt too wide) in paragraph at lines 143--143
- []|\TU/TeXGyreTermesX(0)/m/n/7 110| 
- []
-
-
-Overfull \hbox (5.69696pt too wide) in paragraph at lines 143--143
- []|\TU/TeXGyreTermesX(0)/m/n/7 115| 
- []
-
-
-Overfull \hbox (5.69696pt too wide) in paragraph at lines 143--143
- []|\TU/TeXGyreTermesX(0)/b/n/7 226| 
- []
+[4]
 
 File: resources/images/busqueda-estudios/busqueda-snowball.png Graphic file (type bmp)
 <resources/images/busqueda-estudios/busqueda-snowball.png>
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 148--149
+Overfull \hbox (9.0pt too wide) in paragraph at lines 139--140
  [][] 
  []
 
@@ -2136,9 +2092,9 @@ Underfull \hbox (badness 1424) in paragraph at lines 3--4
 
 
 
-[5]) (./sections/review-method/04-data-extraction.tex) (./sections/review-method/05-study-clasification.tex
+[5]) (./sections/review-method/04-data-extraction.tex) (./sections/review-method/05-study-clasification.tex) (./sections/review-method/06-results.tex
 
-) (./sections/review-method/06-results.tex
+
 
 [6] (./figures/all-sps.tex [7
 
@@ -2417,29 +2373,29 @@ Underfull \hbox (badness 1845) in paragraph at lines 11--12
 
 
 [20]) (./main.bbl
-Underfull \hbox (badness 1571) in paragraph at lines 15--20
+Underfull \hbox (badness 1571) in paragraph at lines 14--17
 \TU/TeXGyreTermesX(0)/m/it/10 ogy and Science (CloudCom)\TU/TeXGyreTermesX(0)/m/n/10 , pages 139–146. IEEE,
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 23--29
+Underfull \hbox (badness 1009) in paragraph at lines 19--22
 []\TU/TeXGyreTermesX(0)/m/n/10 Sameh Abdulah, Jorge Ejarque, Omar Marzouk, Hatem
  []
 
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--116
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
 []\TU/TeXGyreTermesX(0)/m/n/10 Guillermo Chinarro Álvarez, César Alejandro Achig
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 111--116
+Underfull \hbox (badness 6063) in paragraph at lines 84--87
 \TU/TeXGyreTermesX(0)/m/n/10 In \TU/TeXGyreTermesX(0)/m/it/10 2023 7th International Young Engineers Forum
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 128--134
+Underfull \hbox (badness 3769) in paragraph at lines 94--97
 \TU/TeXGyreTermesX(0)/m/n/10 Joao Da Silva Almeida Da Quintanilha, Georgiana-
  []
 
@@ -2454,27 +2410,27 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--204
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 []\TU/TeXGyreTermesX(0)/m/n/10 Luciano Baresi, Giovanni Quattrocchi, and Nicholas
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 196--204
+Underfull \hbox (badness 3815) in paragraph at lines 144--150
 \TU/TeXGyreTermesX(0)/m/n/10 tainer engines.  \TU/TeXGyreTermesX(0)/m/it/10 Journal of Systems and Software\TU/TeXGyreTermesX(0)/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 196--204
+Underfull \hbox (badness 2285) in paragraph at lines 144--150
 \TU/TeXGyreTermesX(0)/m/n/10 210:111965, 2024b.  ISSN 0164-1212.  .  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--204
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 223--228
+Underfull \hbox (badness 8113) in paragraph at lines 162--165
 []\TU/TeXGyreTermesX(0)/m/n/10 Nada Barnawi, Razan AITooq, and Mohammed Al-
  []
 
@@ -2484,42 +2440,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 258--266
+Underfull \hbox (badness 2582) in paragraph at lines 182--188
 \TU/TeXGyreTermesX(0)/m/n/10 15730484.  .  URL [][]$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 283--290
+Underfull \hbox (badness 1635) in paragraph at lines 200--203
 \TU/TeXGyreTermesX(0)/m/n/10 Alexander Zuepke, Andrea Bastoni, Marco Caccamo,
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 316--322
+Underfull \hbox (badness 2134) in paragraph at lines 220--223
 []\TU/TeXGyreTermesX(0)/m/n/10 Vincent Bracke, Gillis Werrebrouck, José Santos, Tim
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--348
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
 []\TU/TeXGyreTermesX(0)/m/n/10 C.A. Candela-Uribe, L.E. Sepúlveda-Rodríguez,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--348
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
 \TU/TeXGyreTermesX(0)/m/n/10 J.C. Chavarro-Porras, J.A. Sanabria-Ordoñez,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--348
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
 \TU/TeXGyreTermesX(0)/m/n/10 J.L. Garrido, C. Rodríguez-Domínguez, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--348
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
 \TU/TeXGyreTermesX(0)/m/n/10 G. Guerrero-Contreras.  SMS-Builder Project.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--348
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
 [][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][]$[][]\TU/TeXGyreTermesX(0)/m/n/10 ,
  []
 
@@ -2529,17 +2485,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [22]
-Underfull \hbox (badness 2050) in paragraph at lines 353--362
+Underfull \hbox (badness 2050) in paragraph at lines 241--247
 \TU/TeXGyreTermesX(0)/m/n/10 Julio C. Chavarro-Porras, John A. Sanabria-Ordoñez,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 376--381
+Underfull \hbox (badness 2027) in paragraph at lines 259--262
 []\TU/TeXGyreTermesX(0)/m/n/10 Carmen Carrión.  Kubernetes as a standard container
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 443--447
+Underfull \hbox (badness 1577) in paragraph at lines 309--312
 []\TU/TeXGyreTermesX(0)/m/n/10 Assis T de Oliveira Filho, Eduardo Freitas, Pedro RX
  []
 
@@ -2549,12 +2505,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 3260) in paragraph at lines 465--471
+Underfull \hbox (badness 3260) in paragraph at lines 324--327
 \TU/TeXGyreTermesX(0)/m/n/10 Eduard Marin, and Thomas Eisenbarth.  Dynamic
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 465--471
+Underfull \hbox (badness 1661) in paragraph at lines 324--327
 \TU/TeXGyreTermesX(0)/m/n/10 frequency-based fingerprinting attacks against modern
  []
 
@@ -2564,12 +2520,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [23]
-Underfull \hbox (badness 2856) in paragraph at lines 547--552
+Underfull \hbox (badness 2856) in paragraph at lines 379--381
 []\TU/TeXGyreTermesX(0)/m/n/10 M Ersted Rasmussen, C Dueholm Vestergaard, J Fol-
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 586--592
+Underfull \hbox (badness 2197) in paragraph at lines 403--406
 \TU/TeXGyreTermesX(0)/m/n/10 Newton C Will, Rafael R Obelheiro, and Carlos A
  []
 
@@ -2584,22 +2540,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [24]
-Underfull \hbox (badness 4096) in paragraph at lines 735--742
+Underfull \hbox (badness 4096) in paragraph at lines 511--514
 []\TU/TeXGyreTermesX(0)/m/n/10 Lasal Sandeepa Hettiarachchi, Senura Vihan Jayadeva,
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 758--763
+Underfull \hbox (badness 4595) in paragraph at lines 525--528
 []\TU/TeXGyreTermesX(0)/m/n/10 Husain Husain, Khairan Marzuki, Lalu Zazuli Azhar
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 778--784
+Underfull \hbox (badness 1424) in paragraph at lines 540--543
 \TU/TeXGyreTermesX(0)/m/n/10 In \TU/TeXGyreTermesX(0)/m/it/10 2023 IEEE 3rd International Conference on Elec-
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 800--806
+Underfull \hbox (badness 1325) in paragraph at lines 555--558
 []\TU/TeXGyreTermesX(0)/m/n/10 Bjarne Johansson, Mats Rågberger, Thomas Nolte, and
  []
 
@@ -2609,7 +2565,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 880--884
+Underfull \hbox (badness 4279) in paragraph at lines 615--618
 []\TU/TeXGyreTermesX(0)/m/n/10 Srinidhi Kanagachalam, Khikmatullo Tulkinbekov, and
  []
 
@@ -2619,27 +2575,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [25]
-Underfull \hbox (badness 1931) in paragraph at lines 932--940
+Underfull \hbox (badness 1931) in paragraph at lines 654--659
 []\TU/TeXGyreTermesX(0)/m/n/10 Barbara Kitchenham, Rialette Pretorius, David Budgen,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--1002
+Underfull \hbox (badness 10000) in paragraph at lines 698--704
 \TU/TeXGyreTermesX(0)/m/n/10 formance comparison of container-based technolo-
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 993--1002
+Underfull \hbox (badness 4416) in paragraph at lines 698--704
 \TU/TeXGyreTermesX(0)/m/n/10 gies for the cloud.  \TU/TeXGyreTermesX(0)/m/it/10 Future Generation Computer
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 993--1002
+Underfull \hbox (badness 2302) in paragraph at lines 698--704
 \TU/TeXGyreTermesX(0)/m/it/10 Systems\TU/TeXGyreTermesX(0)/m/n/10 , 68:175–182, 2017.  ISSN 0167-739X.  .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--1002
+Underfull \hbox (badness 10000) in paragraph at lines 698--704
 \TU/TeXGyreTermesX(0)/m/n/10 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] []
  []
 
@@ -2649,12 +2605,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 1025--1031
+Underfull \hbox (badness 2564) in paragraph at lines 721--725
 []\TU/TeXGyreTermesX(0)/m/n/10 Pankaj Kunekar, Nidhi Bhavsar, Kriti Das, and Sachi
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 1043--1047
+Underfull \hbox (badness 1028) in paragraph at lines 732--735
 []\TU/TeXGyreTermesX(0)/m/n/10 Soonhong Kwon, Wooyoung Son, and Jong-Hyouk Lee.
  []
 
@@ -2664,12 +2620,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1101--1106
+Underfull \hbox (badness 10000) in paragraph at lines 772--775
 []\TU/TeXGyreTermesX(0)/m/n/10 Vasiliki Liagkou, George Fragiadakis, Evangelia Fil-
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 1172--1178
+Underfull \hbox (badness 1097) in paragraph at lines 824--827
 \TU/TeXGyreTermesX(0)/m/it/10 nologies: Infrastructure for Collaborative Enterprises
  []
 
@@ -2689,12 +2645,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 1415--1421
+Underfull \hbox (badness 1331) in paragraph at lines 992--995
 \TU/TeXGyreTermesX(0)/m/n/10 A Hasić, M Azizović, and S Thirumalai.  Security-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1424--1430
+Underfull \hbox (badness 10000) in paragraph at lines 997--1000
 []\TU/TeXGyreTermesX(0)/m/n/10 Shunmugapriya Ramanathan, Abhishek Bhattacharyya,
  []
 
@@ -2704,42 +2660,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [28]
-Underfull \hbox (badness 1014) in paragraph at lines 1512--1517
+Underfull \hbox (badness 1014) in paragraph at lines 1059--1062
 []\TU/TeXGyreTermesX(0)/m/n/10 Henri Schmidt, Zeineb Rejiba, Raphael Eidenbenz, and
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1512--1517
+Underfull \hbox (badness 1442) in paragraph at lines 1059--1062
 \TU/TeXGyreTermesX(0)/m/n/10 Klaus-Tycho Förster.  Transparent fault tolerance for
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 1536--1545
+Underfull \hbox (badness 1762) in paragraph at lines 1075--1081
 []\TU/TeXGyreTermesX(0)/m/n/10 Luis E. Sepúlveda-Rodríguez, Julio C. Chavarro-Porras,
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 1536--1545
+Underfull \hbox (badness 1173) in paragraph at lines 1075--1081
 \TU/TeXGyreTermesX(0)/m/n/10 Matthews.  A Survey of Virtualization Technologies:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1536--1545
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1081
 [] [] [][][][][][][][][][][][][][][][][][][] [] [][][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1536--1545
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1081
 [][][][][][][][][][][] [] [][][][][][] [] [][][][][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1536--1545
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1081
 [][][] [] [][][][][] [] [][][][][] [] [][][][][][][] [] [][] [] [][][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 1547--1552
+Underfull \hbox (badness 1817) in paragraph at lines 1083--1086
 \TU/TeXGyreTermesX(0)/m/n/10 ing algorithm for cloud with iot network.  \TU/TeXGyreTermesX(0)/m/it/10 Interna-
  []
 
@@ -2749,32 +2705,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 1573--1579
+Underfull \hbox (badness 3872) in paragraph at lines 1102--1105
 []\TU/TeXGyreTermesX(0)/m/n/10 Kamred Udham Singh, Ankit Kumar, Gaurav Kumar,
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 1599--1603
+Underfull \hbox (badness 3098) in paragraph at lines 1122--1125
 []\TU/TeXGyreTermesX(0)/m/n/10 Noah Spahn, Nils Hanke, Thorsten Holz, Christopher
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 1606--1610
+Underfull \hbox (badness 2293) in paragraph at lines 1127--1130
 []\TU/TeXGyreTermesX(0)/m/n/10 Dragan Stojanović, Dušan Jovanović, and Natalija Sto-
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 1613--1619
+Underfull \hbox (badness 2334) in paragraph at lines 1132--1135
 []\TU/TeXGyreTermesX(0)/m/n/10 Vijay Thurimella, Philipp Raith, Rolando P Hong En-
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 1637--1643
+Underfull \hbox (badness 1983) in paragraph at lines 1147--1150
 []\TU/TeXGyreTermesX(0)/m/n/10 Rohan Vaidya, Atharv Tembhurnikar, Chinmay Mohite,
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 1637--1643
+Underfull \hbox (badness 2050) in paragraph at lines 1147--1150
 \TU/TeXGyreTermesX(0)/m/n/10 Sumit Puri, Swapneel Kulkarni, and Amar Buchade.
  []
 
@@ -2784,7 +2740,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [29]
-Underfull \hbox (badness 3623) in paragraph at lines 1662--1666
+Underfull \hbox (badness 3623) in paragraph at lines 1163--1166
 []\TU/TeXGyreTermesX(0)/m/n/10 Devi Priya VS, Sibi Chakkaravarthy Sethuraman, and
  []
 
@@ -2819,10 +2775,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  24927 strings out of 473832
  468579 string characters out of 5729482
- 1003762 words of memory out of 5000000
+ 1003598 words of memory out of 5000000
  47406 multiletter control sequences out of 15000+600000
  584302 words of font info for 153 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 109i,13n,131p,5617b,966s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,12n,131p,5617b,966s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (31 pages, 1386268 bytes).
+Output written on main.xdv (31 pages, 1385268 bytes).

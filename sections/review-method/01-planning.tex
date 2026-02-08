@@ -13,24 +13,28 @@ The planning stage established the research goals, questions, metrics, classific
 Two overarching goals were defined to guide this SMS, as presented in Table~\ref{tab:metas-del-estudio}.
 
 \begin{table}[htbp]
+    \caption{Goals of the study}\label{tab:metas-del-estudio}
     \centering
     \scriptsize
-    \renewcommand{\arraystretch}{1.3}
-    \begin{tabular}{>{\centering\arraybackslash}m{1cm} >{\arraybackslash}m{7cm}}
-        \hline
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.1}
+    \begin{tabularx}{\columnwidth}{@{}c>{\RaggedRight\arraybackslash}X@{}}
+        \toprule
         \textbf{Goal} & \textbf{Description} \\
-        \hline
+        \midrule
         G1 & Identify studies related to CBV in education, research, and outreach. \\
         G2 & Classify studies related to CBV across IT domains, including software development, computational thinking, parallel computing, data analysis, artificial intelligence, computer networks, IT infrastructure, HPC, security, cloud computing, and blockchain. \\
-        \hline
-    \end{tabular}
-    \caption{Goals of the study}\label{tab:metas-del-estudio}
+        \bottomrule
+    \end{tabularx}
 \end{table}
 
 \begin{table*}[!t]
+\caption{Research questions and their motivation}\label{tab:descripcion-preguntas}
 \centering
-\renewcommand{\arraystretch}{1.2}
-\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}m{0.05\textwidth} >{\centering\arraybackslash}m{0.08\textwidth} >{\RaggedRight\arraybackslash}X >{\RaggedRight\arraybackslash}X}
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.05}
+\begin{tabularx}{\textwidth}{@{}cc>{\RaggedRight\arraybackslash}X>{\RaggedRight\arraybackslash}X@{}}
 \toprule
 \textbf{Goal} & \textbf{Question} & \textbf{Description} & \textbf{Motivation} \\
 \midrule
@@ -39,7 +43,6 @@ G1 & Q1 & Which studies related to container-based virtualization (CBV) technolo
 G2 & Q2 & Which primary studies related to CBV technologies contribute to IT domains such as software development, HPC, AI, security, cloud computing, and others? & The goal is to provide a structured overview of CBV adoption across IT domains, enabling researchers and practitioners to identify trends without requiring exhaustive primary analysis. \\
 \bottomrule
 \end{tabularx}
-\caption{Research questions and their motivation}\label{tab:descripcion-preguntas}
 \end{table*}
 %------Section 4.1.2-----------------------
 \subsubsection{Research Questions}
@@ -52,13 +55,15 @@ The research questions were formulated using the GQM (\textit{Goal Question Metr
 Quantitative metrics were defined to measure the distribution of studies across the classification structure (Table~\ref{tab:metricas}). The search period was restricted to 2022--2024 to ensure currency.
 
 \begin{table}[H]
-    \scriptsize % reduce text size
+    \caption{PICOC model specification}\label{tab:aspectos-PICOC}
+    \scriptsize
     \centering
-    \renewcommand{\arraystretch}{1.2}
-    \begin{tabularx}{\columnwidth}{>{\centering\arraybackslash}m{0.18\columnwidth} >{\RaggedRight\arraybackslash}X}
-        \hline
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.05}
+    \begin{tabularx}{\columnwidth}{@{}l>{\RaggedRight\arraybackslash}X@{}}
+        \toprule
         \textbf{Aspect} & \textbf{Description} \\
-        \hline
+        \midrule
         Population & Studies related to CBV applied across IT domains, with emphasis on education, research, and outreach. \\
         Intervention & Identification and classification of CBV studies within established IT domains. \\
         Comparison & 
@@ -66,9 +71,8 @@ Quantitative metrics were defined to measure the distribution of studies across 
         2. Analysis of CBV impact on academic activities relative to alternative solutions. \\
         Outcome & Classification structure mapping CBV studies to IT domains and academic dimensions. \\
         Context & Education, research, and outreach contexts adopting CBV technologies. \\
-        \hline
+        \bottomrule
     \end{tabularx}
-    \caption{PICOC model specification}\label{tab:aspectos-PICOC}
 \end{table}
 
 %------Section 4.1.4-----------------------
@@ -78,33 +82,34 @@ Based on the research questions and PICOC model, four research topics were defin
 
 \subsubsection{Inclusion and Exclusion Criteria}
 \begin{table*}[!t]
+\caption{Inclusion and exclusion criteria}\label{tab:criterios}
 \centering
-\renewcommand{\arraystretch}{1.2}
-\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}m{0.15\textwidth} >{\RaggedRight\arraybackslash}X >{\RaggedRight\arraybackslash}X}
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.05}
+\begin{tabularx}{\textwidth}{@{}l>{\RaggedRight\arraybackslash}X>{\RaggedRight\arraybackslash}X@{}}
 \toprule
 \textbf{Category} & \textbf{Inclusion} & \textbf{Exclusion} \\
 \midrule
 Screening field & Abstract & --- \\
-\midrule
 Publication type & Journal articles and conference proceedings & Theses, book chapters, grey literature \\
-\midrule
 Discipline & Computer Science, Information Technology, Engineering, IT Management & Disciplines unrelated to virtualization or computing \\
-\midrule
 Time period & 2022--2024 & Before 2022 \\
-\midrule
 Language & English & Non-English publications \\
 \bottomrule
 \end{tabularx}
-\caption{Inclusion and exclusion criteria}\label{tab:criterios}
 \end{table*}
 
 \label{sec:inclusion-exclusion}
 Table~\ref{tab:criterios} presents the inclusion and exclusion criteria. The three-year window (2022--2024) balances currency with sufficient volume. Both journal articles and conference proceedings were included to capture the full publication landscape in this rapidly evolving field.
 
 \begin{table}[H]
+\caption{Metrics defined for the analysis}\label{tab:metricas}
 \centering
-\renewcommand{\arraystretch}{1.2}
-\begin{tabularx}{\columnwidth}{>{\centering\arraybackslash}m{0.15\textwidth} >{\RaggedRight\arraybackslash}X}
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.05}
+\begin{tabularx}{\columnwidth}{@{}c>{\RaggedRight\arraybackslash}X@{}}
 \toprule
 \textbf{Metric} & \textbf{Description} \\
 \midrule
@@ -114,7 +119,6 @@ M3 & Number of studies classified under research. \\
 M4 & Number of studies classified under outreach. \\
 \bottomrule
 \end{tabularx}
-\caption{Metrics defined for the analysis}\label{tab:metricas}
 \end{table}
 
 %------Section 4.1.6-----------------------

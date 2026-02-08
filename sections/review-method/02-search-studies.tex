@@ -22,40 +22,42 @@ This strategy comprises two phases: \textit{Study Identification} (search string
     Execution across all databases yielded \textbf{6,530} preliminary results, with Springer contributing the largest share (\textbf{4,562}; 69.8\%). Table~\ref{tab:resultados-busqueda-sin-criterio} details the distribution.
 
     \begin{table}[H]
+        \caption{Keywords identified using the PICOC model}
+        \label{tab:palabras-clave}
         \scriptsize
         \centering
-        \renewcommand{\arraystretch}{1.2}
-        \begin{tabularx}{\columnwidth}{>{\centering\arraybackslash}m{0.25\columnwidth} >{\RaggedRight\arraybackslash}X}
-            \hline
+        \setlength{\tabcolsep}{4pt}
+        \renewcommand{\arraystretch}{1.05}
+        \begin{tabularx}{\columnwidth}{@{}l>{\RaggedRight\arraybackslash}X@{}}
+            \toprule
             \textbf{Aspect} & \textbf{Description} \\
-            \hline
+            \midrule
             Population & CBV, IT Domains, Education, Research, Outreach \\
             Intervention & Identification, Classification \\
             Comparison & Success rate, Evidence of use \\
             Output & Classification of CBV studies per IT domain \\
             Context & Education, Research, Outreach \\
-            \hline
+            \bottomrule
         \end{tabularx}
-        \caption{Keywords identified using the PICOC model}
-        \label{tab:palabras-clave}
     \end{table}
 
 \begin{table}[H]
+    \caption{Keywords for database search}
+    \label{tab:keywords}
     \scriptsize
     \centering
-    \renewcommand{\arraystretch}{1.2}
-    \begin{tabularx}{\columnwidth}{>{\centering\arraybackslash}m{0.25\columnwidth} >{\RaggedRight\arraybackslash}X}
-        \hline
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.05}
+    \begin{tabularx}{\columnwidth}{@{}l>{\RaggedRight\arraybackslash}X@{}}
+        \toprule
         \textbf{Keyword} & \textbf{Synonyms} \\
-        \hline
+        \midrule
         Container-based virtualization & Application virtualization, Docker, Lightweight Virtualization \\
         Education & Education System, Education Development, Higher Education \\
         Research & Research Group, Research Proposal \\
         Industry & IT Services, Technology Infrastructure, Cloud Computing \\
-        \hline
+        \bottomrule
     \end{tabularx}
-    \caption{Keywords for database search}
-    \label{tab:keywords}
 \end{table}
 
     \item \textbf{Study Selection:} Application of inclusion and exclusion criteria reduced the set to \textbf{976} studies (Table~\ref{tab:resultados-busqueda-criterios}), with Springer maintaining the largest contribution (\textbf{592}; 60.65\%). After removing \textbf{274} duplicates, a screening process (title, abstract, and keyword review) excluded \textbf{593} irrelevant studies, yielding \textbf{110} selected studies from the database strategy. Figure~\ref{fig:resumen-busqueda-bds} summarizes this process.
@@ -68,43 +70,35 @@ This strategy comprises two phases: \textit{Study Identification} (search string
 \end{figure}
 
 \begin{table*}[tbp]
-    \scriptsize % reduce text size
+    \caption{Search results per database using keywords}\label{tab:resultados-busqueda-sin-criterio}
+    \scriptsize
     \centering
-    \renewcommand{\arraystretch}{1.15}
-    \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X}
-        \hline
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.05}
+    \begin{tabular}{@{}lrrrrr@{}}
+        \toprule
         \textbf{Criterion} & \textbf{ACM} & \textbf{IEEE} & \textbf{Science Direct} & \textbf{Springer} & \textbf{Taylor and Francis} \\
-        \hline
+        \midrule
         Search results using keywords only & 189 & 426 & 4562 & 353 & 1000 \\
         Contribution percentage & 2.89\% & 6.52\% & 69.86\% & 5.4\% & 15.31\% \\
-        \hline
-    \end{tabularx}
-    \caption{Search results per database using keywords}\label{tab:resultados-busqueda-sin-criterio}
+        \bottomrule
+    \end{tabular}
 \end{table*}
 
 \begin{table*}[tbp]
-    \scriptsize % reduce text size
+    \caption{Search results per database using keywords after applying inclusion/exclusion criteria}\label{tab:resultados-busqueda-criterios}
+    \scriptsize
     \centering
-    \renewcommand{\arraystretch}{1.15}
-    \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X 
-                                 >{\centering\arraybackslash}X}
-        \hline
+    \setlength{\tabcolsep}{4pt}
+    \renewcommand{\arraystretch}{1.05}
+    \begin{tabular}{@{}lrrrrr@{}}
+        \toprule
         \textbf{Criterion} & \textbf{ACM} & \textbf{IEEE} & \textbf{Science Direct} & \textbf{Springer} & \textbf{Taylor and Francis} \\
-        \hline
+        \midrule
         Search results after applying keywords only & 48 & 134 & 46 & 592 & 156 \\
         Contribution percentage & 4.91\% & 13.72\% & 4.71\% & 60.65\% & 15.98\% \\
-        \hline
-    \end{tabularx}
-    \caption{Search results per database using keywords after applying inclusion/exclusion criteria}\label{tab:resultados-busqueda-criterios}
+        \bottomrule
+    \end{tabular}
 \end{table*}
 
 % sub-subsection 4.2.3
@@ -124,14 +118,12 @@ After the base line construction, the reference analysis was performed, which al
 \subsubsection{Results of the Study Search}\label{subsubsec:resultados-busqueda}
 The combined search yielded \textbf{226} primary studies: \textbf{110} from databases, \textbf{115} from snowballing, and \textbf{1} through direct inclusion. The near-equal split between strategies (Table~\ref{tab:resultados-busqueda}) confirms the complementarity of the hybrid approach.
 \begin{table}[H]
+\caption{Results of the study search}\label{tab:resultados-busqueda}
 \centering
 \scriptsize
-\renewcommand{\arraystretch}{1.2}
-\begin{tabularx}{\columnwidth}{
-    >{\centering\arraybackslash}m{0.25\textwidth}
-    >{\centering\arraybackslash}X
-    >{\centering\arraybackslash}m{0.15\textwidth}
-}
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.05}
+\begin{tabular}{@{}lrr@{}}
 \toprule
 \textbf{Strategy} & \textbf{Studies} & \textbf{\%} \\
 \midrule
@@ -140,8 +132,7 @@ Snowballing & 115 & 50.88\% \\
 Direct Inclusion & 1 & 0.44\% \\
 \textbf{Total} & \textbf{226} & \textbf{100\%} \\
 \bottomrule
-\end{tabularx}
-\caption{Results of the study search}\label{tab:resultados-busqueda}
+\end{tabular}
 \end{table}
 \begin{figure}[htbp]
     \centering
