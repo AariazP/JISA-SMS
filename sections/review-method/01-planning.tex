@@ -1,0 +1,147 @@
+%-----------Section 4.1---------------
+\subsection{Planning}\label{subsec:planeacion}
+The planning stage established the research goals, questions, metrics, classification criteria, and quality assessment indices. Figure~\ref{fig:etapa1} summarizes the components of this stage.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.5\textwidth]{resources/images/planeacion/etapa1.png}
+    \caption{Composition of the planning stage}\label{fig:etapa1}
+\end{figure}
+
+%-----------Section 4.1.1---------------
+\subsubsection{Study Goals}
+Two overarching goals were defined to guide this SMS, as presented in Table~\ref{tab:metas-del-estudio}.
+
+\begin{table}[htbp]
+    \centering
+    \begin{tabular}{>{\centering\arraybackslash}m{1cm} >{\arraybackslash}m{7cm}}
+        \hline
+        \textbf{Goal} & \textbf{Description} \\
+        \hline\\
+        G1 & Identify studies related to CBV in education, research, and outreach. \\
+        \\
+        G2 & Classify studies related to CBV across IT domains, including software development, computational thinking, parallel computing, data analysis, artificial intelligence, computer networks, IT infrastructure, HPC, security, cloud computing, and blockchain. \\\\
+        
+        \hline
+    \end{tabular}
+    \caption{Goals of the study}\label{tab:metas-del-estudio}
+\end{table}
+
+\begin{table*}[!t]
+\centering
+
+\renewcommand{\arraystretch}{1.4}
+\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}m{0.05\textwidth} >{\centering\arraybackslash}m{0.08\textwidth} >{\RaggedRight\arraybackslash}X >{\RaggedRight\arraybackslash}X}
+\toprule
+\textbf{Goal} & \textbf{Question} & \textbf{Description} & \textbf{Motivation} \\
+\midrule
+G1 & Q1 & Which studies related to container-based virtualization (CBV) technologies contribute to education, research, and outreach? & CBV enables environment reproducibility, facilitating the transfer of IT solutions across contexts. Understanding its academic penetration can stimulate cross-domain innovation. \\
+\midrule
+G2 & Q2 & Which primary studies related to CBV technologies contribute to IT domains such as software development, HPC, AI, security, cloud computing, and others? & The goal is to provide a structured overview of CBV adoption across IT domains, enabling researchers and practitioners to identify trends without requiring exhaustive primary analysis. \\
+\bottomrule
+\end{tabularx}
+\caption{Research questions and their motivation}\label{tab:descripcion-preguntas}
+\end{table*}
+%------Section 4.1.2-----------------------
+\subsubsection{Research Questions}
+\label{sec:research-question}
+The research questions were formulated using the GQM (\textit{Goal Question Metric}) framework~\cite{Needleman2002} and the PICOC model~\cite{petticrew2008systematic}, which structures the population, intervention, comparison, outcome, and context of the study (Table~\ref{tab:aspectos-PICOC}). Two research questions were derived, as detailed in Table~\ref{tab:descripcion-preguntas}.
+
+%------Section 4.1.3-----------------------
+\subsubsection{Metrics}
+\label{sec:metrics}
+Quantitative metrics were defined to measure the distribution of studies across the classification structure (Table~\ref{tab:metricas}). The search period was restricted to 2022--2024 to ensure currency.
+
+\begin{table}[H]
+    \scriptsize % reduce text size
+    \centering
+    \renewcommand{\arraystretch}{1.3}
+    \begin{tabularx}{\columnwidth}{>{\centering\arraybackslash}m{0.18\columnwidth} >{\RaggedRight\arraybackslash}X}
+        \hline
+        \textbf{Aspect} & \textbf{Description} \\
+        \hline
+        Population & Studies related to CBV applied across IT domains, with emphasis on education, research, and outreach. \\
+        Intervention & Identification and classification of CBV studies within established IT domains. \\
+        Comparison & 
+        1. Comparison of CBV projects by reported success rates across IT domains. \newline
+        2. Analysis of CBV impact on academic activities relative to alternative solutions. \\
+        Outcome & Classification structure mapping CBV studies to IT domains and academic dimensions. \\
+        Context & Education, research, and outreach contexts adopting CBV technologies. \\
+        \hline
+    \end{tabularx}
+    \caption{PICOC model specification}\label{tab:aspectos-PICOC}
+\end{table}
+
+%------Section 4.1.4-----------------------
+\subsubsection{Research Topics}
+\label{sec:research-topics}
+Based on the research questions and PICOC model, four research topics were defined: \textit{Container-based virtualization}, \textit{Education}, \textit{Research}, and \textit{Industry}. These topics were further refined through the IT domains identified as relevant to the study scope.
+
+\subsubsection{Inclusion and Exclusion Criteria}
+\begin{table*}[!t]
+\centering
+\renewcommand{\arraystretch}{1.4}
+\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}m{0.15\textwidth} >{\RaggedRight\arraybackslash}X >{\RaggedRight\arraybackslash}X}
+\toprule
+\textbf{Category} & \textbf{Inclusion} & \textbf{Exclusion} \\
+\midrule
+Screening field & Abstract & --- \\
+\midrule
+Publication type & Journal articles and conference proceedings & Theses, book chapters, grey literature \\
+\midrule
+Discipline & Computer Science, Information Technology, Engineering, IT Management & Disciplines unrelated to virtualization or computing \\
+\midrule
+Time period & 2022--2024 & Before 2022 \\
+\midrule
+Language & English & Non-English publications \\
+\bottomrule
+\end{tabularx}
+\caption{Inclusion and exclusion criteria}\label{tab:criterios}
+\end{table*}
+
+\label{sec:inclusion-exclusion}
+Table~\ref{tab:criterios} presents the inclusion and exclusion criteria. The three-year window (2022--2024) balances currency with sufficient volume. Both journal articles and conference proceedings were included to capture the full publication landscape in this rapidly evolving field.\\
+
+\begin{table}[H]
+\centering
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\columnwidth}{>{\centering\arraybackslash}m{0.15\textwidth} >{\RaggedRight\arraybackslash}X}
+\toprule
+\textbf{Metric} & \textbf{Description} \\
+\midrule
+M1 & Number of studies identified per IT domain. \\
+M2 & Number of studies classified under education. \\
+M3 & Number of studies classified under research. \\
+M4 & Number of studies classified under outreach. \\
+\bottomrule
+\end{tabularx}
+\caption{Metrics defined for the analysis}\label{tab:metricas}
+\end{table}
+
+%------Section 4.1.6-----------------------
+\subsubsection{Quality Assessment Criteria}
+Three quality indices were defined to evaluate the relevance and rigor of the selected studies.
+
+\paragraph{Content Validity Index (CVI).}
+The CVI assesses the degree to which each study aligns with the SMS objectives, adapted from established content validity methodology~\cite{almanasreh2019evaluation,yaghmaei2003content}. Each study was independently rated by $K$~evaluators (where $K$ is odd, to prevent ties) on a scale from 0~(no relevance) to~5 (high relevance). Following the proportion-based CVI approach~\cite{almanasreh2019evaluation}, we define the item-level CVI (I-CVI) as the proportion of evaluators who rate a study above a relevance threshold $t$:
+\begin{equation}
+\label{eq:cvi}
+\text{I-CVI} = \frac{n_{t}}{K}
+\end{equation}
+where $n_{t}$ is the number of evaluators assigning a score $\geq t$ (with $t = 3$ adopted in this study), and $K$ is the total number of evaluators. An I-CVI $\geq 0.78$ indicates acceptable content validity~\cite{almanasreh2019evaluation}. For aggregation across the study corpus, the Scale-level CVI based on the average method (S-CVI/Ave) is computed as the mean of all I-CVI values.
+
+\paragraph{Scientific Citation Index (SCI).}
+The SCI captures citation-normalized impact relative to publication recency. For a study with $C$~citations accumulated between 2022 and 2024, published $A$~years before the extraction date:
+\begin{equation}
+\label{eq:sci}
+\text{SCI} = \frac{C}{A}
+\end{equation}
+This normalization ensures that recently published studies with emerging citation counts are not penalized relative to older, more-cited works.
+
+\paragraph{Index of Relationship to Research Questions (IRRQ).}
+The IRRQ quantifies the coverage of a study with respect to the defined research questions. Given $Q = 2$ research questions in this SMS, the IRRQ for a study addressing $n$ questions is:
+\begin{equation}
+\label{eq:irrq}
+\text{IRRQ} = \frac{n}{Q}
+\end{equation}
+where $n \in \{0, 1, 2\}$ and $Q = 2$. Thus, IRRQ $\in \{0, 0.5, 1\}$, where 1~indicates full coverage of both research questions. This index enables identification of studies with broad versus narrow thematic relevance.

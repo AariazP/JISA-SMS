@@ -1,0 +1,52 @@
+\section{Analysis, Discussion, and Future Research Directions}\label{sec:analysis-and-discussion}
+
+The SMS results reveal several cross-cutting patterns that merit interpretation beyond descriptive statistics. This section synthesizes the key findings, proposes a taxonomic structure, identifies research gaps, and outlines concrete future research directions.
+
+\subsection{Proposed Taxonomic Structure}
+The classification of 226~SPS across IT domains and academic dimensions motivates a taxonomic structure (Figure~\ref{fig:taxonomic}) that organizes the CBV research landscape along two axes: \textit{(i)}~the IT domain (software development, IT infrastructure, cloud computing, HPC, security, AI, etc.) and \textit{(ii)}~the academic dimension (education, research, outreach). This dual-axis taxonomy constitutes a novel contribution, as no prior secondary study has simultaneously mapped both dimensions. The taxonomy can serve as a decision-support tool for researchers identifying relevant literature, for educators designing container-based curricula, and for practitioners selecting technologies aligned with domain-specific requirements.
+
+\begin{center}
+    \includegraphics[width=0.5\textwidth]{resources/images/taxonomy/taxonomia.png}
+    \captionof{figure}{Proposed taxonomic structure for CBV research}
+    \label{fig:taxonomic}
+\end{center}
+
+\subsection{Key Findings and Interpretation}
+
+\paragraph{Technology concentration and its implications.}
+The dominance of Docker (94~SPS, 41.6\%) and Kubernetes (67~SPS) reveals a significant concentration risk in the research literature. While Docker's ubiquity reflects its first-mover advantage and ecosystem maturity, it also implies that findings from the CBV research corpus may not generalize to alternative runtimes with different security models (gVisor, Kata Containers), permission models (Podman), or HPC optimization (Singularity/Apptainer). Researchers should critically evaluate whether conclusions drawn from Docker-centric studies apply to their specific deployment contexts.
+
+\paragraph{The IT Infrastructure bias.}
+IT Infrastructure accounts for 75.66\% of the mapped studies, creating a pronounced bias toward deployment and management concerns. Domains such as Blockchain (0.76\%), Parallel Computing (1.77\%), and Computational Thinking (2.21\%) remain severely underexplored despite clear potential for containerization. For instance, container-based approaches to reproducible blockchain testing environments, portable parallel computing frameworks, and interactive computational thinking platforms represent viable but unaddressed research directions.
+
+\paragraph{The academic dimension gap.}
+The fragmentation across academic dimensions---with Research dominating (83.61\%) and Outreach representing only 5.88\%---reveals a missed opportunity. Containerization's core strengths (portability, reproducibility, environment isolation) are precisely the attributes needed for effective outreach and knowledge transfer. The absence of studies simultaneously addressing education, research, and outreach suggests that the academic community has not yet leveraged CBV's transversal potential.
+
+\paragraph{Temporal trends and maturation signals.}
+The 118\% growth in publications from 2022 to 2024, combined with the increasing CVI and IRRQ indices, indicates both growing interest and improving methodological alignment with the field's core questions. However, the stable SCI around 18 suggests that while more studies are published, citation impact has not proportionally increased---a pattern consistent with a rapidly expanding but potentially fragmenting research area.
+
+\subsection{Identified Research Gaps}
+Based on the SMS findings, the following research gaps are identified:
+
+\begin{enumerate}[label=\textbf{RG\arabic*}:]
+    \item \textbf{Alternative runtime evaluation.} Systematic comparative studies of container runtimes beyond Docker (e.g., Podman, Singularity, gVisor, Kata Containers) across performance, security, and usability dimensions are critically needed.
+    \item \textbf{Orchestration beyond Kubernetes.} Research evaluating lightweight orchestration alternatives (K3s, Nomad, Docker Compose) for edge computing, IoT, and resource-constrained environments is underrepresented.
+    \item \textbf{CBV in education and outreach.} Empirical studies measuring the impact of containerization on learning outcomes, curriculum design, and outreach program effectiveness are nearly absent from the literature.
+    \item \textbf{Cross-domain integration.} No identified study bridges all three academic dimensions simultaneously, presenting an opportunity for holistic CBV adoption frameworks.
+    \item \textbf{Emerging IT domains.} The intersection of CBV with blockchain, quantum computing simulation, and computational thinking requires dedicated investigation.
+    \item \textbf{Security of container ecosystems.} While security appears in 65~SPS, most address container isolation rather than supply-chain security, image provenance, or runtime attestation---areas of growing practical concern.
+\end{enumerate}
+
+\subsection{Future Research Directions}
+Building on the identified gaps, the following concrete research directions are proposed:
+
+\begin{itemize}
+    \item \textbf{Benchmarking frameworks:} Development of standardized benchmarking methodologies for comparing container runtimes and orchestrators across heterogeneous hardware (x86, ARM, RISC-V) and workload profiles (HPC, microservices, AI training).
+    \item \textbf{Educational impact studies:} Controlled experiments measuring the effect of container-based laboratory environments on student learning outcomes, engagement, and skill transferability in computer science education.
+    \item \textbf{Outreach and knowledge transfer:} Design and evaluation of container-packaged educational platforms that facilitate technology transfer from universities to industry and communities, particularly in resource-limited settings.
+    \item \textbf{Security posture analysis:} Comprehensive studies on container supply-chain security, including image scanning effectiveness, Software Bill of Materials (SBOM) adoption, and runtime security monitoring in production environments.
+    \item \textbf{Lightweight orchestration for edge/IoT:} Empirical evaluation of Kubernetes alternatives in edge and IoT deployments where resource constraints and latency requirements differ from cloud-native assumptions.
+\end{itemize}
+
+\subsection{Implications for Research and Practice}
+For \textit{researchers}, this SMS provides a structured entry point into the CBV literature, enabling targeted investigation of underexplored domains and informed positioning of new contributions. The identified gaps (RG1--RG6) offer concrete starting points for future studies. For \textit{practitioners}, the technology distribution analysis highlights both the safety of Docker/Kubernetes adoption (given extensive research backing) and the risk of overlooking better-suited alternatives for specific use cases. For \textit{educators}, the near-absence of containerization in formal educational frameworks represents an opportunity to develop innovative pedagogical approaches leveraging CBV's reproducibility and portability.

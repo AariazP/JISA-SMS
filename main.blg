@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Reallocated field_info (elt_size=4) to 12140 items from 5000.
+Database file #1: refs.bib
+Warning--entry type for "mohamed-almoudane" isn't style-file defined
+--line 61 of file refs.bib
+Warning--empty journal in 189
+Warning--empty journal in clemente-mateo
+Warning--empty journal in 43
+Warning--empty journal in 201
+Warning--empty year in 201
+Warning--empty year in 201
+Warning--empty journal in 156
+Warning--empty year in 156
+Warning--empty year in 156
+Warning--empty journal in 91
+Warning--empty publisher in 89
+Warning--empty journal in falade-segun
+You've used 255 entries,
+            2773 wiz_defined-function locations,
+            1830 strings with 62015 characters,
+and the built_in function-call counts, 150324 in all, are:
+= -- 13570
+> -- 9806
+< -- 185
++ -- 3298
+- -- 3027
+* -- 12552
+:= -- 22330
+add.period$ -- 907
+call.type$ -- 255
+change.case$ -- 1760
+chr.to.int$ -- 239
+cite$ -- 522
+duplicate$ -- 6633
+empty$ -- 11375
+format.name$ -- 3365
+if$ -- 32317
+int.to.chr$ -- 17
+int.to.str$ -- 1
+missing$ -- 251
+newline$ -- 1328
+num.names$ -- 1020
+pop$ -- 3695
+preamble$ -- 1
+purify$ -- 1507
+quote$ -- 0
+skip$ -- 5347
+stack$ -- 0
+substring$ -- 5896
+swap$ -- 1413
+text.length$ -- 128
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2800
+warning$ -- 12
+while$ -- 1285
+width$ -- 0
+write$ -- 3482
+(There were 13 warnings)

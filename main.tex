@@ -1,0 +1,132 @@
+\documentclass[sbc,authoryear]{sbc2019}
+
+% Define custom environments if not already defined
+
+\setlength{\headheight}{36.90002pt}
+\usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage[misc,geometry]{ifsym}
+\usepackage{fontspec}
+\usepackage{sectsty}
+\usepackage{newtxtext}
+\usepackage{fontawesome}
+\usepackage{academicons}
+\usepackage{color}
+\usepackage{aas_macros}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage[bottom]{footmisc}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{supertabular}
+\usepackage{afterpage}
+\usepackage{url}
+\usepackage{enumitem}
+\usepackage{pifont}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{IEEEtrantools}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\usepackage{float}
+\setcitestyle{square}
+\usepackage{caption}
+\usepackage[colorlinks=true, urlcolor=blue]{hyperref}
+\usepackage[normalem]{ulem} % para subrayar
+
+
+
+\definecolor{orcidlogo}{rgb}{0.37,0.48,0.13}
+\definecolor{unilogo}{rgb}{0.16, 0.26, 0.58}
+\definecolor{maillogo}{rgb}{0.58, 0.16, 0.26}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.0}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+%\hypersetup{colorlinks,citecolor=blue,linkcolor=blue,urlcolor=blue}
+
+%%%%%%% IMPORTANT: We disable hyperlinks by default with this line, to avoid the error "\pdfendlink ended up in different nesting level" while writing.
+%\hypersetup{draft}
+
+\jid{JBCS}
+\jtitle{Journal of Internet Services and Applications, 2023, 13:1, }
+\doi{10.5753/jisa.2023.XXXXXX}
+\copyrightstatement{This work is licensed under a Creative Commons Attribution 4.0 International License}
+\jyear{2023}
+
+\title[Literature Review on Container-Based Virtualization Technologies]{Literature Review on Container-Based Virtualization Technologies}
+
+\author[Arias et al. 2025]{
+\affil{\textbf{José A. Arias-Pinzón}~\href{https://orcid.org/0009-0006-1879-1172}{\textcolor{orcidlogo}{\aiOrcid}}~\textcolor{blue}{\faEnvelopeO}~~[~\textbf{Universidad del Quindío}~|\href{mailto:josea.ariasp@uqvirtual.edu.co}{~\textbf{\textit{josea.ariasp@uqvirtual.edu.co}}}~]}
+
+\affil{\textbf{Anobis H. Correa-Urbano}~\href{https://orcid.org/0009-0000-1578-3931}{\textcolor{orcidlogo}{\aiOrcid}}~~[~\textbf{Universidad del Quindío}~|\href{mailto:anobish.correau@uqvirtual.edu.co}{~\textbf{\textit{anobish.correau@uqvirtual.edu.co}}}~]}
+
+\affil{\textbf{Luis E. Sepúlveda-Rodríguez}~\href{https://orcid.org/0000-0003-2446-0602}{\textcolor{orcidlogo}{\aiOrcid}}~~[~\textbf{Universidad del Quindío}~|\href{mailto:lesepulveda@uniquindio.edu.co}{~\textbf{\textit{lesepulveda@uniquindio.edu.co}}}~]}
+
+\affil{\textbf{Christian A. Candela-Uribe}~\href{https://orcid.org/0000-0002-3961-1840}{\textcolor{orcidlogo}{\aiOrcid}}~~[~\textbf{Universidad del Quindío}|\href{mailto:christiancandela@uniquindio.edu.co}{~\textbf{\textit{christiancandela@uniquindio.edu.co}}}~]}
+
+}
+
+\begin{document}
+
+\begin{frontmatter}
+\maketitle
+
+\begin{mail}
+Facultad de ingeniería, Universidad del Quindío, Carrera 15 \#12N, Armenia, Quindío, 630001, Colombia. 
+%Full list of authors' information is available at the end of the article.
+\end{mail}
+
+\begin{dates}
+\small{\textbf{Received:} DD Month YYYY~~~$\bullet$~~~\textbf{Accepted:} DD Month YYYY~~~$\bullet$~~~\textbf{Published:} DD Month YYYY}
+%Full list of authors' information is available at the end of the article.
+\end{dates}
+
+
+\begin{abstract}
+\textbf{Abstract}
+\noindent Container-based virtualization (CBV) has become a cornerstone of modern IT infrastructure, with technologies such as Docker and Kubernetes dominating application packaging and orchestration, respectively. Despite the proliferation of research in this domain, no existing secondary study systematically maps CBV technologies across both IT domains and academic dimensions (education, research, and outreach). This paper presents a Systematic Mapping Study (SMS) of 226 primary studies published between 2022 and 2024, identified through a hybrid strategy combining database searches across five digital libraries and forward/backward snowballing. Studies were classified using 11 IT domains and three academic dimensions, assessed through three quality indices (CVI, SCI, IRRQ), and organized into a novel dual-axis taxonomic structure. The results reveal a marked concentration around Docker (41.6\%) and Kubernetes (29.6\%), a dominance of IT Infrastructure as a research domain (75.66\%), and a significant underrepresentation of education (11.06\%) and outreach (5.88\%) in the CBV literature. Six concrete research gaps are identified, including the need for alternative runtime evaluation, orchestration beyond Kubernetes, and empirical studies on CBV in educational contexts. The proposed taxonomy and identified gaps provide a structured foundation for researchers, educators, and practitioners navigating the rapidly expanding CBV landscape.
+\end{abstract}
+
+\begin{keywords}
+Container-based virtualization, Systematic mapping study, Docker, Kubernetes, Cloud computing, Software engineering
+\end{keywords}
+
+%\begin{license}
+%Published under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0)
+%\end{license}
+
+\end{frontmatter}
+
+\input{sections/introduction}
+\input{sections/motivation}
+\input{sections/related-works}
+%-------------Section 4--------------------------
+\input{sections/review-method/00-review-method}
+
+\input{sections/review-method/01-planning}
+
+\input{sections/review-method/02-search-studies}
+
+\input{sections/review-method/03-quality-assessment}
+
+\input{sections/review-method/04-data-extraction}
+
+\input{sections/review-method/05-study-clasification}
+
+\input{sections/review-method/06-results}
+
+\input{sections/review-method/07-reproducibility}
+
+%----------------Section 5------------------------
+\input{sections/threats-to-validity}
+
+\input{sections/analysis-and-discussion}
+
+\input{sections/conclusions}
+
+\bibliographystyle{plainnat}
+\bibliography{refs}
+
+\end{document}
