@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1770578622.99382 "main.aux" "main.bbl" "main" 1770578768.12473 0
+["bibtex main"] 1770578622.99382 "main.aux" "main.bbl" "main" 1770579250.99377 0
   "./refs.bib" 1770588660 116091 239e83d9e5735c2d65983312cc9db2c6 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1770578764.3021 43639 691d5e3856f6f98ffad9b9f1de2d3b9f "xelatex"
+  "main.aux" 1770579247.20857 43639 691d5e3856f6f98ffad9b9f1de2d3b9f "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1770578764.58858 "main.xdv" "main.pdf" "main" 1770578768.12649 0
-  "main.xdv" 1770578764.30428 1391836 a008ed890f2bfc02a24480dc1e12d238 "xelatex"
+["xdvipdfmx"] 1770579247.49238 "main.xdv" "main.pdf" "main" 1770579250.99543 0
+  "main.xdv" 1770579247.21135 1391824 beda9663993381d4334bbeedf1b0943b "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1770578762.47849 "/Users/aariaz/Desktop/JISA-VBC/main.tex" "main.xdv" "main" 1770578768.1248 0
+["xelatex"] 1770579245.25394 "/Users/aariaz/Desktop/JISA-VBC/main.tex" "main.xdv" "main" 1770579250.99383 0
   "/Users/aariaz/Desktop/JISA-VBC/main.tex" 1770574655.11492 5987 1ec8a92c45f04bc40d4004aec1add0ff ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -179,9 +179,9 @@
   "figures/study-clasification-by-TI-domain-and-academic-dimension.tex" 1770574655.11878 3696 c2309a5ec17f81352d6d125fe91ba23e ""
   "figures/study-clasification-by-VBC-academic-dimension.tex" 1770588660 1834 84c6c3d84dd7b9aace2135814b326cff ""
   "figures/study-clasification-by-topic-and-year.tex" 1770574655.12191 5988 967d1482b678927fd21f5d32ce274eaf ""
-  "main.aux" 1770578764.3021 43639 691d5e3856f6f98ffad9b9f1de2d3b9f "xelatex"
+  "main.aux" 1770579247.20857 43639 691d5e3856f6f98ffad9b9f1de2d3b9f "xelatex"
   "main.bbl" 1770578623.09934 89629 070884db5e6a46c9dce0955f69048c4f "bibtex main"
-  "main.out" 1770578764.3039 6957 0bed1ebe1ebb29aa44eed48e68a3ba4e "xelatex"
+  "main.out" 1770579247.21105 6957 0bed1ebe1ebb29aa44eed48e68a3ba4e "xelatex"
   "main.tex" 1770574655.11492 5987 1ec8a92c45f04bc40d4004aec1add0ff ""
   "resources/images/busqueda-estudios/busqueda-bd.png" 1770588660 107019 fe8a03184a901af3cdda2835aa82b61c ""
   "resources/images/busqueda-estudios/busqueda-snowball.png" 1770588660 78516 d990184c485657b3cd5398625cdcc102 ""
@@ -206,7 +206,7 @@
   "sections/related-works.tex" 1770578762.24463 4218 58725ce86bc00c53eb474351cadbad05 ""
   "sections/review-method/00-review-method.tex" 1770574655.10722 1296 3358e3e854d0859fc5617b37ec3398a1 ""
   "sections/review-method/01-planning.tex" 1770574655.10724 8658 3fc870084807e324bfc99a9088ac01c7 ""
-  "sections/review-method/02-search-studies.tex" 1770578591.53844 10530 b1a7d1ee38d6804111b7d520d1ed3e27 ""
+  "sections/review-method/02-search-studies.tex" 1770579245.01046 10529 e31ad2d9f2eca1726edb36d27bd2f953 ""
   "sections/review-method/03-quality-assessment.tex" 1770574655.10723 1730 de85146f21d77c13363f811ddd73c894 ""
   "sections/review-method/04-data-extraction.tex" 1770574655.12485 247 7d76c5326b905854513df1fa0bcfeb88 ""
   "sections/review-method/05-study-clasification.tex" 1770574655.13644 698 330276ecdf9517aa2ec5ca12941ca848 ""
