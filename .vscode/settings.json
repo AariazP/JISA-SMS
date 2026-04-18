@@ -17,5 +17,11 @@
       "name": "latexmk (xelatex)",
       "tools": ["latexmk"]
     }
-  ]
+  ],
+  "chat.tools.terminal.autoApprove": {
+    "/^find \\. -iname 'academicons\\.ttf' && kpsewhich academicons\\.ttf$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
 }

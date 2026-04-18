@@ -1,0 +1,8 @@
+\ProvidesFile{TUacademicons.fd}[2026/04/17 Font definitions for academicons]
+
+\DeclareFontFamily{TU}{academicons}{}
+\DeclareFontShape{TU}{academicons}{m}{n}{
+  <-> "academicons.ttf"
+}{}
+
+\endinput
