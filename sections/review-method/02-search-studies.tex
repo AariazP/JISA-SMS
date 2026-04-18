@@ -17,7 +17,7 @@ Two complementary strategies were combined. The first involves automated search 
 This strategy comprises two phases: \textit{Study Identification} (search string construction and execution) and \textit{Study Selection} (criteria-based refinement).
 
 \begin{itemize}
-    \item \textbf{Study Identification:} Five databases were queried: \textit{ACM}, \textit{IEEE Xplore}, \textit{Springer}, \textit{Science Direct}, and \textit{Taylor \& Francis}. Keywords were derived from the PICOC model (Table~\ref{tab:palabras-clave}) and expanded with synonyms (Table~\ref{tab:keywords}). Boolean operators (\textit{AND}, \textit{OR}) and exact-phrase matching were used to construct database-specific search strings through iterative pilot searches. The complete search strings are available via the reproducibility artifacts (Section~\ref{sec:reproducibility-review-method}).
+    \item \textbf{Study Identification:} Five databases were queried: \textit{ACM}, \textit{IEEE Xplore}, \textit{Springer}, \textit{Science Direct}, and \textit{Taylor \& Francis}. Keywords were derived from the PICOC model (Table~\ref{tab:palabras-clave}) and expanded with synonyms (Table~\ref{tab:keywords}). Boolean operators (\textit{AND}, \textit{OR}) and exact-phrase matching were used to construct database-specific search strings. Complete search strings are available via the reproducibility artifacts (Section~\ref{sec:reproducibility-review-method}).
     
     Execution across all databases yielded \textbf{6,530} preliminary results, with Springer contributing the largest share (\textbf{4,562}; 69.8\%). Table~\ref{tab:resultados-busqueda-sin-criterio} details the distribution.
 
@@ -60,7 +60,7 @@ This strategy comprises two phases: \textit{Study Identification} (search string
     \end{tabularx}
 \end{table}
 
-    \item \textbf{Study Selection:} Application of inclusion and exclusion criteria reduced the set to \textbf{976} studies (Table~\ref{tab:resultados-busqueda-criterios}), with Springer maintaining the largest contribution (\textbf{592}; 60.65\%). After removing \textbf{274} duplicates, a screening process (title, abstract, and keyword review) excluded \textbf{593} irrelevant studies, yielding \textbf{110} selected studies from the database strategy. Figure~\ref{fig:resumen-busqueda-bds} summarizes this process.
+    \item \textbf{Study Selection:} Applying inclusion and exclusion criteria reduced the set to \textbf{976} studies (Table~\ref{tab:resultados-busqueda-criterios}). After removing \textbf{274} duplicates, title, abstract, and keyword screening excluded \textbf{593} irrelevant studies, yielding \textbf{110} selected studies. Figure~\ref{fig:resumen-busqueda-bds} summarizes this process.
 \end{itemize}
 \begin{figure}[htbp]
     \centering
@@ -103,16 +103,10 @@ This strategy comprises two phases: \textit{Study Identification} (search string
 
 % sub-subsection 4.2.3
 \subsubsection{Search Strategy 2: Snowballing}
-The snowballing search strategy began with the identification of the base set of articles. This base set was obtained from Search Strategy 1. The procedure consisted of two phases:
-
-The first phase, called \textit{Baseline Construction}, aimed to establish the articles on which a citation and reference analysis would be performed. To form this initial set of studies, several criteria were applied, including the CVI \textit{(Content Validity Index)}, the SCI \textit{(Scientific Citation Index)}, and the direct inclusion criterion. The second phase, called \textit{Study Selection}, focused on the analysis of references \textit{(Backward Snowballing)} and citations \textit{(Forward Snowballing)} corresponding to each article \cite{10.1145/2601248.2601268}.
-
-Baseline construction started from the \textbf{110} articles obtained through the database search strategy. From this set, \textbf{25} articles were selected using the SCI quality criterion. This criterion was chosen because it relies on the number of citations received by each article rather than on evaluator judgment, thus providing an objective indicator of academic impact. Selection was performed through citation frequency analysis, extracting the first quartile \textbf{(Q1)} corresponding to the most-cited articles.
-As part of the SMS process, studies can also be incorporated through direct inclusion, whereby an article previously known to the authors is added without originating from a database search. This procedure adds flexibility by allowing the integration of works deemed relevant to the research objectives. In this case, one article was incorporated through direct inclusion, bringing the total to \textbf{26} articles in the baseline.
-
-After baseline construction, reference analysis was performed. The forward search was conducted using Google Scholar following the practices described in~\cite{8747000}, identifying a total of \textbf{495} new articles. The backward search yielded \textbf{87} additional articles.
-
-\textbf{14} duplicate articles were removed from the backward and forward search results. Subsequently, the \textit{Screening} process was applied again, consisting of title, abstract, and keyword review as in the previous phase. This procedure reduced the set to \textbf{116} articles selected through the snowballing search strategy. Figure~\ref{fig:resumen-busqueda-snowballing} presents a summary of the process followed in this search strategy.
+The snowballing strategy comprised two phases: \textit{Baseline Construction}, which established a seed set from the database results using the CVI, SCI, and direct inclusion criteria; and \textit{Study Selection}, which extended coverage through backward (reference) and forward (citation) analysis of each seed article~\cite{10.1145/2601248.2601268}.
+Baseline construction started from the \textbf{110} database results. From this set, \textbf{25} articles were selected using the SCI criterion (first quartile by citation count), which provides an objective, evaluator-independent measure of academic impact.
+Direct inclusion was additionally applied as a complementary strategy to capture relevant works not indexed or not retrievable through the automated queries~\cite{jalali2012systematic}. All candidate studies were evaluated against the same inclusion and exclusion criteria used in the standard protocol; of the initial set of known studies considered, only one satisfied all requirements and was retained, bringing the baseline total to \textbf{26} studies.
+Forward snowballing via Google Scholar~\cite{8747000} identified \textbf{495} new articles; backward snowballing yielded \textbf{87}. After removing \textbf{14} duplicates and applying the same title, abstract, and keyword screening, \textbf{116} studies were selected through this strategy. Figure~\ref{fig:resumen-busqueda-snowballing} summarizes the process.
 
 % sub-subsection 4.2.4
 \subsubsection{Results of the Study Search}\label{subsubsec:resultados-busqueda}
